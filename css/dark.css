@@ -1,0 +1,13 @@
+:root {
+   --label-primary: rgba(255, 255, 255, 0.8);
+   --label-secondary: rgba(255, 255, 255, 0.4);
+
+   --fill-primary:  rgba(255, 255, 255, 0.12);
+   --fill-secondary:  rgba(255, 255, 255, 0.08);
+   --fill-tertiary: rgba(255, 255, 255, 0.06);
+
+   --link-hover: rgba(229, 0, 31, 1);
+
+   --system-background: rgba(19, 19, 20, 1);
+   --h1: 0.01em;
+}
