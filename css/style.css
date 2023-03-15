@@ -1,24 +1,27 @@
-@import url(https://fonts.googleapis.com/css?family=Inter:500);
-@import url(https://fonts.googleapis.com/css?family=DM+Mono:500);
 * {
   padding: 0;
   margin: 0;
   border: 0;
 }
 
-*, *:before, *:after {
+*,
+*:before,
+*:after {
   box-sizing: border-box;
 }
 
-:focus, :active {
+:focus,
+:active {
   outline: none;
 }
 
-a:focus, a:active {
+a:focus,
+a:active {
   outline: none;
 }
 
-html, body {
+html,
+body {
   font-family: Inter;
   font-weight: 500;
   height: 100%;
@@ -31,7 +34,9 @@ html, body {
   -webkit-text-size-adjust: 100%;
 }
 
-input, button, textarea {
+input,
+button,
+textarea {
   font-family: inherit;
 }
 
@@ -52,7 +57,8 @@ a {
   color: var(--label-primary);
 }
 
-a, a:visited {
+a,
+a:visited {
   text-decoration: none;
 }
 
@@ -60,7 +66,8 @@ a:hover {
   text-decoration: none;
 }
 
-ul, li {
+ul,
+li {
   list-style: none;
 }
 
@@ -68,7 +75,12 @@ img {
   vertical-align: top;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-size: inherit;
   font-weight: 500;
 }
@@ -109,9 +121,10 @@ h1, h2, h3, h4, h5, h6 {
   justify-content: space-between;
 }
 
-#photo {
+.about__photo {
+  width: 120px;
   position: fixed;
-  top: 1px;
+  top: 0px;
   left: 0px;
   display: none;
 }
@@ -178,28 +191,28 @@ span:hover {
   padding: 0px 8px;
 }
 
-#sensor {
+.picture__sensor {
   position: absolute;
   top: 0px;
   left: 456px;
   display: none;
 }
 
-#coderview {
+.picture__coderview {
   position: absolute;
   top: 0px;
   left: 456px;
   display: none;
 }
 
-#marveling {
+.picture__marveling {
   position: absolute;
   top: 0px;
   left: 456px;
   display: none;
 }
 
-#random-images {
+.picture__random-images {
   position: absolute;
   top: 0px;
   left: 456px;
@@ -264,19 +277,19 @@ span:hover {
   .contacts__link:active {
     color: var(--label-secondary);
   }
-  .row__column:hover #sensor {
+  .row__column:hover .picture__sensor {
     display: block;
   }
-  .row__column:hover #coderview {
+  .row__column:hover .picture__coderview {
     display: block;
   }
-  .row__column:hover #marveling {
+  .row__column:hover .picture__marveling {
     display: block;
   }
-  .row__column:hover #random-images {
+  .row__column:hover .picture__random-images {
     display: block;
   }
-  span:hover #photo {
+  span:hover .about__photo {
     display: block;
   }
 }

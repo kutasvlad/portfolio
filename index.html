@@ -5,11 +5,14 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
         <meta name="color-scheme" content="light dark">
-        <title>KUTASVLAD</title>
+        <title>Vlad Kutas</title>
+        <link href="https://fonts.googleapis.com/css?family=Inter:500" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css?family=DM+Mono:500" rel="stylesheet" />
         <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/light.css" media="(prefers-color-scheme: light)" >
         <link rel="stylesheet" href="css/dark.css" media="(prefers-color-scheme: dark)">
-        <link rel="shortcut icon" href="./img/favicon/favicon.ico">
+        <link rel="icon" href="/img/favicon/favicon.ico" sizes="any">
+        <link rel="icon" href="/img/favicon/icon.svg" type="image/svg+xml">
     </head>
     <body>
        <div class="wrapper">
@@ -20,14 +23,12 @@
                         <div class="info__about about">
                             <div class="about__body">
                                 <h1 class="about__title">
-                                    <span class="about__photo">Vlad Kutas<picture id="photo">
-                                            <source srcset="./img/photo/Photo2x.png 2x, ./img/photo/Photo3x.png 3x">
-                                            <img src="./img/photo/Photo1x.png" alt="my photo">
-                                        </picture></span>, Product designer
+                                    <span class="about__name-hover">Vlad Kutas<img class="about__photo" src="./img/photo/Photo3x.webp"
+                                            alt="my photo"></span>, Product Designer
                                 </h1>
                                 <div class="about__text">
                                     <p>Minsk, Belarus</p>
-                                    <p>Open to collaborate </p>
+                                    <p>Open to collaborate</p>
                                 </div>
                             </div>
                             <svg class="about__image" width="50" height="66" viewBox="0 0 50 66" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -68,12 +69,9 @@
                                             <path d="M3.325 11.375L2.40625 10.4563L8.70625 4.15625H3.0625V2.84375H10.9375V10.7188H9.625V5.075L3.325 11.375Z" fill="black"/>
                                         </svg>
                                     </div>
-                                    <picture class="column__picture" id="sensor">
-                                        <source
-                                            srcset="./img/sensor/sensor-dark1x.png 1x, ./img/sensor/sensor-dark2x.png 2x, ./img/sensor/sensor-dark3x.png 3x "
-                                            media="(prefers-color-scheme: dark)">
-                                        <source srcset="./img/sensor/sensor-light2x.png 2x, ./img/sensor/sensor-light3x.png 3x">
-                                        <img src="./img/sensor/sensor-light1x.png" alt="Work preview">
+                                    <picture class="column__picture picture__sensor">
+                                        <source type="image/webp" srcset="./img/sensor/sensor-dark3x.webp " media="(prefers-color-scheme: dark)">
+                                        <img src="./img/sensor/sensor-light3x.webp" alt="Work preview" width="271px">
                                     </picture>
                                 </div>
                             </a>
@@ -90,12 +88,9 @@
                                             <path d="M3.325 11.375L2.40625 10.4563L8.70625 4.15625H3.0625V2.84375H10.9375V10.7188H9.625V5.075L3.325 11.375Z" fill="black"/>
                                         </svg>
                                     </div>
-                                    <picture class="column__picture" id="coderview">
-                                        <source
-                                            srcset="./img/coderview/coderview-dark1x.png 1x, ./img/coderview/coderview-dark2x.png 2x, ./img/coderview/coderview-dark@3x.png 3x "
-                                            media="(prefers-color-scheme: dark)">
-                                        <source srcset="./img/coderview/coderview-light2x.png 2x, ./img/coderview/coderview-light3x.png 3x">
-                                        <img src="./img/coderview/coderview-light1x.png" alt="Work preview">
+                                    <picture class="column__picture picture__coderview">
+                                        <source type="image/webp" srcset="./img/coderview/coderview-dark3x.webp " media="(prefers-color-scheme: dark)">
+                                        <img src="./img/coderview/coderview-light3x.webp" alt="Work preview" width="271px">
                                     </picture>
                                 </div>
                             </a>
@@ -112,12 +107,9 @@
                                             <path d="M3.325 11.375L2.40625 10.4563L8.70625 4.15625H3.0625V2.84375H10.9375V10.7188H9.625V5.075L3.325 11.375Z" fill="black"/>
                                         </svg>
                                     </div>
-                                    <picture class="column__picture" id="marveling">
-                                        <source
-                                            srcset="./img/marveling/marveling-dark1x.png 1x, ./img/marveling/marveling-dark2x.png 2x, ./img/marveling/marveling-dark3x.png 3x "
-                                            media="(prefers-color-scheme: dark)">
-                                        <source srcset="./img/marveling/marveling-light2x.png 2x, ./img/marveling/marveling-light3x.png 3x">
-                                        <img src="./img/marveling/marveling-light1x.png" alt="Work preview">
+                                    <picture class="column__picture picture__marveling">
+                                        <source type="image/webp" srcset="./img/marveling/marveling-dark3x.webp" media="(prefers-color-scheme: dark)">
+                                        <img src="./img/marveling/marveling-light3x.webp" alt="Work preview" width="271px">
                                     </picture>
                                 </div>
                             </a>
@@ -134,12 +126,10 @@
                                             <path d="M3.325 11.375L2.40625 10.4563L8.70625 4.15625H3.0625V2.84375H10.9375V10.7188H9.625V5.075L3.325 11.375Z" fill="black"/>
                                         </svg>
                                     </div>
-                                    <picture class="column__picture" id="random-images">
-                                        <source
-                                            srcset="./img/random-images/random-images-dark1x.png 1x, ./img/random-images/random-images-dark2x.png 2x, ./img/random-images/random-images-dark3x.png 3x "
+                                    <picture class="column__picture picture__random-images">
+                                        <source type="image/webp" srcset="./img/random-images/random-images-dark3x.webp"
                                             media="(prefers-color-scheme: dark)">
-                                        <source srcset="./img/random-images/random-images-light2x.png 2x, ./img/random-images/random-images-light3x.png 3x">
-                                        <img src="./img/random-images/random-images-light1x.png" alt="Work preview">
+                                        <img src="./img/random-images/random-images-light3x.webp" alt="Work preview" width="271px">
                                     </picture>
                                 </div>
                             </a>
