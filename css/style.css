@@ -96,7 +96,7 @@ h6 {
 }
 
 .container {
-  max-width: 480px;
+  max-width: 468px;
   box-sizing: border-box;
   margin: 0px auto;
 }
@@ -134,12 +134,12 @@ span:hover {
 }
 
 .about__title {
-  line-height: 24px;
+  line-height: 22px;
   letter-spacing: var(--h1);
 }
 
 .about__text {
-  line-height: 24px;
+  line-height: 22px;
   letter-spacing: var(--h1);
 }
 
