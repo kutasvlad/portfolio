@@ -1,0 +1,5188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>color brightness</key>
+	<real>0.0</real>
+	<key>color saturation</key>
+	<real>1</real>
+	<key>colorize layers</key>
+	<false/>
+	<key>document size</key>
+	<string>{800, 600}</string>
+	<key>document units</key>
+	<integer>3</integer>
+	<key>hue angle</key>
+	<real>0.0</real>
+	<key>layers</key>
+	<array>
+		<dict>
+			<key>Height Meter</key>
+			<real>353.55340576171875</real>
+			<key>color brightness</key>
+			<real>0.0</real>
+			<key>color saturation</key>
+			<real>1</real>
+			<key>colorize</key>
+			<false/>
+			<key>data source</key>
+			<dict>
+				<key>allow transformation</key>
+				<false/>
+				<key>layer source type</key>
+				<integer>1</integer>
+				<key>path</key>
+				<data>
+				YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hp
+				dmVyVCR0b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRB
+				cmNoaXZlctEICVRyb290gAGjCwwXVSRudWxs1Q0ODxAR
+				EhMUFRZbTlNKb2luU3R5bGVaTlNTZWdtZW50c1pOU0Zs
+				YXRuZXNzW05TTGluZVdpZHRoViRjbGFzcxABTxB1AAAA
+				AABDAAAAAgAAAABDAAAAAkMAAABDAAAAAkMAAABDAAAA
+				AkMAAABDAAAAAkMAAAAAAAAAAkMAAAAAAAAAAkMAAAAA
+				AAAAAgAAAAAAAAAAAgAAAAAAAAAAAgAAAAAAAAAAAgAA
+				AABDAAAAAgAAAABDAAAAIz+UeuFHrhR7Iz/gAAAAAAAA
+				gALSGBkaG1okY2xhc3NuYW1lWCRjbGFzc2VzXE5TQmV6
+				aWVyUGF0aKIcHVxOU0JlemllclBhdGhYTlNPYmplY3QA
+				CAARABoAJAApADIANwBJAEwAUQBTAFcAXQBoAHQAfwCK
+				AJYAnQCfARcBIAEpASsBMAE7AUQBUQFUAWEAAAAAAAAC
+				AQAAAAAAAAAeAAAAAAAAAAAAAAAAAAABag==
+				</data>
+				<key>shape</key>
+				<integer>41</integer>
+				<key>shape param 1</key>
+				<real>3.4028234663852886e+38</real>
+				<key>shape param 2</key>
+				<real>3.4028234663852886e+38</real>
+				<key>spline dots</key>
+				<array>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{0, 128}</string>
+						<key>controlPoint2</key>
+						<string>{0, 128}</string>
+						<key>point</key>
+						<string>{0, 128}</string>
+						<key>tag</key>
+						<integer>2</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{128, 128}</string>
+						<key>controlPoint2</key>
+						<string>{128, 128}</string>
+						<key>point</key>
+						<string>{128, 128}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{128, 0}</string>
+						<key>controlPoint2</key>
+						<string>{128, 0}</string>
+						<key>point</key>
+						<string>{128, 0}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{0, 0}</string>
+						<key>controlPoint2</key>
+						<string>{0, 0}</string>
+						<key>point</key>
+						<string>{0, 0}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{0, 128}</string>
+						<key>controlPoint2</key>
+						<string>{0, 128}</string>
+						<key>point</key>
+						<string>{0, 128}</string>
+						<key>tag</key>
+						<integer>2</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>dataProvider 2D</key>
+			<dict>
+				<key>transform unit</key>
+				<dict>
+					<key>transform factor 1</key>
+					<real>0.0</real>
+					<key>transform factor 2</key>
+					<real>0.0</real>
+					<key>transform splines</key>
+					<dict>
+						<key>transform count points</key>
+						<integer>0</integer>
+						<key>transform count splines</key>
+						<integer>0</integer>
+					</dict>
+					<key>transform type</key>
+					<integer>301</integer>
+				</dict>
+			</dict>
+			<key>hue angle</key>
+			<real>0.0</real>
+			<key>layer angle</key>
+			<real>0.0</real>
+			<key>layer composite operation</key>
+			<integer>0</integer>
+			<key>layer flip x</key>
+			<false/>
+			<key>layer flip y</key>
+			<false/>
+			<key>layer is3D</key>
+			<false/>
+			<key>layer locked</key>
+			<false/>
+			<key>layer opacity</key>
+			<real>1</real>
+			<key>layer origin</key>
+			<string>{0, 0}</string>
+			<key>layer size</key>
+			<string>{800, 600}</string>
+			<key>layer size3DScale</key>
+			<real>1</real>
+			<key>layer tag</key>
+			<integer>100</integer>
+			<key>layer version</key>
+			<real>822</real>
+			<key>layer visible</key>
+			<false/>
+			<key>style unit</key>
+			<dict>
+				<key>colorize color</key>
+				<data>
+				YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hp
+				dmVyVCR0b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRB
+				cmNoaXZlctEICVRyb290gAGmCwwXHR4lVSRudWxs1Q0O
+				DxAREhMUFRZcTlNDb21wb25lbnRzVU5TUkdCXE5TQ29s
+				b3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZVYkY2xh
+				c3NHMCAwIDEgMU8QETAgMCAwLjk5ODE5OTIyNDUAEAGA
+				AoAF0xgZERobHFROU0lEVU5TSUNDEAeAA4AETxEMSAAA
+				DEhMaW5vAhAAAG1udHJSR0IgWFlaIAfOAAIACQAGADEA
+				AGFjc3BNU0ZUAAAAAElFQyBzUkdCAAAAAAAAAAAAAAAA
+				AAD21gABAAAAANMtSFAgIAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEWNw
+				cnQAAAFQAAAAM2Rlc2MAAAGEAAAAbHd0cHQAAAHwAAAA
+				FGJrcHQAAAIEAAAAFHJYWVoAAAIYAAAAFGdYWVoAAAIs
+				AAAAFGJYWVoAAAJAAAAAFGRtbmQAAAJUAAAAcGRtZGQA
+				AALEAAAAiHZ1ZWQAAANMAAAAhnZpZXcAAAPUAAAAJGx1
+				bWkAAAP4AAAAFG1lYXMAAAQMAAAAJHRlY2gAAAQwAAAA
+				DHJUUkMAAAQ8AAAIDGdUUkMAAAQ8AAAIDGJUUkMAAAQ8
+				AAAIDHRleHQAAAAAQ29weXJpZ2h0IChjKSAxOTk4IEhl
+				d2xldHQtUGFja2FyZCBDb21wYW55AABkZXNjAAAAAAAA
+				ABJzUkdCIElFQzYxOTY2LTIuMQAAAAAAAAAAAAAAEnNS
+				R0IgSUVDNjE5NjYtMi4xAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABY
+				WVogAAAAAAAA81EAAQAAAAEWzFhZWiAAAAAAAAAAAAAA
+				AAAAAAAAWFlaIAAAAAAAAG+iAAA49QAAA5BYWVogAAAA
+				AAAAYpkAALeFAAAY2lhZWiAAAAAAAAAkoAAAD4QAALbP
+				ZGVzYwAAAAAAAAAWSUVDIGh0dHA6Ly93d3cuaWVjLmNo
+				AAAAAAAAAAAAAAAWSUVDIGh0dHA6Ly93d3cuaWVjLmNo
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAGRlc2MAAAAAAAAALklFQyA2MTk2
+				Ni0yLjEgRGVmYXVsdCBSR0IgY29sb3VyIHNwYWNlIC0g
+				c1JHQgAAAAAAAAAAAAAALklFQyA2MTk2Ni0yLjEgRGVm
+				YXVsdCBSR0IgY29sb3VyIHNwYWNlIC0gc1JHQgAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAABkZXNjAAAAAAAAACxSZWZl
+				cmVuY2UgVmlld2luZyBDb25kaXRpb24gaW4gSUVDNjE5
+				NjYtMi4xAAAAAAAAAAAAAAAsUmVmZXJlbmNlIFZpZXdp
+				bmcgQ29uZGl0aW9uIGluIElFQzYxOTY2LTIuMQAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAdmlldwAAAAAAE6T+
+				ABRfLgAQzxQAA+3MAAQTCwADXJ4AAAABWFlaIAAAAAAA
+				TAlWAFAAAABXH+dtZWFzAAAAAAAAAAEAAAAAAAAAAAAA
+				AAAAAAAAAAACjwAAAAJzaWcgAAAAAENSVCBjdXJ2AAAA
+				AAAABAAAAAAFAAoADwAUABkAHgAjACgALQAyADcAOwBA
+				AEUASgBPAFQAWQBeAGMAaABtAHIAdwB8AIEAhgCLAJAA
+				lQCaAJ8ApACpAK4AsgC3ALwAwQDGAMsA0ADVANsA4ADl
+				AOsA8AD2APsBAQEHAQ0BEwEZAR8BJQErATIBOAE+AUUB
+				TAFSAVkBYAFnAW4BdQF8AYMBiwGSAZoBoQGpAbEBuQHB
+				AckB0QHZAeEB6QHyAfoCAwIMAhQCHQImAi8COAJBAksC
+				VAJdAmcCcQJ6AoQCjgKYAqICrAK2AsECywLVAuAC6wL1
+				AwADCwMWAyEDLQM4A0MDTwNaA2YDcgN+A4oDlgOiA64D
+				ugPHA9MD4APsA/kEBgQTBCAELQQ7BEgEVQRjBHEEfgSM
+				BJoEqAS2BMQE0wThBPAE/gUNBRwFKwU6BUkFWAVnBXcF
+				hgWWBaYFtQXFBdUF5QX2BgYGFgYnBjcGSAZZBmoGewaM
+				Bp0GrwbABtEG4wb1BwcHGQcrBz0HTwdhB3QHhgeZB6wH
+				vwfSB+UH+AgLCB8IMghGCFoIbgiCCJYIqgi+CNII5wj7
+				CRAJJQk6CU8JZAl5CY8JpAm6Cc8J5Qn7ChEKJwo9ClQK
+				agqBCpgKrgrFCtwK8wsLCyILOQtRC2kLgAuYC7ALyAvh
+				C/kMEgwqDEMMXAx1DI4MpwzADNkM8w0NDSYNQA1aDXQN
+				jg2pDcMN3g34DhMOLg5JDmQOfw6bDrYO0g7uDwkPJQ9B
+				D14Peg+WD7MPzw/sEAkQJhBDEGEQfhCbELkQ1xD1ERMR
+				MRFPEW0RjBGqEckR6BIHEiYSRRJkEoQSoxLDEuMTAxMj
+				E0MTYxODE6QTxRPlFAYUJxRJFGoUixStFM4U8BUSFTQV
+				VhV4FZsVvRXgFgMWJhZJFmwWjxayFtYW+hcdF0EXZReJ
+				F64X0hf3GBsYQBhlGIoYrxjVGPoZIBlFGWsZkRm3Gd0a
+				BBoqGlEadxqeGsUa7BsUGzsbYxuKG7Ib2hwCHCocUhx7
+				HKMczBz1HR4dRx1wHZkdwx3sHhYeQB5qHpQevh7pHxMf
+				Ph9pH5Qfvx/qIBUgQSBsIJggxCDwIRwhSCF1IaEhziH7
+				IiciVSKCIq8i3SMKIzgjZiOUI8Ij8CQfJE0kfCSrJNol
+				CSU4JWgllyXHJfcmJyZXJocmtyboJxgnSSd6J6sn3CgN
+				KD8ocSiiKNQpBik4KWspnSnQKgIqNSpoKpsqzysCKzYr
+				aSudK9EsBSw5LG4soizXLQwtQS12Last4S4WLkwugi63
+				Lu4vJC9aL5Evxy/+MDUwbDCkMNsxEjFKMYIxujHyMioy
+				YzKbMtQzDTNGM38zuDPxNCs0ZTSeNNg1EzVNNYc1wjX9
+				Njc2cjauNuk3JDdgN5w31zgUOFA4jDjIOQU5Qjl/Obw5
+				+To2OnQ6sjrvOy07azuqO+g8JzxlPKQ84z0iPWE9oT3g
+				PiA+YD6gPuA/IT9hP6I/4kAjQGRApkDnQSlBakGsQe5C
+				MEJyQrVC90M6Q31DwEQDREdEikTORRJFVUWaRd5GIkZn
+				RqtG8Ec1R3tHwEgFSEtIkUjXSR1JY0mpSfBKN0p9SsRL
+				DEtTS5pL4kwqTHJMuk0CTUpNk03cTiVObk63TwBPSU+T
+				T91QJ1BxULtRBlFQUZtR5lIxUnxSx1MTU19TqlP2VEJU
+				j1TbVShVdVXCVg9WXFapVvdXRFeSV+BYL1h9WMtZGllp
+				WbhaB1pWWqZa9VtFW5Vb5Vw1XIZc1l0nXXhdyV4aXmxe
+				vV8PX2Ffs2AFYFdgqmD8YU9homH1YklinGLwY0Njl2Pr
+				ZEBklGTpZT1lkmXnZj1mkmboZz1nk2fpaD9olmjsaUNp
+				mmnxakhqn2r3a09rp2v/bFdsr20IbWBtuW4SbmtuxG8e
+				b3hv0XArcIZw4HE6cZVx8HJLcqZzAXNdc7h0FHRwdMx1
+				KHWFdeF2Pnabdvh3VnezeBF4bnjMeSp5iXnnekZ6pXsE
+				e2N7wnwhfIF84X1BfaF+AX5ifsJ/I3+Ef+WAR4CogQqB
+				a4HNgjCCkoL0g1eDuoQdhICE44VHhauGDoZyhteHO4ef
+				iASIaYjOiTOJmYn+imSKyoswi5aL/IxjjMqNMY2Yjf+O
+				Zo7OjzaPnpAGkG6Q1pE/kaiSEZJ6kuOTTZO2lCCUipT0
+				lV+VyZY0lp+XCpd1l+CYTJi4mSSZkJn8mmia1ZtCm6+c
+				HJyJnPedZJ3SnkCerp8dn4uf+qBpoNihR6G2oiailqMG
+				o3aj5qRWpMelOKWpphqmi6b9p26n4KhSqMSpN6mpqhyq
+				j6sCq3Wr6axcrNCtRK24ri2uoa8Wr4uwALB1sOqxYLHW
+				skuywrM4s660JbSctRO1irYBtnm28Ldot+C4WbjRuUq5
+				wro7urW7LrunvCG8m70VvY++Cr6Evv+/er/1wHDA7MFn
+				wePCX8Lbw1jD1MRRxM7FS8XIxkbGw8dBx7/IPci8yTrJ
+				uco4yrfLNsu2zDXMtc01zbXONs62zzfPuNA50LrRPNG+
+				0j/SwdNE08bUSdTL1U7V0dZV1tjXXNfg2GTY6Nls2fHa
+				dtr724DcBdyK3RDdlt4c3qLfKd+v4DbgveFE4cziU+Lb
+				42Pj6+Rz5PzlhOYN5pbnH+ep6DLovOlG6dDqW+rl63Dr
+				++yG7RHtnO4o7rTvQO/M8Fjw5fFy8f/yjPMZ86f0NPTC
+				9VD13vZt9vv3ivgZ+Kj5OPnH+lf65/t3/Af8mP0p/br+
+				S/7c/23//9IfICEiWiRjbGFzc25hbWVYJGNsYXNzZXNc
+				TlNDb2xvclNwYWNloiMkXE5TQ29sb3JTcGFjZVhOU09i
+				amVjdNIfICYnV05TQ29sb3KiJiQACAARABoAJAApADIA
+				NwBJAEwAUQBTAFoAYABrAHgAfgCLAKAApwCvAMMAxQDH
+				AMkA0ADVANsA3QDfAOENLQ0yDT0NRg1TDVYNYw1sDXEN
+				eQAAAAAAAAIBAAAAAAAAACgAAAAAAAAAAAAAAAAAAA18
+				</data>
+				<key>fill</key>
+				<true/>
+				<key>fill with solid color</key>
+				<false/>
+				<key>filling type</key>
+				<integer>0</integer>
+				<key>glow unit</key>
+				<dict>
+					<key>effect scale factor</key>
+					<real>2.8284270033986356</real>
+					<key>glow blur</key>
+					<real>5</real>
+					<key>glow color</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25Z
+					JGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGG
+					oF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290
+					gAGmCwwXHR4lVSRudWxs1Q0ODxAREhMUFRZc
+					TlNDb21wb25lbnRzVU5TUkdCXE5TQ29sb3JT
+					cGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZVYk
+					Y2xhc3NKMSAwLjc4IDAgMU8QKDAuOTk0Njcy
+					MTc5MiAwLjczOTg3MzIzMDUgMC4wMzY0MDYz
+					MTU4NgAQAYACgAXTGBkRGhscVE5TSURVTlNJ
+					Q0MQB4ADgARPEQxIAAAMSExpbm8CEAAAbW50
+					clJHQiBYWVogB84AAgAJAAYAMQAAYWNzcE1T
+					RlQAAAAASUVDIHNSR0IAAAAAAAAAAAAAAAAA
+					APbWAAEAAAAA0y1IUCAgAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAARY3BydAAAAVAAAAAzZGVzYwAA
+					AYQAAABsd3RwdAAAAfAAAAAUYmtwdAAAAgQA
+					AAAUclhZWgAAAhgAAAAUZ1hZWgAAAiwAAAAU
+					YlhZWgAAAkAAAAAUZG1uZAAAAlQAAABwZG1k
+					ZAAAAsQAAACIdnVlZAAAA0wAAACGdmlldwAA
+					A9QAAAAkbHVtaQAAA/gAAAAUbWVhcwAABAwA
+					AAAkdGVjaAAABDAAAAAMclRSQwAABDwAAAgM
+					Z1RSQwAABDwAAAgMYlRSQwAABDwAAAgMdGV4
+					dAAAAABDb3B5cmlnaHQgKGMpIDE5OTggSGV3
+					bGV0dC1QYWNrYXJkIENvbXBhbnkAAGRlc2MA
+					AAAAAAAAEnNSR0IgSUVDNjE5NjYtMi4xAAAA
+					AAAAAAAAAAASc1JHQiBJRUM2MTk2Ni0yLjEA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAFhZWiAA
+					AAAAAADzUQABAAAAARbMWFlaIAAAAAAAAAAA
+					AAAAAAAAAABYWVogAAAAAAAAb6IAADj1AAAD
+					kFhZWiAAAAAAAABimQAAt4UAABjaWFlaIAAA
+					AAAAACSgAAAPhAAAts9kZXNjAAAAAAAAABZJ
+					RUMgaHR0cDovL3d3dy5pZWMuY2gAAAAAAAAA
+					AAAAABZJRUMgaHR0cDovL3d3dy5pZWMuY2gA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAZGVzYwAAAAAA
+					AAAuSUVDIDYxOTY2LTIuMSBEZWZhdWx0IFJH
+					QiBjb2xvdXIgc3BhY2UgLSBzUkdCAAAAAAAA
+					AAAAAAAuSUVDIDYxOTY2LTIuMSBEZWZhdWx0
+					IFJHQiBjb2xvdXIgc3BhY2UgLSBzUkdCAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAGRlc2MAAAAA
+					AAAALFJlZmVyZW5jZSBWaWV3aW5nIENvbmRp
+					dGlvbiBpbiBJRUM2MTk2Ni0yLjEAAAAAAAAA
+					AAAAACxSZWZlcmVuY2UgVmlld2luZyBDb25k
+					aXRpb24gaW4gSUVDNjE5NjYtMi4xAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAB2aWV3AAAA
+					AAATpP4AFF8uABDPFAAD7cwABBMLAANcngAA
+					AAFYWVogAAAAAABMCVYAUAAAAFcf521lYXMA
+					AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAKP
+					AAAAAnNpZyAAAAAAQ1JUIGN1cnYAAAAAAAAE
+					AAAAAAUACgAPABQAGQAeACMAKAAtADIANwA7
+					AEAARQBKAE8AVABZAF4AYwBoAG0AcgB3AHwA
+					gQCGAIsAkACVAJoAnwCkAKkArgCyALcAvADB
+					AMYAywDQANUA2wDgAOUA6wDwAPYA+wEBAQcB
+					DQETARkBHwElASsBMgE4AT4BRQFMAVIBWQFg
+					AWcBbgF1AXwBgwGLAZIBmgGhAakBsQG5AcEB
+					yQHRAdkB4QHpAfIB+gIDAgwCFAIdAiYCLwI4
+					AkECSwJUAl0CZwJxAnoChAKOApgCogKsArYC
+					wQLLAtUC4ALrAvUDAAMLAxYDIQMtAzgDQwNP
+					A1oDZgNyA34DigOWA6IDrgO6A8cD0wPgA+wD
+					+QQGBBMEIAQtBDsESARVBGMEcQR+BIwEmgSo
+					BLYExATTBOEE8AT+BQ0FHAUrBToFSQVYBWcF
+					dwWGBZYFpgW1BcUF1QXlBfYGBgYWBicGNwZI
+					BlkGagZ7BowGnQavBsAG0QbjBvUHBwcZBysH
+					PQdPB2EHdAeGB5kHrAe/B9IH5Qf4CAsIHwgy
+					CEYIWghuCIIIlgiqCL4I0gjnCPsJEAklCToJ
+					TwlkCXkJjwmkCboJzwnlCfsKEQonCj0KVApq
+					CoEKmAquCsUK3ArzCwsLIgs5C1ELaQuAC5gL
+					sAvIC+EL+QwSDCoMQwxcDHUMjgynDMAM2Qzz
+					DQ0NJg1ADVoNdA2ODakNww3eDfgOEw4uDkkO
+					ZA5/DpsOtg7SDu4PCQ8lD0EPXg96D5YPsw/P
+					D+wQCRAmEEMQYRB+EJsQuRDXEPURExExEU8R
+					bRGMEaoRyRHoEgcSJhJFEmQShBKjEsMS4xMD
+					EyMTQxNjE4MTpBPFE+UUBhQnFEkUahSLFK0U
+					zhTwFRIVNBVWFXgVmxW9FeAWAxYmFkkWbBaP
+					FrIW1hb6Fx0XQRdlF4kXrhfSF/cYGxhAGGUY
+					ihivGNUY+hkgGUUZaxmRGbcZ3RoEGioaURp3
+					Gp4axRrsGxQbOxtjG4obshvaHAIcKhxSHHsc
+					oxzMHPUdHh1HHXAdmR3DHeweFh5AHmoelB6+
+					HukfEx8+H2kflB+/H+ogFSBBIGwgmCDEIPAh
+					HCFIIXUhoSHOIfsiJyJVIoIiryLdIwojOCNm
+					I5QjwiPwJB8kTSR8JKsk2iUJJTglaCWXJccl
+					9yYnJlcmhya3JugnGCdJJ3onqyfcKA0oPyhx
+					KKIo1CkGKTgpaymdKdAqAio1KmgqmyrPKwIr
+					NitpK50r0SwFLDksbiyiLNctDC1BLXYtqy3h
+					LhYuTC6CLrcu7i8kL1ovkS/HL/4wNTBsMKQw
+					2zESMUoxgjG6MfIyKjJjMpsy1DMNM0YzfzO4
+					M/E0KzRlNJ402DUTNU01hzXCNf02NzZyNq42
+					6TckN2A3nDfXOBQ4UDiMOMg5BTlCOX85vDn5
+					OjY6dDqyOu87LTtrO6o76DwnPGU8pDzjPSI9
+					YT2hPeA+ID5gPqA+4D8hP2E/oj/iQCNAZECm
+					QOdBKUFqQaxB7kIwQnJCtUL3QzpDfUPARANE
+					R0SKRM5FEkVVRZpF3kYiRmdGq0bwRzVHe0fA
+					SAVIS0iRSNdJHUljSalJ8Eo3Sn1KxEsMS1NL
+					mkviTCpMcky6TQJNSk2TTdxOJU5uTrdPAE9J
+					T5NP3VAnUHFQu1EGUVBRm1HmUjFSfFLHUxNT
+					X1OqU/ZUQlSPVNtVKFV1VcJWD1ZcVqlW91dE
+					V5JX4FgvWH1Yy1kaWWlZuFoHWlZaplr1W0Vb
+					lVvlXDVchlzWXSddeF3JXhpebF69Xw9fYV+z
+					YAVgV2CqYPxhT2GiYfViSWKcYvBjQ2OXY+tk
+					QGSUZOllPWWSZedmPWaSZuhnPWeTZ+loP2iW
+					aOxpQ2maafFqSGqfavdrT2una/9sV2yvbQht
+					YG25bhJua27Ebx5veG/RcCtwhnDgcTpxlXHw
+					cktypnMBc11zuHQUdHB0zHUodYV14XY+dpt2
+					+HdWd7N4EXhueMx5KnmJeed6RnqlewR7Y3vC
+					fCF8gXzhfUF9oX4BfmJ+wn8jf4R/5YBHgKiB
+					CoFrgc2CMIKSgvSDV4O6hB2EgITjhUeFq4YO
+					hnKG14c7h5+IBIhpiM6JM4mZif6KZIrKizCL
+					lov8jGOMyo0xjZiN/45mjs6PNo+ekAaQbpDW
+					kT+RqJIRknqS45NNk7aUIJSKlPSVX5XJljSW
+					n5cKl3WX4JhMmLiZJJmQmfyaaJrVm0Kbr5wc
+					nImc951kndKeQJ6unx2fi5/6oGmg2KFHobai
+					JqKWowajdqPmpFakx6U4pammGqaLpv2nbqfg
+					qFKoxKk3qamqHKqPqwKrdavprFys0K1Erbiu
+					La6hrxavi7AAsHWw6rFgsdayS7LCszizrrQl
+					tJy1E7WKtgG2ebbwt2i34LhZuNG5SrnCuju6
+					tbsuu6e8IbybvRW9j74KvoS+/796v/XAcMDs
+					wWfB48JfwtvDWMPUxFHEzsVLxcjGRsbDx0HH
+					v8g9yLzJOsm5yjjKt8s2y7bMNcy1zTXNtc42
+					zrbPN8+40DnQutE80b7SP9LB00TTxtRJ1MvV
+					TtXR1lXW2Ndc1+DYZNjo2WzZ8dp22vvbgNwF
+					3IrdEN2W3hzeot8p36/gNuC94UThzOJT4tvj
+					Y+Pr5HPk/OWE5g3mlucf56noMui86Ubp0Opb
+					6uXrcOv77IbtEe2c7ijutO9A78zwWPDl8XLx
+					//KM8xnzp/Q09ML1UPXe9m32+/eK+Bn4qPk4
+					+cf6V/rn+3f8B/yY/Sn9uv5L/tz/bf//0h8g
+					ISJaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0Nv
+					bG9yU3BhY2WiIyRcTlNDb2xvclNwYWNlWE5T
+					T2JqZWN00h8gJidXTlNDb2xvcqImJAAIABEA
+					GgAkACkAMgA3AEkATABRAFMAWgBgAGsAeAB+
+					AIsAoACnALIA3QDfAOEA4wDqAO8A9QD3APkA
+					+w1HDUwNVw1gDW0NcA19DYYNiw2TAAAAAAAA
+					AgEAAAAAAAAAKAAAAAAAAAAAAAAAAAAADZY=
+					</data>
+					<key>glow composite operation</key>
+					<integer>0</integer>
+					<key>glow is tint</key>
+					<false/>
+					<key>glow tint color</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25Z
+					JGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGG
+					oF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290
+					gAGmCwwXHR4lVSRudWxs1Q0ODxAREhMUFRZc
+					TlNDb21wb25lbnRzVU5TUkdCXE5TQ29sb3JT
+					cGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZVYk
+					Y2xhc3NHMSAwIDAgMU8QHTAuOTg1OTU0MTY1
+					NSAwIDAuMDI2OTQwMDUxNDcAEAGAAoAF0xgZ
+					ERobHFROU0lEVU5TSUNDEAeAA4AETxEMSAAA
+					DEhMaW5vAhAAAG1udHJSR0IgWFlaIAfOAAIA
+					CQAGADEAAGFjc3BNU0ZUAAAAAElFQyBzUkdC
+					AAAAAAAAAAAAAAAAAAD21gABAAAAANMtSFAg
+					IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAEWNwcnQA
+					AAFQAAAAM2Rlc2MAAAGEAAAAbHd0cHQAAAHw
+					AAAAFGJrcHQAAAIEAAAAFHJYWVoAAAIYAAAA
+					FGdYWVoAAAIsAAAAFGJYWVoAAAJAAAAAFGRt
+					bmQAAAJUAAAAcGRtZGQAAALEAAAAiHZ1ZWQA
+					AANMAAAAhnZpZXcAAAPUAAAAJGx1bWkAAAP4
+					AAAAFG1lYXMAAAQMAAAAJHRlY2gAAAQwAAAA
+					DHJUUkMAAAQ8AAAIDGdUUkMAAAQ8AAAIDGJU
+					UkMAAAQ8AAAIDHRleHQAAAAAQ29weXJpZ2h0
+					IChjKSAxOTk4IEhld2xldHQtUGFja2FyZCBD
+					b21wYW55AABkZXNjAAAAAAAAABJzUkdCIElF
+					QzYxOTY2LTIuMQAAAAAAAAAAAAAAEnNSR0Ig
+					SUVDNjE5NjYtMi4xAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAABYWVogAAAAAAAA81EAAQAAAAEW
+					zFhZWiAAAAAAAAAAAAAAAAAAAAAAWFlaIAAA
+					AAAAAG+iAAA49QAAA5BYWVogAAAAAAAAYpkA
+					ALeFAAAY2lhZWiAAAAAAAAAkoAAAD4QAALbP
+					ZGVzYwAAAAAAAAAWSUVDIGh0dHA6Ly93d3cu
+					aWVjLmNoAAAAAAAAAAAAAAAWSUVDIGh0dHA6
+					Ly93d3cuaWVjLmNoAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAGRlc2MAAAAAAAAALklFQyA2MTk2Ni0y
+					LjEgRGVmYXVsdCBSR0IgY29sb3VyIHNwYWNl
+					IC0gc1JHQgAAAAAAAAAAAAAALklFQyA2MTk2
+					Ni0yLjEgRGVmYXVsdCBSR0IgY29sb3VyIHNw
+					YWNlIC0gc1JHQgAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAABkZXNjAAAAAAAAACxSZWZlcmVuY2Ug
+					Vmlld2luZyBDb25kaXRpb24gaW4gSUVDNjE5
+					NjYtMi4xAAAAAAAAAAAAAAAsUmVmZXJlbmNl
+					IFZpZXdpbmcgQ29uZGl0aW9uIGluIElFQzYx
+					OTY2LTIuMQAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAdmlldwAAAAAAE6T+ABRfLgAQzxQA
+					A+3MAAQTCwADXJ4AAAABWFlaIAAAAAAATAlW
+					AFAAAABXH+dtZWFzAAAAAAAAAAEAAAAAAAAA
+					AAAAAAAAAAAAAAACjwAAAAJzaWcgAAAAAENS
+					VCBjdXJ2AAAAAAAABAAAAAAFAAoADwAUABkA
+					HgAjACgALQAyADcAOwBAAEUASgBPAFQAWQBe
+					AGMAaABtAHIAdwB8AIEAhgCLAJAAlQCaAJ8A
+					pACpAK4AsgC3ALwAwQDGAMsA0ADVANsA4ADl
+					AOsA8AD2APsBAQEHAQ0BEwEZAR8BJQErATIB
+					OAE+AUUBTAFSAVkBYAFnAW4BdQF8AYMBiwGS
+					AZoBoQGpAbEBuQHBAckB0QHZAeEB6QHyAfoC
+					AwIMAhQCHQImAi8COAJBAksCVAJdAmcCcQJ6
+					AoQCjgKYAqICrAK2AsECywLVAuAC6wL1AwAD
+					CwMWAyEDLQM4A0MDTwNaA2YDcgN+A4oDlgOi
+					A64DugPHA9MD4APsA/kEBgQTBCAELQQ7BEgE
+					VQRjBHEEfgSMBJoEqAS2BMQE0wThBPAE/gUN
+					BRwFKwU6BUkFWAVnBXcFhgWWBaYFtQXFBdUF
+					5QX2BgYGFgYnBjcGSAZZBmoGewaMBp0GrwbA
+					BtEG4wb1BwcHGQcrBz0HTwdhB3QHhgeZB6wH
+					vwfSB+UH+AgLCB8IMghGCFoIbgiCCJYIqgi+
+					CNII5wj7CRAJJQk6CU8JZAl5CY8JpAm6Cc8J
+					5Qn7ChEKJwo9ClQKagqBCpgKrgrFCtwK8wsL
+					CyILOQtRC2kLgAuYC7ALyAvhC/kMEgwqDEMM
+					XAx1DI4MpwzADNkM8w0NDSYNQA1aDXQNjg2p
+					DcMN3g34DhMOLg5JDmQOfw6bDrYO0g7uDwkP
+					JQ9BD14Peg+WD7MPzw/sEAkQJhBDEGEQfhCb
+					ELkQ1xD1ERMRMRFPEW0RjBGqEckR6BIHEiYS
+					RRJkEoQSoxLDEuMTAxMjE0MTYxODE6QTxRPl
+					FAYUJxRJFGoUixStFM4U8BUSFTQVVhV4FZsV
+					vRXgFgMWJhZJFmwWjxayFtYW+hcdF0EXZReJ
+					F64X0hf3GBsYQBhlGIoYrxjVGPoZIBlFGWsZ
+					kRm3Gd0aBBoqGlEadxqeGsUa7BsUGzsbYxuK
+					G7Ib2hwCHCocUhx7HKMczBz1HR4dRx1wHZkd
+					wx3sHhYeQB5qHpQevh7pHxMfPh9pH5Qfvx/q
+					IBUgQSBsIJggxCDwIRwhSCF1IaEhziH7Iici
+					VSKCIq8i3SMKIzgjZiOUI8Ij8CQfJE0kfCSr
+					JNolCSU4JWgllyXHJfcmJyZXJocmtyboJxgn
+					SSd6J6sn3CgNKD8ocSiiKNQpBik4KWspnSnQ
+					KgIqNSpoKpsqzysCKzYraSudK9EsBSw5LG4s
+					oizXLQwtQS12Last4S4WLkwugi63Lu4vJC9a
+					L5Evxy/+MDUwbDCkMNsxEjFKMYIxujHyMioy
+					YzKbMtQzDTNGM38zuDPxNCs0ZTSeNNg1EzVN
+					NYc1wjX9Njc2cjauNuk3JDdgN5w31zgUOFA4
+					jDjIOQU5Qjl/Obw5+To2OnQ6sjrvOy07azuq
+					O+g8JzxlPKQ84z0iPWE9oT3gPiA+YD6gPuA/
+					IT9hP6I/4kAjQGRApkDnQSlBakGsQe5CMEJy
+					QrVC90M6Q31DwEQDREdEikTORRJFVUWaRd5G
+					IkZnRqtG8Ec1R3tHwEgFSEtIkUjXSR1JY0mp
+					SfBKN0p9SsRLDEtTS5pL4kwqTHJMuk0CTUpN
+					k03cTiVObk63TwBPSU+TT91QJ1BxULtRBlFQ
+					UZtR5lIxUnxSx1MTU19TqlP2VEJUj1TbVShV
+					dVXCVg9WXFapVvdXRFeSV+BYL1h9WMtZGllp
+					WbhaB1pWWqZa9VtFW5Vb5Vw1XIZc1l0nXXhd
+					yV4aXmxevV8PX2Ffs2AFYFdgqmD8YU9homH1
+					YklinGLwY0Njl2PrZEBklGTpZT1lkmXnZj1m
+					kmboZz1nk2fpaD9olmjsaUNpmmnxakhqn2r3
+					a09rp2v/bFdsr20IbWBtuW4SbmtuxG8eb3hv
+					0XArcIZw4HE6cZVx8HJLcqZzAXNdc7h0FHRw
+					dMx1KHWFdeF2Pnabdvh3VnezeBF4bnjMeSp5
+					iXnnekZ6pXsEe2N7wnwhfIF84X1BfaF+AX5i
+					fsJ/I3+Ef+WAR4CogQqBa4HNgjCCkoL0g1eD
+					uoQdhICE44VHhauGDoZyhteHO4efiASIaYjO
+					iTOJmYn+imSKyoswi5aL/IxjjMqNMY2Yjf+O
+					Zo7OjzaPnpAGkG6Q1pE/kaiSEZJ6kuOTTZO2
+					lCCUipT0lV+VyZY0lp+XCpd1l+CYTJi4mSSZ
+					kJn8mmia1ZtCm6+cHJyJnPedZJ3SnkCerp8d
+					n4uf+qBpoNihR6G2oiailqMGo3aj5qRWpMel
+					OKWpphqmi6b9p26n4KhSqMSpN6mpqhyqj6sC
+					q3Wr6axcrNCtRK24ri2uoa8Wr4uwALB1sOqx
+					YLHWskuywrM4s660JbSctRO1irYBtnm28Ldo
+					t+C4WbjRuUq5wro7urW7LrunvCG8m70VvY++
+					Cr6Evv+/er/1wHDA7MFnwePCX8Lbw1jD1MRR
+					xM7FS8XIxkbGw8dBx7/IPci8yTrJuco4yrfL
+					Nsu2zDXMtc01zbXONs62zzfPuNA50LrRPNG+
+					0j/SwdNE08bUSdTL1U7V0dZV1tjXXNfg2GTY
+					6Nls2fHadtr724DcBdyK3RDdlt4c3qLfKd+v
+					4DbgveFE4cziU+Lb42Pj6+Rz5PzlhOYN5pbn
+					H+ep6DLovOlG6dDqW+rl63Dr++yG7RHtnO4o
+					7rTvQO/M8Fjw5fFy8f/yjPMZ86f0NPTC9VD1
+					3vZt9vv3ivgZ+Kj5OPnH+lf65/t3/Af8mP0p
+					/br+S/7c/23//9IfICEiWiRjbGFzc25hbWVY
+					JGNsYXNzZXNcTlNDb2xvclNwYWNloiMkXE5T
+					Q29sb3JTcGFjZVhOU09iamVjdNIfICYnV05T
+					Q29sb3KiJiQACAARABoAJAApADIANwBJAEwA
+					UQBTAFoAYABrAHgAfgCLAKAApwCvAM8A0QDT
+					ANUA3ADhAOcA6QDrAO0NOQ0+DUkNUg1fDWIN
+					bw14DX0NhQAAAAAAAAIBAAAAAAAAACgAAAAA
+					AAAAAAAAAAAAAA2I
+					</data>
+					<key>glow width</key>
+					<real>7</real>
+					<key>isGlow</key>
+					<false/>
+					<key>unit name</key>
+					<string>glowUnit</string>
+				</dict>
+				<key>gradient unit</key>
+				<dict>
+					<key>effect scale factor</key>
+					<real>2.8284270033986356</real>
+					<key>fill color</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25Z
+					JGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGG
+					oF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290
+					gAGmCwwXHR4lVSRudWxs1Q0ODxAREhMUFRZc
+					TlNDb21wb25lbnRzVU5TUkdCXE5TQ29sb3JT
+					cGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZVYk
+					Y2xhc3NPEBswLjkyNTc2OTAzMSAwLjEzMjky
+					ODQzMSAwIDFPEB0wLjg5NDgyMzA3NDMgMCAw
+					LjAyMzAwODc2Mzc5ABABgAKABdMYGREaGxxU
+					TlNJRFVOU0lDQxAHgAOABE8RDEgAAAxITGlu
+					bwIQAABtbnRyUkdCIFhZWiAHzgACAAkABgAx
+					AABhY3NwTVNGVAAAAABJRUMgc1JHQgAAAAAA
+					AAAAAAAAAAAA9tYAAQAAAADTLUhQICAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAABFjcHJ0AAABUAAA
+					ADNkZXNjAAABhAAAAGx3dHB0AAAB8AAAABRi
+					a3B0AAACBAAAABRyWFlaAAACGAAAABRnWFla
+					AAACLAAAABRiWFlaAAACQAAAABRkbW5kAAAC
+					VAAAAHBkbWRkAAACxAAAAIh2dWVkAAADTAAA
+					AIZ2aWV3AAAD1AAAACRsdW1pAAAD+AAAABRt
+					ZWFzAAAEDAAAACR0ZWNoAAAEMAAAAAxyVFJD
+					AAAEPAAACAxnVFJDAAAEPAAACAxiVFJDAAAE
+					PAAACAx0ZXh0AAAAAENvcHlyaWdodCAoYykg
+					MTk5OCBIZXdsZXR0LVBhY2thcmQgQ29tcGFu
+					eQAAZGVzYwAAAAAAAAASc1JHQiBJRUM2MTk2
+					Ni0yLjEAAAAAAAAAAAAAABJzUkdCIElFQzYx
+					OTY2LTIuMQAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAWFlaIAAAAAAAAPNRAAEAAAABFsxYWVog
+					AAAAAAAAAAAAAAAAAAAAAFhZWiAAAAAAAABv
+					ogAAOPUAAAOQWFlaIAAAAAAAAGKZAAC3hQAA
+					GNpYWVogAAAAAAAAJKAAAA+EAAC2z2Rlc2MA
+					AAAAAAAAFklFQyBodHRwOi8vd3d3LmllYy5j
+					aAAAAAAAAAAAAAAAFklFQyBodHRwOi8vd3d3
+					LmllYy5jaAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABk
+					ZXNjAAAAAAAAAC5JRUMgNjE5NjYtMi4xIERl
+					ZmF1bHQgUkdCIGNvbG91ciBzcGFjZSAtIHNS
+					R0IAAAAAAAAAAAAAAC5JRUMgNjE5NjYtMi4x
+					IERlZmF1bHQgUkdCIGNvbG91ciBzcGFjZSAt
+					IHNSR0IAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					ZGVzYwAAAAAAAAAsUmVmZXJlbmNlIFZpZXdp
+					bmcgQ29uZGl0aW9uIGluIElFQzYxOTY2LTIu
+					MQAAAAAAAAAAAAAALFJlZmVyZW5jZSBWaWV3
+					aW5nIENvbmRpdGlvbiBpbiBJRUM2MTk2Ni0y
+					LjEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AHZpZXcAAAAAABOk/gAUXy4AEM8UAAPtzAAE
+					EwsAA1yeAAAAAVhZWiAAAAAAAEwJVgBQAAAA
+					Vx/nbWVhcwAAAAAAAAABAAAAAAAAAAAAAAAA
+					AAAAAAAAAo8AAAACc2lnIAAAAABDUlQgY3Vy
+					dgAAAAAAAAQAAAAABQAKAA8AFAAZAB4AIwAo
+					AC0AMgA3ADsAQABFAEoATwBUAFkAXgBjAGgA
+					bQByAHcAfACBAIYAiwCQAJUAmgCfAKQAqQCu
+					ALIAtwC8AMEAxgDLANAA1QDbAOAA5QDrAPAA
+					9gD7AQEBBwENARMBGQEfASUBKwEyATgBPgFF
+					AUwBUgFZAWABZwFuAXUBfAGDAYsBkgGaAaEB
+					qQGxAbkBwQHJAdEB2QHhAekB8gH6AgMCDAIU
+					Ah0CJgIvAjgCQQJLAlQCXQJnAnECegKEAo4C
+					mAKiAqwCtgLBAssC1QLgAusC9QMAAwsDFgMh
+					Ay0DOANDA08DWgNmA3IDfgOKA5YDogOuA7oD
+					xwPTA+AD7AP5BAYEEwQgBC0EOwRIBFUEYwRx
+					BH4EjASaBKgEtgTEBNME4QTwBP4FDQUcBSsF
+					OgVJBVgFZwV3BYYFlgWmBbUFxQXVBeUF9gYG
+					BhYGJwY3BkgGWQZqBnsGjAadBq8GwAbRBuMG
+					9QcHBxkHKwc9B08HYQd0B4YHmQesB78H0gfl
+					B/gICwgfCDIIRghaCG4IggiWCKoIvgjSCOcI
+					+wkQCSUJOglPCWQJeQmPCaQJugnPCeUJ+woR
+					CicKPQpUCmoKgQqYCq4KxQrcCvMLCwsiCzkL
+					UQtpC4ALmAuwC8gL4Qv5DBIMKgxDDFwMdQyO
+					DKcMwAzZDPMNDQ0mDUANWg10DY4NqQ3DDd4N
+					+A4TDi4OSQ5kDn8Omw62DtIO7g8JDyUPQQ9e
+					D3oPlg+zD88P7BAJECYQQxBhEH4QmxC5ENcQ
+					9RETETERTxFtEYwRqhHJEegSBxImEkUSZBKE
+					EqMSwxLjEwMTIxNDE2MTgxOkE8UT5RQGFCcU
+					SRRqFIsUrRTOFPAVEhU0FVYVeBWbFb0V4BYD
+					FiYWSRZsFo8WshbWFvoXHRdBF2UXiReuF9IX
+					9xgbGEAYZRiKGK8Y1Rj6GSAZRRlrGZEZtxnd
+					GgQaKhpRGncanhrFGuwbFBs7G2MbihuyG9oc
+					AhwqHFIcexyjHMwc9R0eHUcdcB2ZHcMd7B4W
+					HkAeah6UHr4e6R8THz4faR+UH78f6iAVIEEg
+					bCCYIMQg8CEcIUghdSGhIc4h+yInIlUigiKv
+					It0jCiM4I2YjlCPCI/AkHyRNJHwkqyTaJQkl
+					OCVoJZclxyX3JicmVyaHJrcm6CcYJ0kneier
+					J9woDSg/KHEooijUKQYpOClrKZ0p0CoCKjUq
+					aCqbKs8rAis2K2krnSvRLAUsOSxuLKIs1y0M
+					LUEtdi2rLeEuFi5MLoIuty7uLyQvWi+RL8cv
+					/jA1MGwwpDDbMRIxSjGCMbox8jIqMmMymzLU
+					Mw0zRjN/M7gz8TQrNGU0njTYNRM1TTWHNcI1
+					/TY3NnI2rjbpNyQ3YDecN9c4FDhQOIw4yDkF
+					OUI5fzm8Ofk6Njp0OrI67zstO2s7qjvoPCc8
+					ZTykPOM9Ij1hPaE94D4gPmA+oD7gPyE/YT+i
+					P+JAI0BkQKZA50EpQWpBrEHuQjBCckK1QvdD
+					OkN9Q8BEA0RHRIpEzkUSRVVFmkXeRiJGZ0ar
+					RvBHNUd7R8BIBUhLSJFI10kdSWNJqUnwSjdK
+					fUrESwxLU0uaS+JMKkxyTLpNAk1KTZNN3E4l
+					Tm5Ot08AT0lPk0/dUCdQcVC7UQZRUFGbUeZS
+					MVJ8UsdTE1NfU6pT9lRCVI9U21UoVXVVwlYP
+					VlxWqVb3V0RXklfgWC9YfVjLWRpZaVm4Wgda
+					VlqmWvVbRVuVW+VcNVyGXNZdJ114XcleGl5s
+					Xr1fD19hX7NgBWBXYKpg/GFPYaJh9WJJYpxi
+					8GNDY5dj62RAZJRk6WU9ZZJl52Y9ZpJm6Gc9
+					Z5Nn6Wg/aJZo7GlDaZpp8WpIap9q92tPa6dr
+					/2xXbK9tCG1gbbluEm5rbsRvHm94b9FwK3CG
+					cOBxOnGVcfByS3KmcwFzXXO4dBR0cHTMdSh1
+					hXXhdj52m3b4d1Z3s3gReG54zHkqeYl553pG
+					eqV7BHtje8J8IXyBfOF9QX2hfgF+Yn7CfyN/
+					hH/lgEeAqIEKgWuBzYIwgpKC9INXg7qEHYSA
+					hOOFR4Wrhg6GcobXhzuHn4gEiGmIzokziZmJ
+					/opkisqLMIuWi/yMY4zKjTGNmI3/jmaOzo82
+					j56QBpBukNaRP5GokhGSepLjk02TtpQglIqU
+					9JVflcmWNJaflwqXdZfgmEyYuJkkmZCZ/Jpo
+					mtWbQpuvnByciZz3nWSd0p5Anq6fHZ+Ln/qg
+					aaDYoUehtqImopajBqN2o+akVqTHpTilqaYa
+					poum/adup+CoUqjEqTepqaocqo+rAqt1q+ms
+					XKzQrUStuK4trqGvFq+LsACwdbDqsWCx1rJL
+					ssKzOLOutCW0nLUTtYq2AbZ5tvC3aLfguFm4
+					0blKucK6O7q1uy67p7whvJu9Fb2Pvgq+hL7/
+					v3q/9cBwwOzBZ8Hjwl/C28NYw9TEUcTOxUvF
+					yMZGxsPHQce/yD3IvMk6ybnKOMq3yzbLtsw1
+					zLXNNc21zjbOts83z7jQOdC60TzRvtI/0sHT
+					RNPG1EnUy9VO1dHWVdbY11zX4Nhk2OjZbNnx
+					2nba+9uA3AXcit0Q3ZbeHN6i3ynfr+A24L3h
+					ROHM4lPi2+Nj4+vkc+T85YTmDeaW5x/nqegy
+					6LzpRunQ6lvq5etw6/vshu0R7ZzuKO6070Dv
+					zPBY8OXxcvH/8ozzGfOn9DT0wvVQ9d72bfb7
+					94r4Gfio+Tj5x/pX+uf7d/wH/Jj9Kf26/kv+
+					3P9t///SHyAhIlokY2xhc3NuYW1lWCRjbGFz
+					c2VzXE5TQ29sb3JTcGFjZaIjJFxOU0NvbG9y
+					U3BhY2VYTlNPYmplY3TSHyAmJ1dOU0NvbG9y
+					oiYkAAgAEQAaACQAKQAyADcASQBMAFEAUwBa
+					AGAAawB4AH4AiwCgAKcAxQDlAOcA6QDrAPIA
+					9wD9AP8BAQEDDU8NVA1fDWgNdQ14DYUNjg2T
+					DZsAAAAAAAACAQAAAAAAAAAoAAAAAAAAAAAA
+					AAAAAAANng==
+					</data>
+					<key>gradient angle</key>
+					<real>-90</real>
+					<key>gradient control</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25Z
+					JGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGG
+					oF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290
+					gAGvEBELDBMZIiMkJS0xODs/R0hMT1UkbnVs
+					bNMNDg8QERJfEBROU0dyYWRpZW50Q29sb3JT
+					cGFjZVYkY2xhc3NfEBROU0dyYWRpZW50Q29s
+					b3JBcnJheYAIgBCAAtIUDhUYWk5TLm9iamVj
+					dHOiFheAA4AMgA/TGhQOGx4hV05TLmtleXOi
+					HB2ABIAFoh8ggAaAB4ALXxASTlNHcmFkaWVu
+					dFBvc2l0aW9uXxAPTlNHcmFkaWVudENvbG9y
+					IwAAAAAAAAAA1CYnKA4pKhAsVU5TUkdCXE5T
+					Q29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JT
+					cGFjZUYwIDAgMAAQAYAIgArSLg4vMFROU0lE
+					EAGACdIyMzQ1WiRjbGFzc25hbWVYJGNsYXNz
+					ZXNcTlNDb2xvclNwYWNlojY3XE5TQ29sb3JT
+					cGFjZVhOU09iamVjdNIyMzk6V05TQ29sb3Ki
+					OTfSMjM8PV8QE05TTXV0YWJsZURpY3Rpb25h
+					cnmjPD43XE5TRGljdGlvbmFyedMaFA5AQyGi
+					HB2ABIAFokRFgA2ADoALIz/wAAAAAAAA1CYn
+					KA5JKhAsRjEgMSAxAIAIgArSMjNNTldOU0Fy
+					cmF5ok030jIzUFFaTlNHcmFkaWVudKJSN1pO
+					U0dyYWRpZW50AAgAEQAaACQAKQAyADcASQBM
+					AFEAUwBnAG0AdACLAJIAqQCrAK0ArwC0AL8A
+					wgDEAMYAyADPANcA2gDcAN4A4QDjAOUA5wD8
+					AQ4BFwEgASYBMwFIAU8BUQFTAVUBWgFfAWEB
+					YwFoAXMBfAGJAYwBmQGiAacBrwGyAbcBzQHR
+					Ad4B5QHoAeoB7AHvAfEB8wH1Af4CBwIOAhAC
+					EgIXAh8CIgInAjICNQAAAAAAAAIBAAAAAAAA
+					AFMAAAAAAAAAAAAAAAAAAAJA
+					</data>
+					<key>gradient offset</key>
+					<string>{0, 0}</string>
+					<key>gradient type</key>
+					<integer>0</integer>
+					<key>unit name</key>
+					<string>gradientUnit</string>
+				</dict>
+				<key>inner shadow unit</key>
+				<dict>
+					<key>composite operation</key>
+					<integer>0</integer>
+					<key>effect scale factor</key>
+					<real>2.8284270033986356</real>
+					<key>is inner shadow</key>
+					<false/>
+					<key>shadow angle</key>
+					<real>0.0</real>
+					<key>shadow blur</key>
+					<real>5</real>
+					<key>shadow color</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25Z
+					JGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGG
+					oF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290
+					gAGjCwwTVSRudWxs0w0ODxARElVOU1JHQlxO
+					U0NvbG9yU3BhY2VWJGNsYXNzSjAgMCAwIDAu
+					OAAQAYAC0hQVFhdaJGNsYXNzbmFtZVgkY2xh
+					c3Nlc1dOU0NvbG9yohYYWE5TT2JqZWN0CBEa
+					JCkyN0lMUVNXXWRqd36Ji42SnaausQAAAAAA
+					AAEBAAAAAAAAABkAAAAAAAAAAAAAAAAAAAC6
+					</data>
+					<key>shadow distance</key>
+					<real>0.0</real>
+					<key>shadow is shadow</key>
+					<false/>
+					<key>unit name</key>
+					<string>innerShadowUnit</string>
+					<key>width</key>
+					<real>0.0</real>
+				</dict>
+				<key>mask unit</key>
+				<dict>
+					<key>blur</key>
+					<real>0.0</real>
+					<key>effect scale factor</key>
+					<real>2.8284270033986356</real>
+					<key>isMask</key>
+					<false/>
+					<key>mask angle</key>
+					<real>0.0</real>
+					<key>mask brightness</key>
+					<real>0.0</real>
+					<key>mask contrast</key>
+					<real>1</real>
+					<key>mask data ref</key>
+					<string>Masks/Mask14.jpg</string>
+					<key>mask is inverse</key>
+					<false/>
+					<key>mask offset</key>
+					<string>{0, 0}</string>
+					<key>mask scale</key>
+					<real>0.5</real>
+					<key>opacity</key>
+					<real>1</real>
+					<key>texture type</key>
+					<integer>4</integer>
+					<key>unit name</key>
+					<string>maskUnit</string>
+				</dict>
+				<key>picture spray unit</key>
+				<dict>
+					<key>AmbientColorData</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25Z
+					JGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGG
+					oF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290
+					gAGjCwwTVSRudWxs0w0ODxARElVOU1JHQlxO
+					U0NvbG9yU3BhY2VWJGNsYXNzTDAuNSAwLjUg
+					MC41ABACgALSFBUWF1okY2xhc3NuYW1lWCRj
+					bGFzc2VzV05TQ29sb3KiFhhYTlNPYmplY3QI
+					ERokKTI3SUxRU1ddZGp3fouNj5SfqLCzAAAA
+					AAAAAQEAAAAAAAAAGQAAAAAAAAAAAAAAAAAA
+					ALw=
+					</data>
+					<key>DiffuseColorData</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25Z
+					JGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGG
+					oF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290
+					gAGjCwwTVSRudWxs0w0ODxARElVOU1JHQlxO
+					U0NvbG9yU3BhY2VWJGNsYXNzRjEgMSAxABAC
+					gALSFBUWF1okY2xhc3NuYW1lWCRjbGFzc2Vz
+					V05TQ29sb3KiFhhYTlNPYmplY3QIERokKTI3
+					SUxRU1ddZGp3foWHiY6ZoqqtAAAAAAAAAQEA
+					AAAAAAAAGQAAAAAAAAAAAAAAAAAAALY=
+					</data>
+					<key>Distrib Map Phase</key>
+					<string>{0, 0}</string>
+					<key>Distrib Map Position</key>
+					<string>{0, 0}</string>
+					<key>ShadowColorData</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25Z
+					JGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGG
+					oF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290
+					gAGjCwwTVSRudWxs0w0ODxARElVOU1JHQlxO
+					U0NvbG9yU3BhY2VWJGNsYXNzSjAgMCAwIDAu
+					OAAQAYAC0hQVFhdaJGNsYXNzbmFtZVgkY2xh
+					c3Nlc1dOU0NvbG9yohYYWE5TT2JqZWN0CBEa
+					JCkyN0lMUVNXXWRqd36Ji42SnaausQAAAAAA
+					AAEBAAAAAAAAABkAAAAAAAAAAAAAAAAAAAC6
+					</data>
+					<key>SpecularColorData</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25Z
+					JGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGG
+					oF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290
+					gAGjCwwTVSRudWxs0w0ODxARElVOU1JHQlxO
+					U0NvbG9yU3BhY2VWJGNsYXNzTxAPMC43NSAw
+					Ljc1IDAuNzUAEAKAAtIUFRYXWiRjbGFzc25h
+					bWVYJGNsYXNzZXNXTlNDb2xvcqIWGFhOU09i
+					amVjdAgRGiQpMjdJTFFTV11kand+kJKUmaSt
+					tbgAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAA
+					AAAAAAAAwQ==
+					</data>
+					<key>angle</key>
+					<real>0.0</real>
+					<key>angleFluctuation</key>
+					<real>1</real>
+					<key>brushToNormals</key>
+					<false/>
+					<key>cellSize</key>
+					<real>0.10000000000000001</real>
+					<key>disposition</key>
+					<real>0.69999999999999996</real>
+					<key>distrMapAngle</key>
+					<real>0.0</real>
+					<key>distrMapDataRef</key>
+					<string>Masks/clouds.jpg</string>
+					<key>distrMapPlacement</key>
+					<integer>4</integer>
+					<key>distrMapScale</key>
+					<real>1</real>
+					<key>effect scale factor</key>
+					<real>2.8284270033986356</real>
+					<key>heightMapScale</key>
+					<real>1</real>
+					<key>lightAmount</key>
+					<real>25</real>
+					<key>lightAngle</key>
+					<real>0.0</real>
+					<key>lightGlosiness</key>
+					<real>0.40000000000000002</real>
+					<key>lightOffset</key>
+					<real>0.78500000000000003</real>
+					<key>numberOfPasses</key>
+					<real>1</real>
+					<key>shadowAzimuth</key>
+					<real>0.0</real>
+					<key>shadowBlur</key>
+					<real>5</real>
+					<key>shadowOffset</key>
+					<real>0.0</real>
+					<key>sizeFluctuation</key>
+					<real>0.14000000000000001</real>
+					<key>unit name</key>
+					<string>pictureSprayUnit</string>
+					<key>useCustomDistrMap</key>
+					<integer>0</integer>
+					<key>useLights</key>
+					<false/>
+					<key>useShadow</key>
+					<false/>
+				</dict>
+				<key>shader unit</key>
+				<dict>
+					<key>Shader Relief Texture</key>
+					<dict>
+						<key>blur</key>
+						<real>0.0</real>
+						<key>effect scale factor</key>
+						<real>2.8284270033986356</real>
+						<key>isMask</key>
+						<false/>
+						<key>mask angle</key>
+						<real>0.0</real>
+						<key>mask brightness</key>
+						<real>0.0</real>
+						<key>mask contrast</key>
+						<real>1</real>
+						<key>mask data ref</key>
+						<string>Masks/Clouds.jpg</string>
+						<key>mask is inverse</key>
+						<false/>
+						<key>mask offset</key>
+						<string>{0, 0}</string>
+						<key>mask scale</key>
+						<real>0.5</real>
+						<key>opacity</key>
+						<real>1</real>
+						<key>texture type</key>
+						<integer>4</integer>
+						<key>unit name</key>
+						<string>maskUnit</string>
+					</dict>
+					<key>effect scale factor</key>
+					<real>2.8284270033986356</real>
+					<key>hasReliefTexture</key>
+					<false/>
+					<key>unit name</key>
+					<string>shaderUnit</string>
+				</dict>
+				<key>shadow unit</key>
+				<dict>
+					<key>effect scale factor</key>
+					<real>2.8284270033986356</real>
+					<key>shadow angle</key>
+					<real>0.0</real>
+					<key>shadow blur</key>
+					<real>5</real>
+					<key>shadow color</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25Z
+					JGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGG
+					oF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290
+					gAGjCwwTVSRudWxs0w0ODxARElVOU1JHQlxO
+					U0NvbG9yU3BhY2VWJGNsYXNzSjAgMCAwIDAu
+					OAAQAYAC0hQVFhdaJGNsYXNzbmFtZVgkY2xh
+					c3Nlc1dOU0NvbG9yohYYWE5TT2JqZWN0CBEa
+					JCkyN0lMUVNXXWRqd36Ji42SnaausQAAAAAA
+					AAEBAAAAAAAAABkAAAAAAAAAAAAAAAAAAAC6
+					</data>
+					<key>shadow distance</key>
+					<real>0.0</real>
+					<key>shadow is shadow</key>
+					<false/>
+					<key>unit name</key>
+					<string>shadowUnit</string>
+				</dict>
+				<key>stroke unit</key>
+				<dict>
+					<key>Stroke List</key>
+					<array>
+						<dict>
+							<key>color</key>
+							<data>
+							YnBsaXN0MDDUAQIDBAUG
+							BwpYJHZlcnNpb25ZJGFy
+							Y2hpdmVyVCR0b3BYJG9i
+							amVjdHMSAAGGoF8QD05T
+							S2V5ZWRBcmNoaXZlctEI
+							CVRyb290gAGmCwwXHyAn
+							VSRudWxs1Q0ODxAREhMU
+							FRZXTlNXaGl0ZVxOU0Nv
+							bXBvbmVudHNcTlNDb2xv
+							clNwYWNlXxASTlNDdXN0
+							b21Db2xvclNwYWNlViRj
+							bGFzc0IwAEMwIDEQA4AC
+							gAXUGBkaERscHR5UTlNJ
+							RFVOU0lDQ1dOU01vZGVs
+							EAmAAxAAgARPERGcAAAR
+							nGFwcGwCAAAAbW50ckdS
+							QVlYWVogB9wACAAXAA8A
+							LgAPYWNzcEFQUEwAAAAA
+							bm9uZQAAAAAAAAAAAAAA
+							AAAAAAAAAPbWAAEAAAAA
+							0y1hcHBsAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAFZGVzYwAA
+							AMAAAAB5ZHNjbQAAATwA
+							AAgaY3BydAAACVgAAAAj
+							d3RwdAAACXwAAAAUa1RS
+							QwAACZAAAAgMZGVzYwAA
+							AAAAAAAfR2VuZXJpYyBH
+							cmF5IEdhbW1hIDIuMiBQ
+							cm9maWxlAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAG1s
+							dWMAAAAAAAAAHwAAAAxz
+							a1NLAAAALgAAAYRkYURL
+							AAAAOgAAAbJjYUVTAAAA
+							OAAAAex2aVZOAAAAQAAA
+							AiRwdEJSAAAASgAAAmR1
+							a1VBAAAALAAAAq5mckZV
+							AAAAPgAAAtpodUhVAAAA
+							NAAAAxh6aFRXAAAAGgAA
+							A0xrb0tSAAAAIgAAA2Zu
+							Yk5PAAAAOgAAA4hjc0Na
+							AAAAKAAAA8JoZUlMAAAA
+							JAAAA+pyb1JPAAAAKgAA
+							BA5kZURFAAAATgAABDhp
+							dElUAAAATgAABIZzdlNF
+							AAAAOAAABNR6aENOAAAA
+							GgAABQxqYUpQAAAAJgAA
+							BSZlbEdSAAAAKgAABUxw
+							dFBPAAAAUgAABXZubE5M
+							AAAAQAAABchlc0VTAAAA
+							TAAABgh0aFRIAAAAMgAA
+							BlR0clRSAAAAJAAABoZm
+							aUZJAAAARgAABqpockhS
+							AAAAPgAABvBwbFBMAAAA
+							SgAABy5hckVHAAAALAAA
+							B3hydVJVAAAAOgAAB6Rl
+							blVTAAAAPAAAB94AVgFh
+							AGUAbwBiAGUAYwBuAOEA
+							IABzAGkAdgDhACAAZwBh
+							AG0AYQAgADIALAAyAEcA
+							ZQBuAGUAcgBpAHMAawAg
+							AGcAcgDlACAAMgAsADIA
+							IABnAGEAbQBtAGEALQBw
+							AHIAbwBmAGkAbABHAGEA
+							bQBtAGEAIABkAGUAIABn
+							AHIAaQBzAG8AcwAgAGcA
+							ZQBuAOgAcgBpAGMAYQAg
+							ADIALgAyAEMepQB1ACAA
+							aADsAG4AaAAgAE0A4AB1
+							ACAAeADhAG0AIABDAGgA
+							dQBuAGcAIABHAGEAbQBt
+							AGEAIAAyAC4AMgBQAGUA
+							cgBmAGkAbAAgAEcAZQBu
+							AOkAcgBpAGMAbwAgAGQA
+							YQAgAEcAYQBtAGEAIABk
+							AGUAIABDAGkAbgB6AGEA
+							cwAgADIALAAyBBcEMAQz
+							BDAEOwRMBD0EMAAgAEcA
+							cgBhAHkALQQzBDAEPAQw
+							ACAAMgAuADIAUAByAG8A
+							ZgBpAGwAIABnAOkAbgDp
+							AHIAaQBxAHUAZQAgAGcA
+							cgBpAHMAIABnAGEAbQBt
+							AGEAIAAyACwAMgDBAGwA
+							dABhAGwA4QBuAG8AcwAg
+							AHMAegD8AHIAawBlACAA
+							ZwBhAG0AbQBhACAAMgAu
+							ADKQGnUocHCWjlFJXqYA
+							MgAuADKCcl9pY8+P8Md8
+							vBgAINaMwMkAIKwQucgA
+							IAAyAC4AMgAg1QS4XNMM
+							x3wARwBlAG4AZQByAGkA
+							cwBrACAAZwByAOUAIABn
+							AGEAbQBtAGEAIAAyACwA
+							MgAtAHAAcgBvAGYAaQBs
+							AE8AYgBlAGMAbgDhACAB
+							YQBlAGQA4QAgAGcAYQBt
+							AGEAIAAyAC4AMgXSBdAF
+							3gXUACAF0AXkBdUF6AAg
+							BdsF3AXcBdkAIAAyAC4A
+							MgBHAGEAbQBhACAAZwBy
+							AGkAIABnAGUAbgBlAHIA
+							aQBjAQMAIAAyACwAMgBB
+							AGwAbABnAGUAbQBlAGkA
+							bgBlAHMAIABHAHIAYQB1
+							AHMAdAB1AGYAZQBuAC0A
+							UAByAG8AZgBpAGwAIABH
+							AGEAbQBtAGEAIAAyACwA
+							MgBQAHIAbwBmAGkAbABv
+							ACAAZwByAGkAZwBpAG8A
+							IABnAGUAbgBlAHIAaQBj
+							AG8AIABkAGUAbABsAGEA
+							IABnAGEAbQBtAGEAIAAy
+							ACwAMgBHAGUAbgBlAHIA
+							aQBzAGsAIABnAHIA5QAg
+							ADIALAAyACAAZwBhAG0A
+							bQBhAHAAcgBvAGYAaQBs
+							Zm6QGnBwXqZ8+2VwADIA
+							LgAyY8+P8GWHTvZOAIIs
+							MLAw7DCkMKww8zDeACAA
+							MgAuADIAIDDXMO0w1TCh
+							MKQw6wOTA7UDvQO5A7oD
+							zAAgA5MDugPBA7kAIAOT
+							A6wDvAO8A7EAIAAyAC4A
+							MgBQAGUAcgBmAGkAbAAg
+							AGcAZQBuAOkAcgBpAGMA
+							bwAgAGQAZQAgAGMAaQBu
+							AHoAZQBuAHQAbwBzACAA
+							ZABhACAARwBhAG0AbQBh
+							ACAAMgAsADIAQQBsAGcA
+							ZQBtAGUAZQBuACAAZwBy
+							AGkAagBzACAAZwBhAG0A
+							bQBhACAAMgAsADIALQBw
+							AHIAbwBmAGkAZQBsAFAA
+							ZQByAGYAaQBsACAAZwBl
+							AG4A6QByAGkAYwBvACAA
+							ZABlACAAZwBhAG0AbQBh
+							ACAAZABlACAAZwByAGkA
+							cwBlAHMAIAAyACwAMg4j
+							DjEOBw4qDjUOQQ4BDiEO
+							IQ4yDkAOAQ4jDiIOTA4X
+							DjEOSA4nDkQOGwAgADIA
+							LgAyAEcAZQBuAGUAbAAg
+							AEcAcgBpACAARwBhAG0A
+							YQAgADIALAAyAFkAbABl
+							AGkAbgBlAG4AIABoAGEA
+							cgBtAGEAYQBuACAAZwBh
+							AG0AbQBhACAAMgAsADIA
+							IAAtAHAAcgBvAGYAaQBp
+							AGwAaQBHAGUAbgBlAHIA
+							aQENAGsAaQAgAEcAcgBh
+							AHkAIABHAGEAbQBtAGEA
+							IAAyAC4AMgAgAHAAcgBv
+							AGYAaQBsAFUAbgBpAHcA
+							ZQByAHMAYQBsAG4AeQAg
+							AHAAcgBvAGYAaQBsACAA
+							cwB6AGEAcgBvAVsAYwBp
+							ACAAZwBhAG0AbQBhACAA
+							MgAsADIGOgYnBkUGJwAg
+							ADIALgAyACAGRAZIBkYA
+							IAYxBkUGJwYvBkoAIAY5
+							BicGRQQeBDEESQQwBE8A
+							IARBBDUEQAQwBE8AIAQz
+							BDAEPAQ8BDAAIAAyACwA
+							MgAtBD8EQAQ+BEQEOAQ7
+							BEwARwBlAG4AZQByAGkA
+							YwAgAEcAcgBhAHkAIABH
+							AGEAbQBtAGEAIAAyAC4A
+							MgAgAFAAcgBvAGYAaQBs
+							AGUAAHRleHQAAAAAQ29w
+							eXJpZ2h0IEFwcGxlIElu
+							Yy4sIDIwMTIAAFhZWiAA
+							AAAAAADzUQABAAAAARbM
+							Y3VydgAAAAAAAAQAAAAA
+							BQAKAA8AFAAZAB4AIwAo
+							AC0AMgA3ADsAQABFAEoA
+							TwBUAFkAXgBjAGgAbQBy
+							AHcAfACBAIYAiwCQAJUA
+							mgCfAKQAqQCuALIAtwC8
+							AMEAxgDLANAA1QDbAOAA
+							5QDrAPAA9gD7AQEBBwEN
+							ARMBGQEfASUBKwEyATgB
+							PgFFAUwBUgFZAWABZwFu
+							AXUBfAGDAYsBkgGaAaEB
+							qQGxAbkBwQHJAdEB2QHh
+							AekB8gH6AgMCDAIUAh0C
+							JgIvAjgCQQJLAlQCXQJn
+							AnECegKEAo4CmAKiAqwC
+							tgLBAssC1QLgAusC9QMA
+							AwsDFgMhAy0DOANDA08D
+							WgNmA3IDfgOKA5YDogOu
+							A7oDxwPTA+AD7AP5BAYE
+							EwQgBC0EOwRIBFUEYwRx
+							BH4EjASaBKgEtgTEBNME
+							4QTwBP4FDQUcBSsFOgVJ
+							BVgFZwV3BYYFlgWmBbUF
+							xQXVBeUF9gYGBhYGJwY3
+							BkgGWQZqBnsGjAadBq8G
+							wAbRBuMG9QcHBxkHKwc9
+							B08HYQd0B4YHmQesB78H
+							0gflB/gICwgfCDIIRgha
+							CG4IggiWCKoIvgjSCOcI
+							+wkQCSUJOglPCWQJeQmP
+							CaQJugnPCeUJ+woRCicK
+							PQpUCmoKgQqYCq4KxQrc
+							CvMLCwsiCzkLUQtpC4AL
+							mAuwC8gL4Qv5DBIMKgxD
+							DFwMdQyODKcMwAzZDPMN
+							DQ0mDUANWg10DY4NqQ3D
+							Dd4N+A4TDi4OSQ5kDn8O
+							mw62DtIO7g8JDyUPQQ9e
+							D3oPlg+zD88P7BAJECYQ
+							QxBhEH4QmxC5ENcQ9RET
+							ETERTxFtEYwRqhHJEegS
+							BxImEkUSZBKEEqMSwxLj
+							EwMTIxNDE2MTgxOkE8UT
+							5RQGFCcUSRRqFIsUrRTO
+							FPAVEhU0FVYVeBWbFb0V
+							4BYDFiYWSRZsFo8WshbW
+							FvoXHRdBF2UXiReuF9IX
+							9xgbGEAYZRiKGK8Y1Rj6
+							GSAZRRlrGZEZtxndGgQa
+							KhpRGncanhrFGuwbFBs7
+							G2MbihuyG9ocAhwqHFIc
+							exyjHMwc9R0eHUcdcB2Z
+							HcMd7B4WHkAeah6UHr4e
+							6R8THz4faR+UH78f6iAV
+							IEEgbCCYIMQg8CEcIUgh
+							dSGhIc4h+yInIlUigiKv
+							It0jCiM4I2YjlCPCI/Ak
+							HyRNJHwkqyTaJQklOCVo
+							JZclxyX3JicmVyaHJrcm
+							6CcYJ0kneierJ9woDSg/
+							KHEooijUKQYpOClrKZ0p
+							0CoCKjUqaCqbKs8rAis2
+							K2krnSvRLAUsOSxuLKIs
+							1y0MLUEtdi2rLeEuFi5M
+							LoIuty7uLyQvWi+RL8cv
+							/jA1MGwwpDDbMRIxSjGC
+							Mbox8jIqMmMymzLUMw0z
+							RjN/M7gz8TQrNGU0njTY
+							NRM1TTWHNcI1/TY3NnI2
+							rjbpNyQ3YDecN9c4FDhQ
+							OIw4yDkFOUI5fzm8Ofk6
+							Njp0OrI67zstO2s7qjvo
+							PCc8ZTykPOM9Ij1hPaE9
+							4D4gPmA+oD7gPyE/YT+i
+							P+JAI0BkQKZA50EpQWpB
+							rEHuQjBCckK1QvdDOkN9
+							Q8BEA0RHRIpEzkUSRVVF
+							mkXeRiJGZ0arRvBHNUd7
+							R8BIBUhLSJFI10kdSWNJ
+							qUnwSjdKfUrESwxLU0ua
+							S+JMKkxyTLpNAk1KTZNN
+							3E4lTm5Ot08AT0lPk0/d
+							UCdQcVC7UQZRUFGbUeZS
+							MVJ8UsdTE1NfU6pT9lRC
+							VI9U21UoVXVVwlYPVlxW
+							qVb3V0RXklfgWC9YfVjL
+							WRpZaVm4WgdaVlqmWvVb
+							RVuVW+VcNVyGXNZdJ114
+							XcleGl5sXr1fD19hX7Ng
+							BWBXYKpg/GFPYaJh9WJJ
+							Ypxi8GNDY5dj62RAZJRk
+							6WU9ZZJl52Y9ZpJm6Gc9
+							Z5Nn6Wg/aJZo7GlDaZpp
+							8WpIap9q92tPa6dr/2xX
+							bK9tCG1gbbluEm5rbsRv
+							Hm94b9FwK3CGcOBxOnGV
+							cfByS3KmcwFzXXO4dBR0
+							cHTMdSh1hXXhdj52m3b4
+							d1Z3s3gReG54zHkqeYl5
+							53pGeqV7BHtje8J8IXyB
+							fOF9QX2hfgF+Yn7CfyN/
+							hH/lgEeAqIEKgWuBzYIw
+							gpKC9INXg7qEHYSAhOOF
+							R4Wrhg6GcobXhzuHn4gE
+							iGmIzokziZmJ/opkisqL
+							MIuWi/yMY4zKjTGNmI3/
+							jmaOzo82j56QBpBukNaR
+							P5GokhGSepLjk02TtpQg
+							lIqU9JVflcmWNJaflwqX
+							dZfgmEyYuJkkmZCZ/Jpo
+							mtWbQpuvnByciZz3nWSd
+							0p5Anq6fHZ+Ln/qgaaDY
+							oUehtqImopajBqN2o+ak
+							VqTHpTilqaYapoum/adu
+							p+CoUqjEqTepqaocqo+r
+							Aqt1q+msXKzQrUStuK4t
+							rqGvFq+LsACwdbDqsWCx
+							1rJLssKzOLOutCW0nLUT
+							tYq2AbZ5tvC3aLfguFm4
+							0blKucK6O7q1uy67p7wh
+							vJu9Fb2Pvgq+hL7/v3q/
+							9cBwwOzBZ8Hjwl/C28NY
+							w9TEUcTOxUvFyMZGxsPH
+							Qce/yD3IvMk6ybnKOMq3
+							yzbLtsw1zLXNNc21zjbO
+							ts83z7jQOdC60TzRvtI/
+							0sHTRNPG1EnUy9VO1dHW
+							VdbY11zX4Nhk2OjZbNnx
+							2nba+9uA3AXcit0Q3Zbe
+							HN6i3ynfr+A24L3hROHM
+							4lPi2+Nj4+vkc+T85YTm
+							DeaW5x/nqegy6LzpRunQ
+							6lvq5etw6/vshu0R7Zzu
+							KO6070DvzPBY8OXxcvH/
+							8ozzGfOn9DT0wvVQ9d72
+							bfb794r4Gfio+Tj5x/pX
+							+uf7d/wH/Jj9Kf26/kv+
+							3P9t///SISIjJFokY2xh
+							c3NuYW1lWCRjbGFzc2Vz
+							XE5TQ29sb3JTcGFjZaIl
+							JlxOU0NvbG9yU3BhY2VY
+							TlNPYmplY3TSISIoKVdO
+							U0NvbG9yoigmAAgAEQAa
+							ACQAKQAyADcASQBMAFEA
+							UwBaAGAAawBzAIAAjQCi
+							AKkArACwALIAtAC2AL8A
+							xADKANIA1ADWANgA2hJ6
+							En8SihKTEqASoxKwErkS
+							vhLGAAAAAAAAAgEAAAAA
+							AAAAKgAAAAAAAAAAAAAA
+							AAAAEsk=
+							</data>
+							<key>width</key>
+							<real>1</real>
+						</dict>
+					</array>
+					<key>effect scale factor</key>
+					<real>2.8284270033986356</real>
+					<key>stroke</key>
+					<false/>
+					<key>unit name</key>
+					<string>strokeUnit</string>
+				</dict>
+				<key>texture unit</key>
+				<dict>
+					<key>effect scale factor</key>
+					<real>2.8284270033986356</real>
+					<key>texture angle</key>
+					<real>0.0</real>
+					<key>texture apply effect</key>
+					<true/>
+					<key>texture phase</key>
+					<string>{0, 0}</string>
+					<key>texture scale</key>
+					<real>1</real>
+					<key>texture type</key>
+					<integer>4</integer>
+					<key>unit name</key>
+					<string>textureUnit</string>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>Height Meter</key>
+			<real>517.04229736328125</real>
+			<key>color brightness</key>
+			<real>0.0</real>
+			<key>color saturation</key>
+			<real>1</real>
+			<key>colorize</key>
+			<false/>
+			<key>data source</key>
+			<dict>
+				<key>allow transformation</key>
+				<false/>
+				<key>layer source type</key>
+				<integer>3</integer>
+				<key>path</key>
+				<data>
+				YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hp
+				dmVyVCR0b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRB
+				cmNoaXZlctEICVRyb290gAGjCwwXVSRudWxs1Q0ODxAR
+				EhMUFRZbTlNKb2luU3R5bGVaTlNTZWdtZW50c1pOU0Zs
+				YXRuZXNzW05TTGluZVdpZHRoViRjbGFzcxABTxEZGgBC
+				qcF8QTTWOQJCqcF8QTTWOQJCqbKjQTVRGgJCqbKjQTVR
+				GgJCqbKjQTVRGgJCqZyfQTVRGgJCqZyfQTVRGgJCqZyf
+				QTVRGgJCo1+xQTVRGgJCo1+xQTVRGgJCo1+xQTVRGgJC
+				out4QTVRGgJCout4QTVRGgJCout4QTVRGgJCozlLQTKl
+				EgJCozlLQTKlEgJCpePKQRs0bgJCqCx+QPz4OAJCqCx+
+				QLPyEwJCqCx+QFoA0gJCpe6KP9GTDAJCozGdPpvNNgJC
+				ozGdPpvNNgJCoteAPgd5pwJCoteAPgd5pwJCoteAPgd5
+				pwJCo1TxPgd5pwJCo1TxPgd5pwJCo1TxPgd5pwJCqZyf
+				Pgd5pwJCqZyfPgd5pwJCqZyfPgd5pwJCqbEaPgd5pwJC
+				qbEaPgd5pwJCqbEaPgd5pwJCqb/zPiMfigJCqb/zPiMf
+				igJCrFV0P64/FAJCrvlLQFsG9wJCrvlLQLUxkAJCrvlL
+				QP55PgJCrHQsQR7F1gJCqcF8QTTWOQBCoxqTQLpo3AJC
+				olwcQMPA7AJCoWJBQMrLKQJCoEabQM+PxQJCoTpRQNQb
+				CQJCohgDQNqiNAJCosUSQOM92QJCo6JBQO43tQJCpDIg
+				QPy2rgJCpDIgQQdAuAJCpDIgQRVVMgJCowUSQSBTJgJC
+				oR8uQSe3gAJCnznOQS8b2gJCnJLlQTMPkQJCmYQLQTMP
+				kQJClhLlQTMPkQJCkzzgQS4d5wJCkTlLQSVhfAJCjzUy
+				QRyc4AJCjgB2QQ/w2AJCjeA0QQCYyAJCjeA0QQCYyAJC
+				jdyfQP3NNgJCjdyfQP3NNgJCjdyfQP3NNgJCjhNoQP3N
+				NgJCjhNoQP3NNgJCjhNoQP3NNgJClXnOQP3NNgJClXnO
+				QP3NNgJClXnOQP3NNgJClahmQP3NNgJClahmQP3NNgJC
+				lahmQP3NNgJClax+QQBbVwJClax+QQBbVwJClbpRQQVl
+				lQJClhV0QQmjBQJClrfCQQytQwJCl1uZQQ+7mQJCmEce
+				QRGKcgJCmW+RQRGKcgJCmnpRQRGKcgJCm0owQRAh/wJC
+				m9V0QQ23gAJCnF6rQQtZSwJCnKLEQQgVtQJCnKLEQQQu
+				SQJCnKLEQP9/YwJCnEkqQPkAaQJCm6LEQPSNuQJCmvtX
+				QPAbCQJCmhBVQO4OvwJCmQkqQO4OvwJCmQkqQO4OvwJC
+				lsu6QO4OvwJClsu6QO4OvwJClsu6QO4OvwJClpiGQO4O
+				vwJClpiGQO4OvwJClpiGQO4OvwJClpiGQOrbjAJClpiG
+				QOrbjAJClpiGQOrbjAJClpiGQLF7SgJClpiGQLF7SgJC
+				lpiGQLF7SgJClpiGQK5IFwJClpiGQK5IFwJClpiGQK5I
+				FwJClsu6QK5IFwJClsu6QK5IFwJClsu6QK5IFwJCmR2l
+				QK5IFwJCmR2lQK5IFwJCmlyfQK5IFwJCm1wcQKuoWAJC
+				nAmtQKaylgJCnLW1QKHFBQJCnQkqQJrr7gJCnQkqQJJY
+				eQJCnQkqQIk5wQJCnLUyQIHdmAJCnBBVQHk8NgJCm2nv
+				QG6ceAJCmnW1QGi5JAJCmUabQGi5JAJCl/UyQGi5JAJC
+				lvOpQHD6rQJClkabQH+B2AJClZwcQIbjvQJClUD5QJEx
+				kAJClTxdQJ5QSAJClTxdQJ5QSAJClTrUQKFzGQJClTrU
+				QKFzGQJClTrUQKFzGQJClQkqQKFzGQJClQkqQKFzGQJC
+				lQkqQKFzGQJCjaLEQKFzGQJCjaLEQKFzGQJCjaLEQKFz
+				GQJCjW6KQKFzGQJCjW6KQKFzGQJCjW6KQKFzGQJCjW+R
+				QJ4vgwJCjW+RQJ4vgwJCjXnOQHfTwwJCjpgDQEELDwJC
+				kJwcQBu7MAJCkp4oP+0YKwJClYQLP8VJUgJCmSfjP8VJ
+				UgJCnIOIP8VJUgJCn1uZP+kgXAJCoV4oQBQdfgJCo2C4
+				QDO7MAJCpJiGQGG/SAJCpJiGQI0ImgJCpJiGQJ+gJwJC
+				pAabQK7TWwJCoxqTQLpo3ABCbiGxP/FyRwJCbiGxP/Fy
+				RwJCbh+kP+Rj8QJCbh+kP+Rj8QJCbh+kP+Rj8QJCbogX
+				P+Rj8QJCbogXP+Rj8QJCbogXP+Rj8QJCjNNoP+Rj8QJC
+				jNNoP+Rj8QJCjNNoP+Rj8QJCjQabP+Rj8QJCjQabP+Rj
+				8QJCjQabP+Rj8QJCjQabP/EwvgJCjQabP/EwvgJCjQab
+				P/EwvgJCjQabQHX4oQJCjQabQHX4oQJCjQabQHX4oQJC
+				jQabQHxfBwJCjQabQHxfBwJCjQabQHxfBwJCjNNoQHxf
+				BwJCjNNoQHxfBwJCjNNoQHxfBwJCgVDYQHxfBwJCgVDY
+				QHxfBwJCgWx+QH57swJCgY5JQIBkwwJCgbc/QIGscQJC
+				giLEQIUImgJCgrpRQIkxkAJCg5PrQI8tdwJCg6VTQI+o
+				WAJCg7a8QJAjOgJCg8inQJCmTAJCg8inQJCmTAJChhoQ
+				QJ/JHQJChhoQQJ/JHQJChhoQQJ/JHQJChhoQQJ/JHQJC
+				hhoQQJ/JHQJChhoQQJ/JHQJChhqTQJ/RTgJChhqTQJ/R
+				TgJCh75qQKsU5AJCiXxdQLgCdQJCitHeQMjn1QJCjCfj
+				QNnVZwJCjRsWQO8MswJCjRsWQQVprQJCjRsWQRId5wJC
+				jCjpQR2a1AJCimE7QSXQFAJCiJsWQS4FUwJChfzgQTMP
+				kQJCgpX3QTMPkQJCfkmgQTMPkQJCeJySQS3QFAJCdKK3
+				QSRjiAJCcKfVQRry5QJCbl8hQQ1E0AJCbl8hQPkxkAJC
+				bl8hQPkxkAJCbl8hQPRMMAJCbl8hQPRMMAJCbl8hQPRM
+				MAJCbl8hQPEY/AJCbl8hQPEY/AJCbl8hQPEY/AJCbsWI
+				QPEY/AJCbsWIQPEY/AJCbsWIQPEY/AJCfZJUQPEY/AJC
+				fZJUQPEY/AJCfZJUQPEY/AJCffi7QPEY/AJCffi7QPEY
+				/AJCffi7QPEY/AJCffi7QPRMMAJCffi7QPRMMAJCffi7
+				QPRMMAJCffi7QPoGjgJCffi7QPoGjgJCffi7QQMPkQJC
+				foHyQQgZzgJCf5ySQQurNgJCgF0iQQ9I6QJCgTvaQRGK
+				cgJCgnc/QRGKcgJCg3GdQRGKcgJChC4HQQ/9IgJChKr1
+				QQ119wJChSVTQQr/LgJChWLEQQeSowJChWLEQQOSowJC
+				hWLEQP5QSAJChRb9QPbbjAJChHOpQO81qAJCg87MQOeH
+				lAJCgtkJQOAS1wJCgZX3QNc92QJCgZX3QNc92QJCgZX3
+				QNc92QJCgZX3QNc92QJCgZX3QNc92QJCfZJUQMOX9gJC
+				fZJUQMOX9gJCfZJUQMOX9gJCfZFOQMOPxQJCfZFOQMOP
+				xQJCebENQLWkQAJCdeAnQKbTWwJCcwL4QJIOvwJCcCGx
+				QHpSvQJCbjcyQERvaQJCbiGxP/FyRwBBq2YyQMqBbwJB
+				q2YyQOugJwJBrWANQQC5jAJBsJVNQQd+KAJBs8iAQQ46
+				kwJBuFXQQREf8wJBvcyYQREf8wJBwy7mQREf8wJBx75C
+				QQ4+qwJByvWOQQeCQQJBzjDyQQDF1gJB0DL/QOvRTgJB
+				0DL/QMrjvQJB0DL/QKrTWwJBzjDyQJWDewJByveaQIg7
+				zQJBx75CQHXoPgJBwy7mQGpjIAJBvcyYQGpjIAJBuIDS
+				QGpjIAJBs+9pQHXoPgJBsK/sQIgznAJBrXJ8QJVzGQJB
+				q2YyQKqiNAJBq2YyQMqBbwBBvaOjP8VJUgJBzI0bP8VJ
+				UgJB2MqMP/3cxgJB4U+rQDPLkgJB6druQGjJhgJB7pll
+				QJsMswJB7pllQMtOPAJB7pllQPwznAJB6cZ0QRGGWQJB
+				4TDyQR7OBwJB2KGWQSwNhAJBzGYyQTMPkQJBvaOjQTMP
+				kQJBrvWOQTMPkQJBos6lQSv9IgJBmk+rQR7F1gJBkciA
+				QRGGWQJBjP/MQPxkwwJBjP/MQMwjOgJBjP/MQJt/YwJB
+				kae7QGk8NgJBmiCQQDP8uQJBopE0P/3cxgJBrroqP8VJ
+				UgJBvaOjP8VJUgBAx61DP/FyRwJAx61DP/FyRwJAx6US
+				P+Rj8QJAx6USP+Rj8QJAx6USP+Rj8QJAyuB2P+Rj8QJA
+				yuB2P+Rj8QJAyuB2P+Rj8QJBiPWOP+Rj8QJBiPWOP+Rj
+				8QJBiPWOP+Rj8QJBicJbP+Rj8QJBicJbP+Rj8QJBicJb
+				P+Rj8QJBicJbP/EwvgJBicJbP/EwvgJBicJbP/EwvgJB
+				icJbQHX4oQJBicJbQHX4oQJBicJbQHX4oQJBicJbQHxf
+				BwJBicJbQHxfBwJBicJbQHxfBwJBiPWOQHxfBwJBiPWO
+				QHxfBwJBiPWOQHxfBwJBNdahQHxfBwJBNdahQHxfBwJB
+				NrfpQH57swJBN8InQIBkwwJBOQnVQIGscQJBPGoWQIUI
+				mgJBQSaBQIkxkAJBR/NNQI8tdwJBSHp4QI+oWAJBSQW8
+				QJAjOgJBSZUYQJCmTAJBSZUYQJCmTAJBXCBcQJ/JHQJB
+				XCBcQJ/JHQJBXCBcQJ/JHQJBXCBcQJ/JHQJBXCBcQJ/J
+				HQJBXCBcQJ/JHQJBXCiNQJ/RTgJBXCiNQJ/RTgJBaUdF
+				QKsU5AJBdzbjQLgCdQJBgPF2QMjn1QJBhkmGQNnVZwJB
+				ihRGQO8MswJBihRGQQVprQJBihRGQRId5wJBhkuSQR2a
+				1AJBfl3MQSXQFAJBcCiNQS4FUwJBWzbjQTMPkQJBP/+X
+				QTMPkQJBJHp4QTMPkQJBDcInQS3QFAJA+72lQSRjiAJA
+				295qQRry5QJAyZjIQQ1E0AJAyZjIQPkxkAJAyZjIQPkx
+				kAJAyZjIQPRMMAJAyZjIQPRMMAJAyZjIQPRMMAJAyZjI
+				QPEY/AJAyZjIQPEY/AJAyZjIQPEY/AJAzMv7QPEY/AJA
+				zMv7QPEY/AJAzMv7QPEY/AJBIZkxQPEY/AJBIZkxQPEY
+				/AJBIZkxQPEY/AJBIzLKQPEY/AJBIzLKQPEY/AJBIzLK
+				QPEY/AJBIzLKQPRMMAJBIzLKQPRMMAJBIzLKQPRMMAJB
+				IzLKQPoGjgJBIzLKQPoGjgJBIzLKQQMPkQJBJVvAQQgZ
+				zgJBKcY/QQurNgJBLj0IQQ9I6QJBNS6yQRGKcgJBPwnV
+				QRGKcgJBRtzGQRGKcgJBTMQzQQ/9IgJBUKeHQQ119wJB
+				VH6RQQr/LgJBVmX+QQeSowJBVmX+QQOSowJBVmX+QP5Q
+				SAJBVAvhQPbbjAJBTu0pQO81qAJBScY/QOeHlAJBQhgr
+				QOAS1wJBN/+XQNc92QJBN/+XQNc92QJBN/+XQNc92QJB
+				N/+XQNc92QJBN/+XQNc92QJBIZkxQMOX9gJBIZkxQMOX
+				9gJBIZkxQMOX9gJBIZUYQMOPxQJBIZUYQMOPxQJBEhQS
+				QLWkQAJBAtB9QKbTWwJA7r+xQJIOvwJA161DQHpSvQJA
+				yFlLQERvaQJAx61DP/FyRwBAT802PiYx+QJAT802PiYx
+				+QJAUahYPgd5pwJAUahYPgd5pwJAUahYPgd5pwJAVFh5
+				Pgd5pwJAVFh5Pgd5pwJAVFh5Pgd5pwJAzgNHPgd5pwJA
+				zgNHPgd5pwJAzgNHPgd5pwJA1UbcPgd5pwJA1UbcPgd5
+				pwJA1UbcPgd5pwJA0GF8Ppk92QJA0GF8Ppk92QJApcG+
+				P+HUlQJAgTZ6QGPLkgJAgTZ6QLrr7gJAgTZ6QQDuzAJA
+				pRW1QR08nwJA0OSPQTKQlwJA0OSPQTKQlwJA1oZZQTVR
+				GgJA1oZZQTVRGgJA1oZZQTVRGgJAzqceQTVRGgJAzqce
+				QTVRGgJAzqceQTVRGgJAVFh5QTVRGgJAVFh5QTVRGgJA
+				VFh5QTVRGgJAUdl/QTVRGgJAUdl/QTVRGgJAUdl/QTVR
+				GgJAT/5dQTTiggJAT/5dQTTiggI/+px4QSGnHgI/I01q
+				QQCtQwI/I01qQLm0ogI/I01qQGDJhgI/8u5jP8VqFgJA
+				T802PiYx+QBClk5JQZPj8QJClpZ6QZxrHAJCmI3GQaI5
+				9QJCmzIgQaI59QJCnar1QaI59QJCn5PrQZzHRQJCn6LE
+				QZPj8QJCn6LEQZPj8QJClk5JQZPj8QJClk5JQZPj8QBC
+				m10iQTABOwJCo4MFQTABOwJCqL1kQU1llQJCqVuZQXLJ
+				7wJCqVuZQXLJ7wJCn7EaQXLJ7wJCn7EaQXLJ7wJCnz3n
+				QWT/LgJCnY5JQV5z6wJCm2t4QV5z6wJCmKpyQV5z6wJC
+				lmr1QWz7FgJCllyfQYExxAJCllyfQYExxAJCqYabQYEx
+				xAJCqYabQYExxAJCqYabQYExxAJCqYabQYZ1WgJCqYab
+				QYZ1WgJCqYabQaSUEgJCpEzAQbgAnQJCm0B2QbgAnQJC
+				kpkJQbgAnQJCjKPKQaVOcAJCjKPKQYgXJAJCjKPKQVJ8
+				HAJCkuC4QTABOwJCm10iQTABOwBCf94bQTABOwJCh81D
+				QTABOwJCjNwcQUlprQJCjNwcQW2zaAJCjNwcQYgXJAJC
+				iO0BQY/j8QJCg94oQZL6eAJCg94oQZL6eAJCfzITQZWy
+				ygJCfzITQZWyygJCennBQZcnhwJCeQL4QZj4bAJCeQL4
+				QZw8AgJCeQL4QaCWHgJCe9LXQaLFOQJCfzITQaLFOQJC
+				gbvaQaLFOQJCgvhFQZ6YKwJCgyNHQZlUlQJCgyNHQZlU
+				lQJCjLEaQZlUlQJCjLEaQZlUlQJCjHc/QatMZAJCh7CX
+				QbgAnQJCf06/QbgAnQJCcJVnQbgAnQJCZpRhQavXqAJC
+				ZpRhQZtUlQJCZpRhQYtaugJCbYwwQYMCqgJCd+M6QX7B
+				vgJCd+M6QX7BvgJCgH7tQXiYyAJCgH7tQXiYyAJCgqG+
+				QXYNhAJCg3nOQXINhAJCg3nOQWpv0gJCg3nOQWD/LgJC
+				giA0QVswVQJCgAw9QVswVQJCeyXJQVswVQJCeHOcQWT/
+				LgJCeB2YQXMkCwJCeB2YQXMkCwJCZMiaQXMkCwJCZMia
+				QXMkCwJCZVf2QUuWvAJCb3WoQTABOwJCf94bQTABOwBC
+				QVHRQTbmmwJCQVHRQTbmmwJCVKbPQTbmmwJCVKbPQTbm
+				mwJCVKbPQTbmmwJCVKbPQYECqgJCVKbPQYECqgJCVKbP
+				QZO01wJCW0iaQZo8AgJCYrMZQZo8AgJCZJySQZo8AgJC
+				Zdj8QZnf2QJCZvi7QZlUlQJCZvi7QZlUlQJCZvi7Qbd1
+				WgJCZvi7Qbd1WgJCZi8AQbfRgwJCZSvuQbgAnQJCZAww
+				QbgAnQJCXC36QbgAnQJCVwL4QbAxxAJCU/nBQaXZtAJC
+				VE/FQajwOwJCVG13QavXqAJCVG13Qa95cgJCVG13Qa95
+				cgJCVG13QbTqFgJCVG13QbTqFgJCVG13QbTqFgJCQVHR
+				QbTqFgJCQVHRQbTqFgJCQVHRQbTqFgJCQVHRQTbmmwJC
+				QVHRQTbmmwBCGEqmQTABOwJCILk+QTABOwJCJaroQTtA
+				uAJCKNDLQUs4hgJCKHrHQUVprQJCKF4bQUFprQJCKF4b
+				QTv5CQJCKF4bQTv5CQJCKF4bQTbmmwJCKF4bQTbmmwJC
+				KF4bQTbmmwJCO7MZQTbmmwJCO7MZQTbmmwJCO7MZQTbm
+				mwJCO7MZQbTqFgJCO7MZQbTqFgJCO7MZQbTqFgJCKF4b
+				QbTqFgJCKF4bQbTqFgJCKF4bQbTqFgJCKF4bQYB3ZgJC
+				KF4bQYB3ZgJCKF4bQWuGWQJCJG59QWD/LgJCH5l/QWD/
+				LgJCGqfVQWD/LgJCGEqmQWz7FgJCGEqmQYBKWAJCGEqm
+				QYBKWAJCGEqmQbTqFgJCGEqmQbTqFgJCGEqmQbTqFgJC
+				BNj8QbTqFgJCBNj8QbTqFgJCBNj8QbTqFgJCBNj8QXck
+				CwJCBNj8QXckCwJCBNj8QUkLeAJCDUeUQTABOwJCGEqm
+				QTABOwBBtITqQYfoCgJBtITqQZcnhwJBvJtxQZ/dzAJB
+				yPmnQZ/dzAJB1Y8oQZ/dzAJB3W5jQZcnhwJB3W5jQYfo
+				CgJB3W5jQXINhAJB1Y8oQWBG3AJByPmnQWBG3AJBvGIZ
+				QWBG3AJBtITqQXINhAJBtITqQYfoCgBByPmnQTABOwJB
+				7AoJQTABOwJCAn7gQVG/sQJCAn7gQYfoCgJCAn7gQaYI
+				zgJB7AoJQbgAnQJByPmnQbgAnQJBplv1QbgAnQJBjS7m
+				QaYIzgJBjS7mQYfoCgJBjS7mQVG/sQJBpec4QTABOwJB
+				yPmnQTABOwBBJOT3QTABOwJBbNSVQTABOwJBijDyQU+S
+				owJBjZE0QYBKWAJBjZE0QYBKWAJBTrPQQYBKWAJBTrPQ
+				QYBKWAJBTOT3QW7J7wJBQFGDQWBG3AJBKHp4QWBG3AJB
+				D092QWBG3AJA/jyfQXOCQQJA/jyfQYhzTQJA/jyfQZia
+				NwJBE1vAQZ/dzAJBKWPxQZ/dzAJBQMQzQZ/dzAJBS/+X
+				QZiaNwJBTc5wQZATDAJBTc5wQZATDAJBjR6EQZATDAJB
+				jR6EQZATDAJBitz7QabDLQJBb/dmQbgAnQJBKHp4QbgA
+				nQJAzMv7QbgAnQJAP/5dQabDLQJAP/5dQYhGPwJAP/5d
+				QVOSowJAvYA0QTABOwJBJOT3QTABOyM/lHrhR64UeyM/
+				4AAAAAAAAIAC0hgZGhtaJGNsYXNzbmFtZVgkY2xhc3Nl
+				c1xOU0JlemllclBhdGiiHB1cTlNCZXppZXJQYXRoWE5T
+				T2JqZWN0AAgAEQAaACQAKQAyADcASQBMAFEAUwBXAF0A
+				aAB0AH8AigCWAJ0Anxm9GcYZzxnRGdYZ4RnqGfcZ+hoH
+				AAAAAAAAAgEAAAAAAAAAHgAAAAAAAAAAAAAAAAAAGhA=
+				</data>
+				<key>spline dots</key>
+				<array>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{86.226900000000015, 9.9233000000000011}</string>
+						<key>controlPoint2</key>
+						<string>{84.877900000000011, 11.302300000000001}</string>
+						<key>point</key>
+						<string>{84.877900000000011, 11.302300000000001}</string>
+						<key>tag</key>
+						<integer>2</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{84.848900000000015, 11.3323}</string>
+						<key>controlPoint2</key>
+						<string>{84.848900000000015, 11.3323}</string>
+						<key>point</key>
+						<string>{84.848900000000015, 11.3323}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{84.805900000000008, 11.3323}</string>
+						<key>controlPoint2</key>
+						<string>{84.805900000000008, 11.3323}</string>
+						<key>point</key>
+						<string>{84.805900000000008, 11.3323}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{81.686900000000009, 11.3323}</string>
+						<key>controlPoint2</key>
+						<string>{81.686900000000009, 11.3323}</string>
+						<key>point</key>
+						<string>{81.686900000000009, 11.3323}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{81.459900000000005, 11.3323}</string>
+						<key>controlPoint2</key>
+						<string>{81.459900000000005, 11.3323}</string>
+						<key>point</key>
+						<string>{81.459900000000005, 11.3323}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{81.611900000000006, 11.1653}</string>
+						<key>controlPoint2</key>
+						<string>{82.944900000000004, 9.7003000000000004}</string>
+						<key>point</key>
+						<string>{81.611900000000006, 11.1653}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{84.086900000000014, 7.9053000000000004}</string>
+						<key>controlPoint2</key>
+						<string>{84.086900000000014, 3.4063000000000008}</string>
+						<key>point</key>
+						<string>{84.086900000000014, 5.6233000000000004}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{82.965900000000005, 1.6372999999999998}</string>
+						<key>controlPoint2</key>
+						<string>{81.596900000000005, 0.30429999999999957}</string>
+						<key>point</key>
+						<string>{81.596900000000005, 0.30429999999999957}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{81.420900000000017, 0.13230000000000075}</string>
+						<key>controlPoint2</key>
+						<string>{81.420900000000017, 0.13230000000000075}</string>
+						<key>point</key>
+						<string>{81.420900000000017, 0.13230000000000075}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{81.665900000000008, 0.13230000000000075}</string>
+						<key>controlPoint2</key>
+						<string>{81.665900000000008, 0.13230000000000075}</string>
+						<key>point</key>
+						<string>{81.665900000000008, 0.13230000000000075}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{84.805900000000008, 0.13230000000000075}</string>
+						<key>controlPoint2</key>
+						<string>{84.805900000000008, 0.13230000000000075}</string>
+						<key>point</key>
+						<string>{84.805900000000008, 0.13230000000000075}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{84.845900000000015, 0.13230000000000075}</string>
+						<key>controlPoint2</key>
+						<string>{84.845900000000015, 0.13230000000000075}</string>
+						<key>point</key>
+						<string>{84.845900000000015, 0.13230000000000075}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{84.874900000000011, 0.1593}</string>
+						<key>controlPoint2</key>
+						<string>{86.166900000000012, 1.3613}</string>
+						<key>point</key>
+						<string>{84.874900000000011, 0.1593}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{87.486900000000006, 3.4223000000000008}</string>
+						<key>controlPoint2</key>
+						<string>{87.486900000000006, 7.952300000000001}</string>
+						<key>point</key>
+						<string>{87.486900000000006, 5.662300000000001}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{86.226900000000015, 9.9233000000000011}</string>
+						<key>controlPoint2</key>
+						<string>{84.877900000000011, 11.302300000000001}</string>
+						<key>point</key>
+						<string>{84.877900000000011, 11.302300000000001}</string>
+						<key>tag</key>
+						<integer>2</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{82.012900000000016, 5.4633000000000003}</string>
+						<key>controlPoint2</key>
+						<string>{81.179900000000018, 6.1173000000000002}</string>
+						<key>point</key>
+						<string>{81.551900000000018, 5.8253000000000004}</string>
+						<key>tag</key>
+						<integer>2</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{80.691900000000004, 6.3373000000000008}</string>
+						<key>controlPoint2</key>
+						<string>{80.613900000000015, 6.6283000000000003}</string>
+						<key>point</key>
+						<string>{80.137900000000016, 6.4863000000000008}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{81.046900000000008, 6.8323000000000009}</string>
+						<key>controlPoint2</key>
+						<string>{81.816900000000004, 7.4443000000000001}</string>
+						<key>point</key>
+						<string>{81.384900000000016, 7.1013000000000002}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{82.09790000000001, 7.8973000000000004}</string>
+						<key>controlPoint2</key>
+						<string>{82.09790000000001, 9.3333000000000013}</string>
+						<key>point</key>
+						<string>{82.09790000000001, 8.4533000000000005}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{81.509900000000016, 10.020300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{79.61290000000001, 10.9443}</string>
+						<key>point</key>
+						<string>{80.560900000000004, 10.4823}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{78.286900000000017, 11.1913}</string>
+						<key>controlPoint2</key>
+						<string>{75.036900000000003, 11.1913}</string>
+						<key>point</key>
+						<string>{76.757900000000006, 11.1913}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{73.618900000000011, 10.882300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{71.60390000000001, 9.7883000000000013}</string>
+						<key>point</key>
+						<string>{72.611900000000006, 10.336300000000001}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{71.000900000000016, 8.9963000000000015}</string>
+						<key>controlPoint2</key>
+						<string>{70.937900000000013, 8.0373000000000001}</string>
+						<key>point</key>
+						<string>{70.937900000000013, 8.0373000000000001}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{70.930900000000008, 7.9313000000000002}</string>
+						<key>controlPoint2</key>
+						<string>{70.930900000000008, 7.9313000000000002}</string>
+						<key>point</key>
+						<string>{70.930900000000008, 7.9313000000000002}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{71.037900000000008, 7.9313000000000002}</string>
+						<key>controlPoint2</key>
+						<string>{71.037900000000008, 7.9313000000000002}</string>
+						<key>point</key>
+						<string>{71.037900000000008, 7.9313000000000002}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{74.73790000000001, 7.9313000000000002}</string>
+						<key>controlPoint2</key>
+						<string>{74.73790000000001, 7.9313000000000002}</string>
+						<key>point</key>
+						<string>{74.73790000000001, 7.9313000000000002}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{74.828900000000004, 7.9313000000000002}</string>
+						<key>controlPoint2</key>
+						<string>{74.828900000000004, 7.9313000000000002}</string>
+						<key>point</key>
+						<string>{74.828900000000004, 7.9313000000000002}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{74.836900000000014, 8.0223000000000013}</string>
+						<key>controlPoint2</key>
+						<string>{74.863900000000015, 8.3373000000000008}</string>
+						<key>point</key>
+						<string>{74.836900000000014, 8.0223000000000013}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{75.041900000000012, 8.6022999999999996}</string>
+						<key>controlPoint2</key>
+						<string>{75.678900000000013, 8.9832999999999998}</string>
+						<key>point</key>
+						<string>{75.358900000000006, 8.7923000000000009}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{76.138900000000007, 9.0963000000000012}</string>
+						<key>controlPoint2</key>
+						<string>{77.238900000000015, 9.0963000000000012}</string>
+						<key>point</key>
+						<string>{76.717900000000014, 9.0963000000000012}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{77.644900000000007, 9.0083000000000002}</string>
+						<key>controlPoint2</key>
+						<string>{78.184900000000013, 8.7093000000000007}</string>
+						<key>point</key>
+						<string>{77.916900000000012, 8.8573000000000004}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{78.317900000000009, 8.5053000000000001}</string>
+						<key>controlPoint2</key>
+						<string>{78.317900000000009, 7.9843000000000011}</string>
+						<key>point</key>
+						<string>{78.317900000000009, 8.2613000000000003}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{78.142900000000012, 7.7813000000000008}</string>
+						<key>controlPoint2</key>
+						<string>{77.490900000000011, 7.5033000000000012}</string>
+						<key>point</key>
+						<string>{77.817900000000009, 7.6423000000000005}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{77.031900000000007, 7.4393000000000011}</string>
+						<key>controlPoint2</key>
+						<string>{76.517900000000012, 7.4393000000000011}</string>
+						<key>point</key>
+						<string>{76.517900000000012, 7.4393000000000011}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{75.397900000000007, 7.4393000000000011}</string>
+						<key>controlPoint2</key>
+						<string>{75.397900000000007, 7.4393000000000011}</string>
+						<key>point</key>
+						<string>{75.397900000000007, 7.4393000000000011}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{75.297900000000013, 7.4393000000000011}</string>
+						<key>controlPoint2</key>
+						<string>{75.297900000000013, 7.4393000000000011}</string>
+						<key>point</key>
+						<string>{75.297900000000013, 7.4393000000000011}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{75.297900000000013, 7.3393000000000006}</string>
+						<key>controlPoint2</key>
+						<string>{75.297900000000013, 7.3393000000000006}</string>
+						<key>point</key>
+						<string>{75.297900000000013, 7.3393000000000006}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{75.297900000000013, 5.5463000000000005}</string>
+						<key>controlPoint2</key>
+						<string>{75.297900000000013, 5.5463000000000005}</string>
+						<key>point</key>
+						<string>{75.297900000000013, 5.5463000000000005}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{75.297900000000013, 5.4463000000000008}</string>
+						<key>controlPoint2</key>
+						<string>{75.297900000000013, 5.4463000000000008}</string>
+						<key>point</key>
+						<string>{75.297900000000013, 5.4463000000000008}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{75.397900000000007, 5.4463000000000008}</string>
+						<key>controlPoint2</key>
+						<string>{75.397900000000007, 5.4463000000000008}</string>
+						<key>point</key>
+						<string>{75.397900000000007, 5.4463000000000008}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{76.557900000000018, 5.4463000000000008}</string>
+						<key>controlPoint2</key>
+						<string>{77.180900000000008, 5.4463000000000008}</string>
+						<key>point</key>
+						<string>{76.557900000000018, 5.4463000000000008}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{77.679900000000004, 5.364300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{78.354900000000015, 5.0553000000000008}</string>
+						<key>point</key>
+						<string>{78.018900000000016, 5.2093000000000007}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{78.517900000000012, 4.8413000000000004}</string>
+						<key>controlPoint2</key>
+						<string>{78.517900000000012, 4.2883000000000004}</string>
+						<key>point</key>
+						<string>{78.517900000000012, 4.5733000000000006}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{78.35390000000001, 4.0583000000000009}</string>
+						<key>controlPoint2</key>
+						<string>{77.706900000000005, 3.7283000000000008}</string>
+						<key>point</key>
+						<string>{78.031900000000007, 3.8943000000000003}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{77.229900000000015, 3.6363000000000003}</string>
+						<key>controlPoint2</key>
+						<string>{75.97890000000001, 3.6363000000000003}</string>
+						<key>point</key>
+						<string>{76.637900000000016, 3.6363000000000003}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{75.47590000000001, 3.7653000000000008}</string>
+						<key>controlPoint2</key>
+						<string>{74.804900000000004, 4.2153000000000009}</string>
+						<key>point</key>
+						<string>{75.137900000000016, 3.9923000000000002}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{74.626900000000006, 4.5373000000000001}</string>
+						<key>controlPoint2</key>
+						<string>{74.617900000000006, 4.9473000000000003}</string>
+						<key>point</key>
+						<string>{74.617900000000006, 4.9473000000000003}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{74.614900000000006, 5.0453000000000001}</string>
+						<key>controlPoint2</key>
+						<string>{74.614900000000006, 5.0453000000000001}</string>
+						<key>point</key>
+						<string>{74.614900000000006, 5.0453000000000001}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{74.517900000000012, 5.0453000000000001}</string>
+						<key>controlPoint2</key>
+						<string>{74.517900000000012, 5.0453000000000001}</string>
+						<key>point</key>
+						<string>{74.517900000000012, 5.0453000000000001}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{70.817900000000009, 5.0453000000000001}</string>
+						<key>controlPoint2</key>
+						<string>{70.817900000000009, 5.0453000000000001}</string>
+						<key>point</key>
+						<string>{70.817900000000009, 5.0453000000000001}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{70.715900000000005, 5.0453000000000001}</string>
+						<key>controlPoint2</key>
+						<string>{70.715900000000005, 5.0453000000000001}</string>
+						<key>point</key>
+						<string>{70.715900000000005, 5.0453000000000001}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{70.717900000000014, 4.9433000000000007}</string>
+						<key>controlPoint2</key>
+						<string>{70.73790000000001, 3.872300000000001}</string>
+						<key>point</key>
+						<string>{70.717900000000014, 4.9433000000000007}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{71.296900000000008, 3.0163000000000011}</string>
+						<key>controlPoint2</key>
+						<string>{73.308900000000008, 1.8522999999999996}</string>
+						<key>point</key>
+						<string>{72.304900000000004, 2.4333000000000009}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{74.757900000000006, 1.5412999999999997}</string>
+						<key>controlPoint2</key>
+						<string>{78.256900000000016, 1.5412999999999997}</string>
+						<key>point</key>
+						<string>{76.577900000000014, 1.5412999999999997}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{79.678900000000013, 1.8213000000000008}</string>
+						<key>controlPoint2</key>
+						<string>{81.688900000000018, 2.8083000000000009}</string>
+						<key>point</key>
+						<string>{80.683900000000008, 2.3143000000000011}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{82.297900000000013, 3.5273000000000003}</string>
+						<key>controlPoint2</key>
+						<string>{82.297900000000013, 4.9883000000000006}</string>
+						<key>point</key>
+						<string>{82.297900000000013, 4.4073000000000002}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{82.012900000000016, 5.4633000000000003}</string>
+						<key>controlPoint2</key>
+						<string>{81.179900000000018, 6.1173000000000002}</string>
+						<key>point</key>
+						<string>{81.551900000000018, 5.8253000000000004}</string>
+						<key>tag</key>
+						<integer>2</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{59.553900000000013, 3.0693000000000001}</string>
+						<key>controlPoint2</key>
+						<string>{59.532900000000012, 1.8863000000000003}</string>
+						<key>point</key>
+						<string>{59.532900000000012, 1.8863000000000003}</string>
+						<key>tag</key>
+						<integer>2</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{59.53090000000001, 1.7843}</string>
+						<key>controlPoint2</key>
+						<string>{59.53090000000001, 1.7843}</string>
+						<key>point</key>
+						<string>{59.53090000000001, 1.7843}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{59.632900000000006, 1.7843}</string>
+						<key>controlPoint2</key>
+						<string>{59.632900000000006, 1.7843}</string>
+						<key>point</key>
+						<string>{59.632900000000006, 1.7843}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{70.412900000000008, 1.7843}</string>
+						<key>controlPoint2</key>
+						<string>{70.412900000000008, 1.7843}</string>
+						<key>point</key>
+						<string>{70.412900000000008, 1.7843}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{70.512900000000016, 1.7843}</string>
+						<key>controlPoint2</key>
+						<string>{70.512900000000016, 1.7843}</string>
+						<key>point</key>
+						<string>{70.512900000000016, 1.7843}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{70.512900000000016, 1.8842999999999996}</string>
+						<key>controlPoint2</key>
+						<string>{70.512900000000016, 1.8842999999999996}</string>
+						<key>point</key>
+						<string>{70.512900000000016, 1.8842999999999996}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{70.512900000000016, 3.8433000000000002}</string>
+						<key>controlPoint2</key>
+						<string>{70.512900000000016, 3.8433000000000002}</string>
+						<key>point</key>
+						<string>{70.512900000000016, 3.8433000000000002}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{70.512900000000016, 3.9433000000000007}</string>
+						<key>controlPoint2</key>
+						<string>{70.512900000000016, 3.9433000000000007}</string>
+						<key>point</key>
+						<string>{70.512900000000016, 3.9433000000000007}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{70.412900000000008, 3.9433000000000007}</string>
+						<key>controlPoint2</key>
+						<string>{70.412900000000008, 3.9433000000000007}</string>
+						<key>point</key>
+						<string>{70.412900000000008, 3.9433000000000007}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{64.657900000000012, 3.9433000000000007}</string>
+						<key>controlPoint2</key>
+						<string>{64.711900000000014, 3.9763000000000002}</string>
+						<key>point</key>
+						<string>{64.657900000000012, 3.9433000000000007}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{64.777900000000017, 4.0123000000000006}</string>
+						<key>controlPoint2</key>
+						<string>{65.067900000000009, 4.1573000000000002}</string>
+						<key>point</key>
+						<string>{64.857900000000015, 4.0523000000000007}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{65.363900000000015, 4.2873000000000001}</string>
+						<key>controlPoint2</key>
+						<string>{65.822900000000004, 4.489300000000001}</string>
+						<key>point</key>
+						<string>{65.788900000000012, 4.4743000000000004}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{65.85690000000001, 4.5043000000000006}</string>
+						<key>controlPoint2</key>
+						<string>{65.891900000000007, 4.5203000000000007}</string>
+						<key>point</key>
+						<string>{65.891900000000007, 4.5203000000000007}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{67.050900000000013, 4.9933000000000005}</string>
+						<key>controlPoint2</key>
+						<string>{67.050900000000013, 4.9933000000000005}</string>
+						<key>point</key>
+						<string>{67.050900000000013, 4.9933000000000005}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{67.050900000000013, 4.9933000000000005}</string>
+						<key>controlPoint2</key>
+						<string>{67.050900000000013, 4.9933000000000005}</string>
+						<key>point</key>
+						<string>{67.050900000000013, 4.9933000000000005}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{67.051900000000018, 4.9943000000000008}</string>
+						<key>controlPoint2</key>
+						<string>{67.871900000000011, 5.3463000000000003}</string>
+						<key>point</key>
+						<string>{67.051900000000018, 4.9943000000000008}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{68.742900000000006, 5.7503000000000002}</string>
+						<key>controlPoint2</key>
+						<string>{70.077900000000014, 6.8073000000000006}</string>
+						<key>point</key>
+						<string>{69.409900000000007, 6.2783000000000007}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{70.552900000000008, 7.4702999999999999}</string>
+						<key>controlPoint2</key>
+						<string>{70.552900000000008, 9.1323000000000008}</string>
+						<key>point</key>
+						<string>{70.552900000000008, 8.3383000000000003}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{70.079900000000009, 9.8503000000000007}</string>
+						<key>controlPoint2</key>
+						<string>{68.302900000000008, 10.876300000000001}</string>
+						<key>point</key>
+						<string>{69.189900000000009, 10.363300000000001}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{66.993900000000011, 11.1913}</string>
+						<key>controlPoint2</key>
+						<string>{63.571900000000014, 11.1913}</string>
+						<key>point</key>
+						<string>{65.292900000000003, 11.1913}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{62.15290000000001, 10.863300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{60.163900000000012, 9.6843000000000004}</string>
+						<key>point</key>
+						<string>{61.15890000000001, 10.2743}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{59.592900000000014, 8.8292999999999999}</string>
+						<key>controlPoint2</key>
+						<string>{59.592900000000014, 7.7873000000000001}</string>
+						<key>point</key>
+						<string>{59.592900000000014, 7.7873000000000001}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{59.592900000000014, 7.6343000000000005}</string>
+						<key>controlPoint2</key>
+						<string>{59.592900000000014, 7.6343000000000005}</string>
+						<key>point</key>
+						<string>{59.592900000000014, 7.6343000000000005}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{59.592900000000014, 7.5343}</string>
+						<key>controlPoint2</key>
+						<string>{59.592900000000014, 7.5343}</string>
+						<key>point</key>
+						<string>{59.592900000000014, 7.5343}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{59.692900000000009, 7.5343}</string>
+						<key>controlPoint2</key>
+						<string>{59.692900000000009, 7.5343}</string>
+						<key>point</key>
+						<string>{59.692900000000009, 7.5343}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{63.392900000000012, 7.5343}</string>
+						<key>controlPoint2</key>
+						<string>{63.392900000000012, 7.5343}</string>
+						<key>point</key>
+						<string>{63.392900000000012, 7.5343}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{63.492900000000006, 7.5343}</string>
+						<key>controlPoint2</key>
+						<string>{63.492900000000006, 7.5343}</string>
+						<key>point</key>
+						<string>{63.492900000000006, 7.5343}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{63.492900000000006, 7.6343000000000005}</string>
+						<key>controlPoint2</key>
+						<string>{63.492900000000006, 7.6343000000000005}</string>
+						<key>point</key>
+						<string>{63.492900000000006, 7.6343000000000005}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{63.492900000000006, 7.8133000000000008}</string>
+						<key>controlPoint2</key>
+						<string>{63.492900000000006, 8.1913}</string>
+						<key>point</key>
+						<string>{63.492900000000006, 7.8133000000000008}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{63.626900000000006, 8.5062999999999995}</string>
+						<key>controlPoint2</key>
+						<string>{64.181900000000013, 8.9553000000000011}</string>
+						<key>point</key>
+						<string>{63.90290000000001, 8.7293000000000003}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{64.616900000000015, 9.0963000000000012}</string>
+						<key>controlPoint2</key>
+						<string>{65.721900000000005, 9.0963000000000012}</string>
+						<key>point</key>
+						<string>{65.232900000000015, 9.0963000000000012}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{66.089900000000014, 8.9993000000000016}</string>
+						<key>controlPoint2</key>
+						<string>{66.572900000000004, 8.6873000000000005}</string>
+						<key>point</key>
+						<string>{66.333900000000014, 8.8413000000000004}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{66.692900000000009, 8.4733000000000001}</string>
+						<key>controlPoint2</key>
+						<string>{66.692900000000009, 7.9473000000000003}</string>
+						<key>point</key>
+						<string>{66.692900000000009, 8.2233000000000001}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{66.544900000000013, 7.7143000000000006}</string>
+						<key>controlPoint2</key>
+						<string>{65.903900000000007, 7.2353000000000005}</string>
+						<key>point</key>
+						<string>{66.22590000000001, 7.4753000000000007}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{65.423900000000003, 7.0023000000000009}</string>
+						<key>controlPoint2</key>
+						<string>{64.792900000000003, 6.7263000000000002}</string>
+						<key>point</key>
+						<string>{64.792900000000003, 6.7263000000000002}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{64.792900000000003, 6.7263000000000002}</string>
+						<key>controlPoint2</key>
+						<string>{64.792900000000003, 6.7263000000000002}</string>
+						<key>point</key>
+						<string>{64.792900000000003, 6.7263000000000002}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{63.392900000000012, 6.1123000000000003}</string>
+						<key>controlPoint2</key>
+						<string>{63.392900000000012, 6.1123000000000003}</string>
+						<key>point</key>
+						<string>{63.392900000000012, 6.1123000000000003}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{63.391900000000007, 6.1113000000000008}</string>
+						<key>controlPoint2</key>
+						<string>{62.422900000000013, 5.6763000000000003}</string>
+						<key>point</key>
+						<string>{63.391900000000007, 6.1113000000000008}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{61.468900000000012, 5.2133000000000003}</string>
+						<key>controlPoint2</key>
+						<string>{60.032900000000012, 3.9113000000000007}</string>
+						<key>point</key>
+						<string>{60.752900000000011, 4.5643000000000002}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{59.553900000000013, 3.0693000000000001}</string>
+						<key>controlPoint2</key>
+						<string>{59.532900000000012, 1.8863000000000003}</string>
+						<key>point</key>
+						<string>{59.532900000000012, 1.8863000000000003}</string>
+						<key>tag</key>
+						<integer>2</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{21.424900000000008, 5.3323000000000009}</string>
+						<key>controlPoint2</key>
+						<string>{21.424900000000008, 7.3633000000000006}</string>
+						<key>point</key>
+						<string>{21.424900000000008, 6.3283000000000005}</string>
+						<key>tag</key>
+						<integer>2</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{21.671900000000008, 8.045300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{22.47290000000001, 8.8893000000000004}</string>
+						<key>point</key>
+						<string>{22.072900000000011, 8.468300000000001}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{23.041900000000012, 9.0702999999999996}</string>
+						<key>controlPoint2</key>
+						<string>{24.397900000000007, 9.0702999999999996}</string>
+						<key>point</key>
+						<string>{23.724900000000012, 9.0702999999999996}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{24.967900000000007, 8.8902999999999999}</string>
+						<key>controlPoint2</key>
+						<string>{25.773900000000012, 8.0483000000000011}</string>
+						<key>point</key>
+						<string>{25.369900000000008, 8.4693000000000005}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{26.024900000000009, 7.3693000000000008}</string>
+						<key>controlPoint2</key>
+						<string>{26.024900000000009, 5.3383000000000003}</string>
+						<key>point</key>
+						<string>{26.024900000000009, 6.3403000000000009}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{25.773900000000012, 4.6723000000000008}</string>
+						<key>controlPoint2</key>
+						<string>{24.967900000000007, 3.8423000000000007}</string>
+						<key>point</key>
+						<string>{25.370900000000013, 4.2573000000000008}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{24.397900000000007, 3.6623000000000001}</string>
+						<key>controlPoint2</key>
+						<string>{23.062900000000006, 3.6623000000000001}</string>
+						<key>point</key>
+						<string>{23.724900000000012, 3.6623000000000001}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{22.491900000000008, 3.8423000000000007}</string>
+						<key>controlPoint2</key>
+						<string>{21.680900000000008, 4.6703000000000001}</string>
+						<key>point</key>
+						<string>{22.085900000000009, 4.2563000000000004}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{21.424900000000008, 5.3323000000000009}</string>
+						<key>controlPoint2</key>
+						<string>{21.424900000000008, 7.3633000000000006}</string>
+						<key>point</key>
+						<string>{21.424900000000008, 6.3283000000000005}</string>
+						<key>tag</key>
+						<integer>2</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{21.840900000000012, 1.5412999999999997}</string>
+						<key>controlPoint2</key>
+						<string>{25.568900000000006, 1.5412999999999997}</string>
+						<key>point</key>
+						<string>{23.704900000000009, 1.5412999999999997}</string>
+						<key>tag</key>
+						<integer>2</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{27.098900000000008, 1.9832999999999998}</string>
+						<key>controlPoint2</key>
+						<string>{29.23190000000001, 3.6373000000000006}</string>
+						<key>point</key>
+						<string>{28.163900000000012, 2.8093000000000004}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{29.824900000000007, 4.8453000000000008}</string>
+						<key>controlPoint2</key>
+						<string>{29.824900000000007, 7.8813000000000004}</string>
+						<key>point</key>
+						<string>{29.824900000000007, 6.3533000000000008}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{29.221900000000012, 9.0953000000000017}</string>
+						<key>controlPoint2</key>
+						<string>{27.078900000000012, 10.753300000000001}</string>
+						<key>point</key>
+						<string>{28.148900000000012, 9.9253}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{25.549900000000008, 11.1913}</string>
+						<key>controlPoint2</key>
+						<string>{21.869900000000008, 11.1913}</string>
+						<key>point</key>
+						<string>{23.704900000000009, 11.1913}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{20.35090000000001, 10.7493}</string>
+						<key>controlPoint2</key>
+						<string>{18.22290000000001, 9.0953000000000017}</string>
+						<key>point</key>
+						<string>{19.288900000000012, 9.9233000000000011}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{17.624900000000011, 7.8873000000000006}</string>
+						<key>controlPoint2</key>
+						<string>{17.624900000000011, 4.8593000000000002}</string>
+						<key>point</key>
+						<string>{17.624900000000011, 6.3793000000000006}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{18.206900000000005, 3.6443000000000003}</string>
+						<key>controlPoint2</key>
+						<string>{20.320900000000009, 1.9832999999999998}</string>
+						<key>point</key>
+						<string>{19.265900000000016, 2.8123000000000005}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{21.840900000000012, 1.5412999999999997}</string>
+						<key>controlPoint2</key>
+						<string>{25.568900000000006, 1.5412999999999997}</string>
+						<key>point</key>
+						<string>{23.704900000000009, 1.5412999999999997}</string>
+						<key>tag</key>
+						<integer>2</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{6.2609000000000066, 3.0693000000000001}</string>
+						<key>controlPoint2</key>
+						<string>{6.2399000000000058, 1.8863000000000003}</string>
+						<key>point</key>
+						<string>{6.2399000000000058, 1.8863000000000003}</string>
+						<key>tag</key>
+						<integer>2</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{6.2389000000000152, 1.7843}</string>
+						<key>controlPoint2</key>
+						<string>{6.2389000000000152, 1.7843}</string>
+						<key>point</key>
+						<string>{6.2389000000000152, 1.7843}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{6.3399000000000143, 1.7843}</string>
+						<key>controlPoint2</key>
+						<string>{6.3399000000000143, 1.7843}</string>
+						<key>point</key>
+						<string>{6.3399000000000143, 1.7843}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{17.119900000000015, 1.7843}</string>
+						<key>controlPoint2</key>
+						<string>{17.119900000000015, 1.7843}</string>
+						<key>point</key>
+						<string>{17.119900000000015, 1.7843}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{17.21990000000001, 1.7843}</string>
+						<key>controlPoint2</key>
+						<string>{17.21990000000001, 1.7843}</string>
+						<key>point</key>
+						<string>{17.21990000000001, 1.7843}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{17.21990000000001, 1.8842999999999996}</string>
+						<key>controlPoint2</key>
+						<string>{17.21990000000001, 1.8842999999999996}</string>
+						<key>point</key>
+						<string>{17.21990000000001, 1.8842999999999996}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{17.21990000000001, 3.8433000000000002}</string>
+						<key>controlPoint2</key>
+						<string>{17.21990000000001, 3.8433000000000002}</string>
+						<key>point</key>
+						<string>{17.21990000000001, 3.8433000000000002}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{17.21990000000001, 3.9433000000000007}</string>
+						<key>controlPoint2</key>
+						<string>{17.21990000000001, 3.9433000000000007}</string>
+						<key>point</key>
+						<string>{17.21990000000001, 3.9433000000000007}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{17.119900000000015, 3.9433000000000007}</string>
+						<key>controlPoint2</key>
+						<string>{17.119900000000015, 3.9433000000000007}</string>
+						<key>point</key>
+						<string>{17.119900000000015, 3.9433000000000007}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{11.364900000000006, 3.9433000000000007}</string>
+						<key>controlPoint2</key>
+						<string>{11.419900000000013, 3.9763000000000002}</string>
+						<key>point</key>
+						<string>{11.364900000000006, 3.9433000000000007}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{11.48490000000001, 4.0123000000000006}</string>
+						<key>controlPoint2</key>
+						<string>{11.775900000000007, 4.1573000000000002}</string>
+						<key>point</key>
+						<string>{11.564900000000009, 4.0523000000000007}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{12.071900000000014, 4.2873000000000001}</string>
+						<key>controlPoint2</key>
+						<string>{12.529900000000012, 4.489300000000001}</string>
+						<key>point</key>
+						<string>{12.496900000000011, 4.4743000000000004}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{12.563900000000004, 4.5043000000000006}</string>
+						<key>controlPoint2</key>
+						<string>{12.598900000000015, 4.5203000000000007}</string>
+						<key>point</key>
+						<string>{12.598900000000015, 4.5203000000000007}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{13.757900000000006, 4.9933000000000005}</string>
+						<key>controlPoint2</key>
+						<string>{13.757900000000006, 4.9933000000000005}</string>
+						<key>point</key>
+						<string>{13.757900000000006, 4.9933000000000005}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{13.757900000000006, 4.9933000000000005}</string>
+						<key>controlPoint2</key>
+						<string>{13.757900000000006, 4.9933000000000005}</string>
+						<key>point</key>
+						<string>{13.757900000000006, 4.9933000000000005}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{13.759900000000016, 4.9943000000000008}</string>
+						<key>controlPoint2</key>
+						<string>{14.579900000000009, 5.3463000000000003}</string>
+						<key>point</key>
+						<string>{13.759900000000016, 4.9943000000000008}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{15.450900000000004, 5.7503000000000002}</string>
+						<key>controlPoint2</key>
+						<string>{16.785900000000012, 6.8073000000000006}</string>
+						<key>point</key>
+						<string>{16.117900000000006, 6.2783000000000007}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{17.259900000000016, 7.4702999999999999}</string>
+						<key>controlPoint2</key>
+						<string>{17.259900000000016, 9.1323000000000008}</string>
+						<key>point</key>
+						<string>{17.259900000000016, 8.3383000000000003}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{16.786900000000003, 9.8503000000000007}</string>
+						<key>controlPoint2</key>
+						<string>{15.009900000000016, 10.876300000000001}</string>
+						<key>point</key>
+						<string>{15.897900000000007, 10.363300000000001}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{13.700900000000004, 11.1913}</string>
+						<key>controlPoint2</key>
+						<string>{10.279900000000012, 11.1913}</string>
+						<key>point</key>
+						<string>{11.999900000000011, 11.1913}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{8.8599000000000103, 10.863300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{6.870900000000006, 9.6843000000000004}</string>
+						<key>point</key>
+						<string>{7.8669000000000153, 10.2743}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{6.299900000000008, 8.8292999999999999}</string>
+						<key>controlPoint2</key>
+						<string>{6.299900000000008, 7.7873000000000001}</string>
+						<key>point</key>
+						<string>{6.299900000000008, 7.7873000000000001}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{6.299900000000008, 7.6343000000000005}</string>
+						<key>controlPoint2</key>
+						<string>{6.299900000000008, 7.6343000000000005}</string>
+						<key>point</key>
+						<string>{6.299900000000008, 7.6343000000000005}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{6.299900000000008, 7.5343}</string>
+						<key>controlPoint2</key>
+						<string>{6.299900000000008, 7.5343}</string>
+						<key>point</key>
+						<string>{6.299900000000008, 7.5343}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{6.3999000000000024, 7.5343}</string>
+						<key>controlPoint2</key>
+						<string>{6.3999000000000024, 7.5343}</string>
+						<key>point</key>
+						<string>{6.3999000000000024, 7.5343}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{10.099900000000005, 7.5343}</string>
+						<key>controlPoint2</key>
+						<string>{10.099900000000005, 7.5343}</string>
+						<key>point</key>
+						<string>{10.099900000000005, 7.5343}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{10.199900000000014, 7.5343}</string>
+						<key>controlPoint2</key>
+						<string>{10.199900000000014, 7.5343}</string>
+						<key>point</key>
+						<string>{10.199900000000014, 7.5343}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{10.199900000000014, 7.6343000000000005}</string>
+						<key>controlPoint2</key>
+						<string>{10.199900000000014, 7.6343000000000005}</string>
+						<key>point</key>
+						<string>{10.199900000000014, 7.6343000000000005}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{10.199900000000014, 7.8133000000000008}</string>
+						<key>controlPoint2</key>
+						<string>{10.199900000000014, 8.1913}</string>
+						<key>point</key>
+						<string>{10.199900000000014, 7.8133000000000008}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{10.334900000000005, 8.5062999999999995}</string>
+						<key>controlPoint2</key>
+						<string>{10.889900000000011, 8.9553000000000011}</string>
+						<key>point</key>
+						<string>{10.610900000000015, 8.7293000000000003}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{11.323900000000009, 9.0963000000000012}</string>
+						<key>controlPoint2</key>
+						<string>{12.428900000000013, 9.0963000000000012}</string>
+						<key>point</key>
+						<string>{11.939900000000009, 9.0963000000000012}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{12.797900000000013, 8.9993000000000016}</string>
+						<key>controlPoint2</key>
+						<string>{13.280900000000003, 8.6873000000000005}</string>
+						<key>point</key>
+						<string>{13.040900000000008, 8.8413000000000004}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{13.399900000000017, 8.4733000000000001}</string>
+						<key>controlPoint2</key>
+						<string>{13.399900000000017, 7.9473000000000003}</string>
+						<key>point</key>
+						<string>{13.399900000000017, 8.2233000000000001}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{13.252900000000011, 7.7143000000000006}</string>
+						<key>controlPoint2</key>
+						<string>{12.610900000000015, 7.2353000000000005}</string>
+						<key>point</key>
+						<string>{12.932900000000004, 7.4753000000000007}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{12.130900000000011, 7.0023000000000009}</string>
+						<key>controlPoint2</key>
+						<string>{11.499900000000011, 6.7263000000000002}</string>
+						<key>point</key>
+						<string>{11.499900000000011, 6.7263000000000002}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{11.499900000000011, 6.7263000000000002}</string>
+						<key>controlPoint2</key>
+						<string>{11.499900000000011, 6.7263000000000002}</string>
+						<key>point</key>
+						<string>{11.499900000000011, 6.7263000000000002}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{10.099900000000005, 6.1123000000000003}</string>
+						<key>controlPoint2</key>
+						<string>{10.099900000000005, 6.1123000000000003}</string>
+						<key>point</key>
+						<string>{10.099900000000005, 6.1123000000000003}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{10.098900000000015, 6.1113000000000008}</string>
+						<key>controlPoint2</key>
+						<string>{9.1299000000000063, 5.6763000000000003}</string>
+						<key>point</key>
+						<string>{10.098900000000015, 6.1113000000000008}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{8.1759000000000128, 5.2133000000000003}</string>
+						<key>controlPoint2</key>
+						<string>{6.7399000000000058, 3.9113000000000007}</string>
+						<key>point</key>
+						<string>{7.4609000000000094, 4.5643000000000002}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{6.2609000000000066, 3.0693000000000001}</string>
+						<key>controlPoint2</key>
+						<string>{6.2399000000000058, 1.8863000000000003}</string>
+						<key>point</key>
+						<string>{6.2399000000000058, 1.8863000000000003}</string>
+						<key>tag</key>
+						<integer>2</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{1.897900000000007, 1.5423000000000009}</string>
+						<key>controlPoint2</key>
+						<string>{3.2469000000000108, 0.16230000000000011}</string>
+						<key>point</key>
+						<string>{3.2469000000000108, 0.16230000000000011}</string>
+						<key>tag</key>
+						<integer>2</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{3.2759000000000071, 0.13230000000000075}</string>
+						<key>controlPoint2</key>
+						<string>{3.2759000000000071, 0.13230000000000075}</string>
+						<key>point</key>
+						<string>{3.2759000000000071, 0.13230000000000075}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{3.3179000000000087, 0.13230000000000075}</string>
+						<key>controlPoint2</key>
+						<string>{3.3179000000000087, 0.13230000000000075}</string>
+						<key>point</key>
+						<string>{3.3179000000000087, 0.13230000000000075}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{6.4379000000000133, 0.13230000000000075}</string>
+						<key>controlPoint2</key>
+						<string>{6.4379000000000133, 0.13230000000000075}</string>
+						<key>point</key>
+						<string>{6.4379000000000133, 0.13230000000000075}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{6.6649000000000029, 0.13230000000000075}</string>
+						<key>controlPoint2</key>
+						<string>{6.6649000000000029, 0.13230000000000075}</string>
+						<key>point</key>
+						<string>{6.6649000000000029, 0.13230000000000075}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{6.5119000000000113, 0.29930000000000057}</string>
+						<key>controlPoint2</key>
+						<string>{5.1799000000000035, 1.7643000000000004}</string>
+						<key>point</key>
+						<string>{6.5119000000000113, 0.29930000000000057}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{4.0379000000000076, 3.5593000000000004}</string>
+						<key>controlPoint2</key>
+						<string>{4.0379000000000076, 8.0583000000000009}</string>
+						<key>point</key>
+						<string>{4.0379000000000076, 5.8413000000000004}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{5.1589000000000027, 9.827300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{6.5279000000000025, 11.160300000000001}</string>
+						<key>point</key>
+						<string>{6.5279000000000025, 11.160300000000001}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{6.7039000000000044, 11.3323}</string>
+						<key>controlPoint2</key>
+						<string>{6.7039000000000044, 11.3323}</string>
+						<key>point</key>
+						<string>{6.7039000000000044, 11.3323}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{6.4579000000000093, 11.3323}</string>
+						<key>controlPoint2</key>
+						<string>{6.4579000000000093, 11.3323}</string>
+						<key>point</key>
+						<string>{6.4579000000000093, 11.3323}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{3.3179000000000087, 11.3323}</string>
+						<key>controlPoint2</key>
+						<string>{3.3179000000000087, 11.3323}</string>
+						<key>point</key>
+						<string>{3.3179000000000087, 11.3323}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{3.2789000000000073, 11.3323}</string>
+						<key>controlPoint2</key>
+						<string>{3.2789000000000073, 11.3323}</string>
+						<key>point</key>
+						<string>{3.2789000000000073, 11.3323}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{3.2499000000000109, 11.305300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{1.9579000000000093, 10.103300000000001}</string>
+						<key>point</key>
+						<string>{3.2499000000000109, 11.305300000000001}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{0.63790000000001612, 8.0423000000000009}</string>
+						<key>controlPoint2</key>
+						<string>{0.63790000000001612, 3.5123000000000006}</string>
+						<key>point</key>
+						<string>{0.63790000000001612, 5.8033000000000001}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{1.897900000000007, 1.5423000000000009}</string>
+						<key>controlPoint2</key>
+						<string>{3.2469000000000108, 0.16230000000000011}</string>
+						<key>point</key>
+						<string>{3.2469000000000108, 0.16230000000000011}</string>
+						<key>tag</key>
+						<integer>2</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{75.152900000000017, 18.4863}</string>
+						<key>controlPoint2</key>
+						<string>{75.293900000000008, 19.552300000000002}</string>
+						<key>point</key>
+						<string>{75.152900000000017, 18.4863}</string>
+						<key>tag</key>
+						<integer>2</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{76.276900000000012, 20.278300000000002}</string>
+						<key>controlPoint2</key>
+						<string>{78.833900000000014, 20.278300000000002}</string>
+						<key>point</key>
+						<string>{77.59790000000001, 20.278300000000002}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{79.788900000000012, 19.597300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{79.817900000000009, 18.4863}</string>
+						<key>point</key>
+						<string>{79.817900000000009, 18.4863}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{75.152900000000017, 18.4863}</string>
+						<key>controlPoint2</key>
+						<string>{75.293900000000008, 19.552300000000002}</string>
+						<key>point</key>
+						<string>{75.152900000000017, 18.4863}</string>
+						<key>tag</key>
+						<integer>2</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{73.438900000000018, 11.000300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{81.755900000000011, 11.000300000000001}</string>
+						<key>point</key>
+						<string>{77.681900000000013, 11.000300000000001}</string>
+						<key>tag</key>
+						<integer>2</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{84.369900000000015, 12.837300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{84.678900000000013, 15.174300000000001}</string>
+						<key>point</key>
+						<string>{84.678900000000013, 15.174300000000001}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{79.845900000000015, 15.174300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{79.620900000000006, 14.3123}</string>
+						<key>point</key>
+						<string>{79.845900000000015, 15.174300000000001}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{78.777900000000017, 13.903300000000002}</string>
+						<key>controlPoint2</key>
+						<string>{76.332900000000009, 13.903300000000002}</string>
+						<key>point</key>
+						<string>{77.709900000000005, 13.903300000000002}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{75.208900000000014, 14.811300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{75.180900000000008, 16.1493}</string>
+						<key>point</key>
+						<string>{75.180900000000008, 16.1493}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{84.762900000000016, 16.1493}</string>
+						<key>controlPoint2</key>
+						<string>{84.762900000000016, 16.1493}</string>
+						<key>point</key>
+						<string>{84.762900000000016, 16.1493}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{84.762900000000016, 16.807300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{84.762900000000016, 20.572299999999998}</string>
+						<key>point</key>
+						<string>{84.762900000000016, 16.807300000000001}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{82.149900000000017, 23.000300000000003}</string>
+						<key>controlPoint2</key>
+						<string>{73.298900000000003, 23.000300000000003}</string>
+						<key>point</key>
+						<string>{77.625900000000016, 23.000300000000003}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{70.319900000000018, 20.6633}</string>
+						<key>controlPoint2</key>
+						<string>{70.319900000000018, 13.1553}</string>
+						<key>point</key>
+						<string>{70.319900000000018, 17.011300000000002}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{73.438900000000018, 11.000300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{81.755900000000011, 11.000300000000001}</string>
+						<key>point</key>
+						<string>{77.681900000000013, 11.000300000000001}</string>
+						<key>tag</key>
+						<integer>2</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{59.864900000000006, 11.000300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{67.900900000000007, 11.000300000000001}</string>
+						<key>point</key>
+						<string>{63.96690000000001, 11.000300000000001}</string>
+						<key>tag</key>
+						<integer>2</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{70.429900000000004, 12.5883}</string>
+						<key>controlPoint2</key>
+						<string>{70.429900000000004, 17.011300000000002}</string>
+						<key>point</key>
+						<string>{70.429900000000004, 14.856300000000001}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{68.462900000000019, 17.9863}</string>
+						<key>controlPoint2</key>
+						<string>{65.933900000000008, 18.372300000000003}</string>
+						<key>point</key>
+						<string>{65.933900000000008, 18.372300000000003}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{63.79890000000001, 18.712299999999999}</string>
+						<key>controlPoint2</key>
+						<string>{62.618900000000011, 18.894300000000001}</string>
+						<key>point</key>
+						<string>{63.79890000000001, 18.712299999999999}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{62.252900000000011, 19.121300000000002}</string>
+						<key>controlPoint2</key>
+						<string>{62.252900000000011, 20.073300000000003}</string>
+						<key>point</key>
+						<string>{62.252900000000011, 19.529299999999999}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{62.955900000000014, 20.346299999999999}</string>
+						<key>controlPoint2</key>
+						<string>{64.866900000000015, 20.346299999999999}</string>
+						<key>point</key>
+						<string>{63.79890000000001, 20.346299999999999}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{65.48490000000001, 19.824300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{65.568900000000014, 19.1663}</string>
+						<key>point</key>
+						<string>{65.568900000000014, 19.1663}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{70.345900000000015, 19.1663}</string>
+						<key>controlPoint2</key>
+						<string>{70.232900000000015, 21.412300000000002}</string>
+						<key>point</key>
+						<string>{70.345900000000015, 19.1663}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{67.84490000000001, 23.000300000000003}</string>
+						<key>controlPoint2</key>
+						<string>{60.145900000000012, 23.000300000000003}</string>
+						<key>point</key>
+						<string>{63.826900000000009, 23.000300000000003}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{57.644900000000007, 21.4803}</string>
+						<key>controlPoint2</key>
+						<string>{57.644900000000007, 17.4193}</string>
+						<key>point</key>
+						<string>{57.644900000000007, 19.4163}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{59.386900000000011, 16.376300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{61.971900000000012, 15.9223}</string>
+						<key>point</key>
+						<string>{61.971900000000012, 15.9223}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{64.247900000000016, 15.537300000000002}</string>
+						<key>controlPoint2</key>
+						<string>{65.315900000000013, 15.378300000000001}</string>
+						<key>point</key>
+						<string>{64.247900000000016, 15.537300000000002}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{65.73790000000001, 15.128300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{65.73790000000001, 14.0623}</string>
+						<key>point</key>
+						<string>{65.73790000000001, 14.6523}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{65.062900000000013, 13.699300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{62.78690000000001, 13.699300000000001}</string>
+						<key>point</key>
+						<string>{64.023900000000012, 13.699300000000001}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{62.11290000000001, 14.3123}</string>
+						<key>controlPoint2</key>
+						<string>{62.028900000000007, 15.196300000000001}</string>
+						<key>point</key>
+						<string>{62.028900000000007, 15.196300000000001}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{57.195900000000009, 15.196300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{57.335900000000009, 12.724300000000001}</string>
+						<key>point</key>
+						<string>{57.195900000000009, 15.196300000000001}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{59.864900000000006, 11.000300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{67.900900000000007, 11.000300000000001}</string>
+						<key>point</key>
+						<string>{63.96690000000001, 11.000300000000001}</string>
+						<key>tag</key>
+						<integer>2</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{48.329900000000009, 11.4313}</string>
+						<key>controlPoint2</key>
+						<string>{48.329900000000009, 11.4313}</string>
+						<key>point</key>
+						<string>{48.329900000000009, 11.4313}</string>
+						<key>tag</key>
+						<integer>2</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{53.162900000000008, 11.4313}</string>
+						<key>controlPoint2</key>
+						<string>{53.162900000000008, 11.4313}</string>
+						<key>point</key>
+						<string>{53.162900000000008, 11.4313}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{53.162900000000008, 16.126300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{53.162900000000008, 18.4633}</string>
+						<key>point</key>
+						<string>{53.162900000000008, 16.126300000000001}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{54.820900000000009, 19.279299999999999}</string>
+						<key>controlPoint2</key>
+						<string>{57.15290000000001, 19.279299999999999}</string>
+						<key>point</key>
+						<string>{56.674900000000008, 19.279299999999999}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{57.461900000000014, 19.234300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{57.742900000000006, 19.1663}</string>
+						<key>point</key>
+						<string>{57.742900000000006, 19.1663}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{57.742900000000006, 22.932300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{57.54590000000001, 22.9773}</string>
+						<key>point</key>
+						<string>{57.742900000000006, 22.932300000000001}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{57.29290000000001, 23.000300000000003}</string>
+						<key>controlPoint2</key>
+						<string>{55.044900000000013, 23.000300000000003}</string>
+						<key>point</key>
+						<string>{57.011900000000011, 23.000300000000003}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{53.752900000000011, 22.0243}</string>
+						<key>controlPoint2</key>
+						<string>{53.077900000000014, 21.1173}</string>
+						<key>point</key>
+						<string>{52.993900000000011, 20.731300000000001}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{53.10690000000001, 21.4803}</string>
+						<key>controlPoint2</key>
+						<string>{53.10690000000001, 21.9343}</string>
+						<key>point</key>
+						<string>{53.10690000000001, 21.9343}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{53.10690000000001, 22.6143}</string>
+						<key>controlPoint2</key>
+						<string>{53.10690000000001, 22.6143}</string>
+						<key>point</key>
+						<string>{53.10690000000001, 22.6143}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{48.329900000000009, 22.6143}</string>
+						<key>controlPoint2</key>
+						<string>{48.329900000000009, 22.6143}</string>
+						<key>point</key>
+						<string>{48.329900000000009, 22.6143}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{48.329900000000009, 11.4313}</string>
+						<key>controlPoint2</key>
+						<string>{48.329900000000009, 11.4313}</string>
+						<key>point</key>
+						<string>{48.329900000000009, 11.4313}</string>
+						<key>tag</key>
+						<integer>2</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{35.319900000000011, 11.000300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{40.180900000000008, 11.000300000000001}</string>
+						<key>point</key>
+						<string>{38.072900000000011, 11.000300000000001}</string>
+						<key>tag</key>
+						<integer>2</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{41.416900000000012, 11.7033}</string>
+						<key>controlPoint2</key>
+						<string>{42.119900000000008, 12.3383}</string>
+						<key>point</key>
+						<string>{42.203900000000012, 12.7013}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{42.09190000000001, 12.0883}</string>
+						<key>controlPoint2</key>
+						<string>{42.09190000000001, 11.7483}</string>
+						<key>point</key>
+						<string>{42.09190000000001, 11.7483}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{42.09190000000001, 11.4313}</string>
+						<key>controlPoint2</key>
+						<string>{42.09190000000001, 11.4313}</string>
+						<key>point</key>
+						<string>{42.09190000000001, 11.4313}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{46.924900000000008, 11.4313}</string>
+						<key>controlPoint2</key>
+						<string>{46.924900000000008, 11.4313}</string>
+						<key>point</key>
+						<string>{46.924900000000008, 11.4313}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{46.924900000000008, 22.6143}</string>
+						<key>controlPoint2</key>
+						<string>{46.924900000000008, 22.6143}</string>
+						<key>point</key>
+						<string>{46.924900000000008, 22.6143}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{42.09190000000001, 22.6143}</string>
+						<key>controlPoint2</key>
+						<string>{42.09190000000001, 22.6143}</string>
+						<key>point</key>
+						<string>{42.09190000000001, 22.6143}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{42.09190000000001, 16.058300000000003}</string>
+						<key>controlPoint2</key>
+						<string>{42.09190000000001, 14.720300000000002}</string>
+						<key>point</key>
+						<string>{42.09190000000001, 16.058300000000003}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{41.107900000000008, 14.0623}</string>
+						<key>controlPoint2</key>
+						<string>{38.663900000000012, 14.0623}</string>
+						<key>point</key>
+						<string>{39.899900000000009, 14.0623}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{38.072900000000011, 14.811300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{38.072900000000011, 16.036300000000001}</string>
+						<key>point</key>
+						<string>{38.072900000000011, 16.036300000000001}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{38.072900000000011, 22.6143}</string>
+						<key>controlPoint2</key>
+						<string>{38.072900000000011, 22.6143}</string>
+						<key>point</key>
+						<string>{38.072900000000011, 22.6143}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{33.211900000000007, 22.6143}</string>
+						<key>controlPoint2</key>
+						<string>{33.211900000000007, 22.6143}</string>
+						<key>point</key>
+						<string>{33.211900000000007, 22.6143}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{33.211900000000007, 15.446300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{33.211900000000007, 12.565300000000001}</string>
+						<key>point</key>
+						<string>{33.211900000000007, 15.446300000000001}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{35.319900000000011, 11.000300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{40.180900000000008, 11.000300000000001}</string>
+						<key>point</key>
+						<string>{38.072900000000011, 11.000300000000001}</string>
+						<key>tag</key>
+						<integer>2</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{22.564900000000009, 15.128300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{22.564900000000009, 18.894300000000001}</string>
+						<key>point</key>
+						<string>{22.564900000000009, 16.988300000000002}</string>
+						<key>tag</key>
+						<integer>2</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{23.575900000000011, 19.9833}</string>
+						<key>controlPoint2</key>
+						<string>{26.694900000000011, 19.9833}</string>
+						<key>point</key>
+						<string>{25.121900000000011, 19.9833}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{27.678900000000013, 18.894300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{27.678900000000013, 15.128300000000001}</string>
+						<key>point</key>
+						<string>{27.678900000000013, 16.988300000000002}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{26.694900000000011, 14.017300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{23.547900000000013, 14.017300000000001}</string>
+						<key>point</key>
+						<string>{25.121900000000011, 14.017300000000001}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{22.564900000000009, 15.128300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{22.564900000000009, 18.894300000000001}</string>
+						<key>point</key>
+						<string>{22.564900000000009, 16.988300000000002}</string>
+						<key>tag</key>
+						<integer>2</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{20.73790000000001, 11.000300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{29.504900000000006, 11.000300000000001}</string>
+						<key>point</key>
+						<string>{25.121900000000011, 11.000300000000001}</string>
+						<key>tag</key>
+						<integer>2</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{32.623900000000013, 13.109300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{32.623900000000013, 20.754300000000001}</string>
+						<key>point</key>
+						<string>{32.623900000000013, 16.988300000000002}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{29.504900000000006, 23.000300000000003}</string>
+						<key>controlPoint2</key>
+						<string>{20.794900000000013, 23.000300000000003}</string>
+						<key>point</key>
+						<string>{25.121900000000011, 23.000300000000003}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{17.647900000000007, 20.754300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{17.647900000000007, 13.109300000000001}</string>
+						<key>point</key>
+						<string>{17.647900000000007, 16.988300000000002}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{20.73790000000001, 11.000300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{29.504900000000006, 11.000300000000001}</string>
+						<key>point</key>
+						<string>{25.121900000000011, 11.000300000000001}</string>
+						<key>tag</key>
+						<integer>2</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{5.9219000000000079, 11.000300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{14.801900000000003, 11.000300000000001}</string>
+						<key>point</key>
+						<string>{10.305900000000008, 11.000300000000001}</string>
+						<key>tag</key>
+						<integer>2</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{17.273900000000012, 12.9733}</string>
+						<key>controlPoint2</key>
+						<string>{17.695900000000009, 16.036300000000001}</string>
+						<key>point</key>
+						<string>{17.695900000000009, 16.036300000000001}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{12.918900000000008, 16.036300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{12.805900000000008, 14.924300000000001}</string>
+						<key>point</key>
+						<string>{12.918900000000008, 16.036300000000001}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{12.019900000000007, 14.017300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{8.9569000000000045, 14.017300000000001}</string>
+						<key>point</key>
+						<string>{10.529900000000012, 14.017300000000001}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{7.9449000000000041, 15.2193}</string>
+						<key>controlPoint2</key>
+						<string>{7.9449000000000041, 19.075300000000002}</string>
+						<key>point</key>
+						<string>{7.9449000000000041, 17.0563}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{9.2099000000000046, 19.9833}</string>
+						<key>controlPoint2</key>
+						<string>{12.047900000000013, 19.9833}</string>
+						<key>point</key>
+						<string>{10.586900000000014, 19.9833}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{12.749900000000011, 19.075300000000002}</string>
+						<key>controlPoint2</key>
+						<string>{12.86290000000001, 18.0093}</string>
+						<key>point</key>
+						<string>{12.86290000000001, 18.0093}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{17.639900000000011, 18.0093}</string>
+						<key>controlPoint2</key>
+						<string>{17.357900000000015, 20.845300000000002}</string>
+						<key>point</key>
+						<string>{17.639900000000011, 18.0093}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{14.997900000000016, 23.000300000000003}</string>
+						<key>controlPoint2</key>
+						<string>{6.3999000000000024, 23.000300000000003}</string>
+						<key>point</key>
+						<string>{10.529900000000012, 23.000300000000003}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{2.9999000000000109, 20.845300000000002}</string>
+						<key>controlPoint2</key>
+						<string>{2.9999000000000109, 13.2233}</string>
+						<key>point</key>
+						<string>{2.9999000000000109, 17.034300000000002}</string>
+						<key>tag</key>
+						<integer>0</integer>
+					</dict>
+					<dict>
+						<key>controlPoint1</key>
+						<string>{5.9219000000000079, 11.000300000000001}</string>
+						<key>controlPoint2</key>
+						<string>{14.801900000000003, 11.000300000000001}</string>
+						<key>point</key>
+						<string>{10.305900000000008, 11.000300000000001}</string>
+						<key>tag</key>
+						<integer>2</integer>
+					</dict>
+				</array>
+			</dict>
+			<key>dataProvider 2D</key>
+			<dict>
+				<key>transform unit</key>
+				<dict>
+					<key>transform factor 1</key>
+					<real>0.0</real>
+					<key>transform factor 2</key>
+					<real>0.0</real>
+					<key>transform splines</key>
+					<dict>
+						<key>transform count points</key>
+						<integer>0</integer>
+						<key>transform count splines</key>
+						<integer>0</integer>
+					</dict>
+					<key>transform type</key>
+					<integer>301</integer>
+				</dict>
+			</dict>
+			<key>hue angle</key>
+			<real>0.0</real>
+			<key>layer angle</key>
+			<real>0.0</real>
+			<key>layer composite operation</key>
+			<integer>0</integer>
+			<key>layer flip x</key>
+			<false/>
+			<key>layer flip y</key>
+			<false/>
+			<key>layer is3D</key>
+			<false/>
+			<key>layer locked</key>
+			<false/>
+			<key>layer opacity</key>
+			<real>1</real>
+			<key>layer origin</key>
+			<string>{58.194420150428641, 210}</string>
+			<key>layer size</key>
+			<string>{683.61115969914272, 180}</string>
+			<key>layer size3DScale</key>
+			<real>1</real>
+			<key>layer tag</key>
+			<integer>0</integer>
+			<key>layer title</key>
+			<string>Frame 40077</string>
+			<key>layer version</key>
+			<real>822</real>
+			<key>layer visible</key>
+			<true/>
+			<key>style unit</key>
+			<dict>
+				<key>colorize color</key>
+				<data>
+				YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hp
+				dmVyVCR0b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRB
+				cmNoaXZlctEICVRyb290gAGmCwwXHR4lVSRudWxs1Q0O
+				DxAREhMUFRZcTlNDb21wb25lbnRzVU5TUkdCXE5TQ29s
+				b3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZVYkY2xh
+				c3NHMCAwIDEgMU8QETAgMCAwLjk5ODE5OTIyNDUAEAGA
+				AoAF0xgZERobHFROU0lEVU5TSUNDEAeAA4AETxEMSAAA
+				DEhMaW5vAhAAAG1udHJSR0IgWFlaIAfOAAIACQAGADEA
+				AGFjc3BNU0ZUAAAAAElFQyBzUkdCAAAAAAAAAAAAAAAA
+				AAD21gABAAAAANMtSFAgIAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEWNw
+				cnQAAAFQAAAAM2Rlc2MAAAGEAAAAbHd0cHQAAAHwAAAA
+				FGJrcHQAAAIEAAAAFHJYWVoAAAIYAAAAFGdYWVoAAAIs
+				AAAAFGJYWVoAAAJAAAAAFGRtbmQAAAJUAAAAcGRtZGQA
+				AALEAAAAiHZ1ZWQAAANMAAAAhnZpZXcAAAPUAAAAJGx1
+				bWkAAAP4AAAAFG1lYXMAAAQMAAAAJHRlY2gAAAQwAAAA
+				DHJUUkMAAAQ8AAAIDGdUUkMAAAQ8AAAIDGJUUkMAAAQ8
+				AAAIDHRleHQAAAAAQ29weXJpZ2h0IChjKSAxOTk4IEhl
+				d2xldHQtUGFja2FyZCBDb21wYW55AABkZXNjAAAAAAAA
+				ABJzUkdCIElFQzYxOTY2LTIuMQAAAAAAAAAAAAAAEnNS
+				R0IgSUVDNjE5NjYtMi4xAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABY
+				WVogAAAAAAAA81EAAQAAAAEWzFhZWiAAAAAAAAAAAAAA
+				AAAAAAAAWFlaIAAAAAAAAG+iAAA49QAAA5BYWVogAAAA
+				AAAAYpkAALeFAAAY2lhZWiAAAAAAAAAkoAAAD4QAALbP
+				ZGVzYwAAAAAAAAAWSUVDIGh0dHA6Ly93d3cuaWVjLmNo
+				AAAAAAAAAAAAAAAWSUVDIGh0dHA6Ly93d3cuaWVjLmNo
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAGRlc2MAAAAAAAAALklFQyA2MTk2
+				Ni0yLjEgRGVmYXVsdCBSR0IgY29sb3VyIHNwYWNlIC0g
+				c1JHQgAAAAAAAAAAAAAALklFQyA2MTk2Ni0yLjEgRGVm
+				YXVsdCBSR0IgY29sb3VyIHNwYWNlIC0gc1JHQgAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAABkZXNjAAAAAAAAACxSZWZl
+				cmVuY2UgVmlld2luZyBDb25kaXRpb24gaW4gSUVDNjE5
+				NjYtMi4xAAAAAAAAAAAAAAAsUmVmZXJlbmNlIFZpZXdp
+				bmcgQ29uZGl0aW9uIGluIElFQzYxOTY2LTIuMQAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAdmlldwAAAAAAE6T+
+				ABRfLgAQzxQAA+3MAAQTCwADXJ4AAAABWFlaIAAAAAAA
+				TAlWAFAAAABXH+dtZWFzAAAAAAAAAAEAAAAAAAAAAAAA
+				AAAAAAAAAAACjwAAAAJzaWcgAAAAAENSVCBjdXJ2AAAA
+				AAAABAAAAAAFAAoADwAUABkAHgAjACgALQAyADcAOwBA
+				AEUASgBPAFQAWQBeAGMAaABtAHIAdwB8AIEAhgCLAJAA
+				lQCaAJ8ApACpAK4AsgC3ALwAwQDGAMsA0ADVANsA4ADl
+				AOsA8AD2APsBAQEHAQ0BEwEZAR8BJQErATIBOAE+AUUB
+				TAFSAVkBYAFnAW4BdQF8AYMBiwGSAZoBoQGpAbEBuQHB
+				AckB0QHZAeEB6QHyAfoCAwIMAhQCHQImAi8COAJBAksC
+				VAJdAmcCcQJ6AoQCjgKYAqICrAK2AsECywLVAuAC6wL1
+				AwADCwMWAyEDLQM4A0MDTwNaA2YDcgN+A4oDlgOiA64D
+				ugPHA9MD4APsA/kEBgQTBCAELQQ7BEgEVQRjBHEEfgSM
+				BJoEqAS2BMQE0wThBPAE/gUNBRwFKwU6BUkFWAVnBXcF
+				hgWWBaYFtQXFBdUF5QX2BgYGFgYnBjcGSAZZBmoGewaM
+				Bp0GrwbABtEG4wb1BwcHGQcrBz0HTwdhB3QHhgeZB6wH
+				vwfSB+UH+AgLCB8IMghGCFoIbgiCCJYIqgi+CNII5wj7
+				CRAJJQk6CU8JZAl5CY8JpAm6Cc8J5Qn7ChEKJwo9ClQK
+				agqBCpgKrgrFCtwK8wsLCyILOQtRC2kLgAuYC7ALyAvh
+				C/kMEgwqDEMMXAx1DI4MpwzADNkM8w0NDSYNQA1aDXQN
+				jg2pDcMN3g34DhMOLg5JDmQOfw6bDrYO0g7uDwkPJQ9B
+				D14Peg+WD7MPzw/sEAkQJhBDEGEQfhCbELkQ1xD1ERMR
+				MRFPEW0RjBGqEckR6BIHEiYSRRJkEoQSoxLDEuMTAxMj
+				E0MTYxODE6QTxRPlFAYUJxRJFGoUixStFM4U8BUSFTQV
+				VhV4FZsVvRXgFgMWJhZJFmwWjxayFtYW+hcdF0EXZReJ
+				F64X0hf3GBsYQBhlGIoYrxjVGPoZIBlFGWsZkRm3Gd0a
+				BBoqGlEadxqeGsUa7BsUGzsbYxuKG7Ib2hwCHCocUhx7
+				HKMczBz1HR4dRx1wHZkdwx3sHhYeQB5qHpQevh7pHxMf
+				Ph9pH5Qfvx/qIBUgQSBsIJggxCDwIRwhSCF1IaEhziH7
+				IiciVSKCIq8i3SMKIzgjZiOUI8Ij8CQfJE0kfCSrJNol
+				CSU4JWgllyXHJfcmJyZXJocmtyboJxgnSSd6J6sn3CgN
+				KD8ocSiiKNQpBik4KWspnSnQKgIqNSpoKpsqzysCKzYr
+				aSudK9EsBSw5LG4soizXLQwtQS12Last4S4WLkwugi63
+				Lu4vJC9aL5Evxy/+MDUwbDCkMNsxEjFKMYIxujHyMioy
+				YzKbMtQzDTNGM38zuDPxNCs0ZTSeNNg1EzVNNYc1wjX9
+				Njc2cjauNuk3JDdgN5w31zgUOFA4jDjIOQU5Qjl/Obw5
+				+To2OnQ6sjrvOy07azuqO+g8JzxlPKQ84z0iPWE9oT3g
+				PiA+YD6gPuA/IT9hP6I/4kAjQGRApkDnQSlBakGsQe5C
+				MEJyQrVC90M6Q31DwEQDREdEikTORRJFVUWaRd5GIkZn
+				RqtG8Ec1R3tHwEgFSEtIkUjXSR1JY0mpSfBKN0p9SsRL
+				DEtTS5pL4kwqTHJMuk0CTUpNk03cTiVObk63TwBPSU+T
+				T91QJ1BxULtRBlFQUZtR5lIxUnxSx1MTU19TqlP2VEJU
+				j1TbVShVdVXCVg9WXFapVvdXRFeSV+BYL1h9WMtZGllp
+				WbhaB1pWWqZa9VtFW5Vb5Vw1XIZc1l0nXXhdyV4aXmxe
+				vV8PX2Ffs2AFYFdgqmD8YU9homH1YklinGLwY0Njl2Pr
+				ZEBklGTpZT1lkmXnZj1mkmboZz1nk2fpaD9olmjsaUNp
+				mmnxakhqn2r3a09rp2v/bFdsr20IbWBtuW4SbmtuxG8e
+				b3hv0XArcIZw4HE6cZVx8HJLcqZzAXNdc7h0FHRwdMx1
+				KHWFdeF2Pnabdvh3VnezeBF4bnjMeSp5iXnnekZ6pXsE
+				e2N7wnwhfIF84X1BfaF+AX5ifsJ/I3+Ef+WAR4CogQqB
+				a4HNgjCCkoL0g1eDuoQdhICE44VHhauGDoZyhteHO4ef
+				iASIaYjOiTOJmYn+imSKyoswi5aL/IxjjMqNMY2Yjf+O
+				Zo7OjzaPnpAGkG6Q1pE/kaiSEZJ6kuOTTZO2lCCUipT0
+				lV+VyZY0lp+XCpd1l+CYTJi4mSSZkJn8mmia1ZtCm6+c
+				HJyJnPedZJ3SnkCerp8dn4uf+qBpoNihR6G2oiailqMG
+				o3aj5qRWpMelOKWpphqmi6b9p26n4KhSqMSpN6mpqhyq
+				j6sCq3Wr6axcrNCtRK24ri2uoa8Wr4uwALB1sOqxYLHW
+				skuywrM4s660JbSctRO1irYBtnm28Ldot+C4WbjRuUq5
+				wro7urW7LrunvCG8m70VvY++Cr6Evv+/er/1wHDA7MFn
+				wePCX8Lbw1jD1MRRxM7FS8XIxkbGw8dBx7/IPci8yTrJ
+				uco4yrfLNsu2zDXMtc01zbXONs62zzfPuNA50LrRPNG+
+				0j/SwdNE08bUSdTL1U7V0dZV1tjXXNfg2GTY6Nls2fHa
+				dtr724DcBdyK3RDdlt4c3qLfKd+v4DbgveFE4cziU+Lb
+				42Pj6+Rz5PzlhOYN5pbnH+ep6DLovOlG6dDqW+rl63Dr
+				++yG7RHtnO4o7rTvQO/M8Fjw5fFy8f/yjPMZ86f0NPTC
+				9VD13vZt9vv3ivgZ+Kj5OPnH+lf65/t3/Af8mP0p/br+
+				S/7c/23//9IfICEiWiRjbGFzc25hbWVYJGNsYXNzZXNc
+				TlNDb2xvclNwYWNloiMkXE5TQ29sb3JTcGFjZVhOU09i
+				amVjdNIfICYnV05TQ29sb3KiJiQACAARABoAJAApADIA
+				NwBJAEwAUQBTAFoAYABrAHgAfgCLAKAApwCvAMMAxQDH
+				AMkA0ADVANsA3QDfAOENLQ0yDT0NRg1TDVYNYw1sDXEN
+				eQAAAAAAAAIBAAAAAAAAACgAAAAAAAAAAAAAAAAAAA18
+				</data>
+				<key>fill</key>
+				<true/>
+				<key>fill with solid color</key>
+				<false/>
+				<key>filling type</key>
+				<integer>2</integer>
+				<key>glow unit</key>
+				<dict>
+					<key>effect scale factor</key>
+					<real>1.3672223193982853</real>
+					<key>glow blur</key>
+					<real>5</real>
+					<key>glow color</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25Z
+					JGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGG
+					oF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290
+					gAGmCwwXHR4lVSRudWxs1Q0ODxAREhMUFRZc
+					TlNDb21wb25lbnRzVU5TUkdCXE5TQ29sb3JT
+					cGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZVYk
+					Y2xhc3NKMSAwLjc4IDAgMU8QKDAuOTk0Njcy
+					MTc5MiAwLjczOTg3MzIzMDUgMC4wMzY0MDYz
+					MTU4NgAQAYACgAXTGBkRGhscVE5TSURVTlNJ
+					Q0MQB4ADgARPEQxIAAAMSExpbm8CEAAAbW50
+					clJHQiBYWVogB84AAgAJAAYAMQAAYWNzcE1T
+					RlQAAAAASUVDIHNSR0IAAAAAAAAAAAAAAAAA
+					APbWAAEAAAAA0y1IUCAgAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAARY3BydAAAAVAAAAAzZGVzYwAA
+					AYQAAABsd3RwdAAAAfAAAAAUYmtwdAAAAgQA
+					AAAUclhZWgAAAhgAAAAUZ1hZWgAAAiwAAAAU
+					YlhZWgAAAkAAAAAUZG1uZAAAAlQAAABwZG1k
+					ZAAAAsQAAACIdnVlZAAAA0wAAACGdmlldwAA
+					A9QAAAAkbHVtaQAAA/gAAAAUbWVhcwAABAwA
+					AAAkdGVjaAAABDAAAAAMclRSQwAABDwAAAgM
+					Z1RSQwAABDwAAAgMYlRSQwAABDwAAAgMdGV4
+					dAAAAABDb3B5cmlnaHQgKGMpIDE5OTggSGV3
+					bGV0dC1QYWNrYXJkIENvbXBhbnkAAGRlc2MA
+					AAAAAAAAEnNSR0IgSUVDNjE5NjYtMi4xAAAA
+					AAAAAAAAAAASc1JHQiBJRUM2MTk2Ni0yLjEA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAFhZWiAA
+					AAAAAADzUQABAAAAARbMWFlaIAAAAAAAAAAA
+					AAAAAAAAAABYWVogAAAAAAAAb6IAADj1AAAD
+					kFhZWiAAAAAAAABimQAAt4UAABjaWFlaIAAA
+					AAAAACSgAAAPhAAAts9kZXNjAAAAAAAAABZJ
+					RUMgaHR0cDovL3d3dy5pZWMuY2gAAAAAAAAA
+					AAAAABZJRUMgaHR0cDovL3d3dy5pZWMuY2gA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAZGVzYwAAAAAA
+					AAAuSUVDIDYxOTY2LTIuMSBEZWZhdWx0IFJH
+					QiBjb2xvdXIgc3BhY2UgLSBzUkdCAAAAAAAA
+					AAAAAAAuSUVDIDYxOTY2LTIuMSBEZWZhdWx0
+					IFJHQiBjb2xvdXIgc3BhY2UgLSBzUkdCAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAGRlc2MAAAAA
+					AAAALFJlZmVyZW5jZSBWaWV3aW5nIENvbmRp
+					dGlvbiBpbiBJRUM2MTk2Ni0yLjEAAAAAAAAA
+					AAAAACxSZWZlcmVuY2UgVmlld2luZyBDb25k
+					aXRpb24gaW4gSUVDNjE5NjYtMi4xAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAB2aWV3AAAA
+					AAATpP4AFF8uABDPFAAD7cwABBMLAANcngAA
+					AAFYWVogAAAAAABMCVYAUAAAAFcf521lYXMA
+					AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAKP
+					AAAAAnNpZyAAAAAAQ1JUIGN1cnYAAAAAAAAE
+					AAAAAAUACgAPABQAGQAeACMAKAAtADIANwA7
+					AEAARQBKAE8AVABZAF4AYwBoAG0AcgB3AHwA
+					gQCGAIsAkACVAJoAnwCkAKkArgCyALcAvADB
+					AMYAywDQANUA2wDgAOUA6wDwAPYA+wEBAQcB
+					DQETARkBHwElASsBMgE4AT4BRQFMAVIBWQFg
+					AWcBbgF1AXwBgwGLAZIBmgGhAakBsQG5AcEB
+					yQHRAdkB4QHpAfIB+gIDAgwCFAIdAiYCLwI4
+					AkECSwJUAl0CZwJxAnoChAKOApgCogKsArYC
+					wQLLAtUC4ALrAvUDAAMLAxYDIQMtAzgDQwNP
+					A1oDZgNyA34DigOWA6IDrgO6A8cD0wPgA+wD
+					+QQGBBMEIAQtBDsESARVBGMEcQR+BIwEmgSo
+					BLYExATTBOEE8AT+BQ0FHAUrBToFSQVYBWcF
+					dwWGBZYFpgW1BcUF1QXlBfYGBgYWBicGNwZI
+					BlkGagZ7BowGnQavBsAG0QbjBvUHBwcZBysH
+					PQdPB2EHdAeGB5kHrAe/B9IH5Qf4CAsIHwgy
+					CEYIWghuCIIIlgiqCL4I0gjnCPsJEAklCToJ
+					TwlkCXkJjwmkCboJzwnlCfsKEQonCj0KVApq
+					CoEKmAquCsUK3ArzCwsLIgs5C1ELaQuAC5gL
+					sAvIC+EL+QwSDCoMQwxcDHUMjgynDMAM2Qzz
+					DQ0NJg1ADVoNdA2ODakNww3eDfgOEw4uDkkO
+					ZA5/DpsOtg7SDu4PCQ8lD0EPXg96D5YPsw/P
+					D+wQCRAmEEMQYRB+EJsQuRDXEPURExExEU8R
+					bRGMEaoRyRHoEgcSJhJFEmQShBKjEsMS4xMD
+					EyMTQxNjE4MTpBPFE+UUBhQnFEkUahSLFK0U
+					zhTwFRIVNBVWFXgVmxW9FeAWAxYmFkkWbBaP
+					FrIW1hb6Fx0XQRdlF4kXrhfSF/cYGxhAGGUY
+					ihivGNUY+hkgGUUZaxmRGbcZ3RoEGioaURp3
+					Gp4axRrsGxQbOxtjG4obshvaHAIcKhxSHHsc
+					oxzMHPUdHh1HHXAdmR3DHeweFh5AHmoelB6+
+					HukfEx8+H2kflB+/H+ogFSBBIGwgmCDEIPAh
+					HCFIIXUhoSHOIfsiJyJVIoIiryLdIwojOCNm
+					I5QjwiPwJB8kTSR8JKsk2iUJJTglaCWXJccl
+					9yYnJlcmhya3JugnGCdJJ3onqyfcKA0oPyhx
+					KKIo1CkGKTgpaymdKdAqAio1KmgqmyrPKwIr
+					NitpK50r0SwFLDksbiyiLNctDC1BLXYtqy3h
+					LhYuTC6CLrcu7i8kL1ovkS/HL/4wNTBsMKQw
+					2zESMUoxgjG6MfIyKjJjMpsy1DMNM0YzfzO4
+					M/E0KzRlNJ402DUTNU01hzXCNf02NzZyNq42
+					6TckN2A3nDfXOBQ4UDiMOMg5BTlCOX85vDn5
+					OjY6dDqyOu87LTtrO6o76DwnPGU8pDzjPSI9
+					YT2hPeA+ID5gPqA+4D8hP2E/oj/iQCNAZECm
+					QOdBKUFqQaxB7kIwQnJCtUL3QzpDfUPARANE
+					R0SKRM5FEkVVRZpF3kYiRmdGq0bwRzVHe0fA
+					SAVIS0iRSNdJHUljSalJ8Eo3Sn1KxEsMS1NL
+					mkviTCpMcky6TQJNSk2TTdxOJU5uTrdPAE9J
+					T5NP3VAnUHFQu1EGUVBRm1HmUjFSfFLHUxNT
+					X1OqU/ZUQlSPVNtVKFV1VcJWD1ZcVqlW91dE
+					V5JX4FgvWH1Yy1kaWWlZuFoHWlZaplr1W0Vb
+					lVvlXDVchlzWXSddeF3JXhpebF69Xw9fYV+z
+					YAVgV2CqYPxhT2GiYfViSWKcYvBjQ2OXY+tk
+					QGSUZOllPWWSZedmPWaSZuhnPWeTZ+loP2iW
+					aOxpQ2maafFqSGqfavdrT2una/9sV2yvbQht
+					YG25bhJua27Ebx5veG/RcCtwhnDgcTpxlXHw
+					cktypnMBc11zuHQUdHB0zHUodYV14XY+dpt2
+					+HdWd7N4EXhueMx5KnmJeed6RnqlewR7Y3vC
+					fCF8gXzhfUF9oX4BfmJ+wn8jf4R/5YBHgKiB
+					CoFrgc2CMIKSgvSDV4O6hB2EgITjhUeFq4YO
+					hnKG14c7h5+IBIhpiM6JM4mZif6KZIrKizCL
+					lov8jGOMyo0xjZiN/45mjs6PNo+ekAaQbpDW
+					kT+RqJIRknqS45NNk7aUIJSKlPSVX5XJljSW
+					n5cKl3WX4JhMmLiZJJmQmfyaaJrVm0Kbr5wc
+					nImc951kndKeQJ6unx2fi5/6oGmg2KFHobai
+					JqKWowajdqPmpFakx6U4pammGqaLpv2nbqfg
+					qFKoxKk3qamqHKqPqwKrdavprFys0K1Erbiu
+					La6hrxavi7AAsHWw6rFgsdayS7LCszizrrQl
+					tJy1E7WKtgG2ebbwt2i34LhZuNG5SrnCuju6
+					tbsuu6e8IbybvRW9j74KvoS+/796v/XAcMDs
+					wWfB48JfwtvDWMPUxFHEzsVLxcjGRsbDx0HH
+					v8g9yLzJOsm5yjjKt8s2y7bMNcy1zTXNtc42
+					zrbPN8+40DnQutE80b7SP9LB00TTxtRJ1MvV
+					TtXR1lXW2Ndc1+DYZNjo2WzZ8dp22vvbgNwF
+					3IrdEN2W3hzeot8p36/gNuC94UThzOJT4tvj
+					Y+Pr5HPk/OWE5g3mlucf56noMui86Ubp0Opb
+					6uXrcOv77IbtEe2c7ijutO9A78zwWPDl8XLx
+					//KM8xnzp/Q09ML1UPXe9m32+/eK+Bn4qPk4
+					+cf6V/rn+3f8B/yY/Sn9uv5L/tz/bf//0h8g
+					ISJaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0Nv
+					bG9yU3BhY2WiIyRcTlNDb2xvclNwYWNlWE5T
+					T2JqZWN00h8gJidXTlNDb2xvcqImJAAIABEA
+					GgAkACkAMgA3AEkATABRAFMAWgBgAGsAeAB+
+					AIsAoACnALIA3QDfAOEA4wDqAO8A9QD3APkA
+					+w1HDUwNVw1gDW0NcA19DYYNiw2TAAAAAAAA
+					AgEAAAAAAAAAKAAAAAAAAAAAAAAAAAAADZY=
+					</data>
+					<key>glow composite operation</key>
+					<integer>0</integer>
+					<key>glow is tint</key>
+					<false/>
+					<key>glow tint color</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25Z
+					JGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGG
+					oF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290
+					gAGmCwwXHR4lVSRudWxs1Q0ODxAREhMUFRZc
+					TlNDb21wb25lbnRzVU5TUkdCXE5TQ29sb3JT
+					cGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZVYk
+					Y2xhc3NHMSAwIDAgMU8QHTAuOTg1OTU0MTY1
+					NSAwIDAuMDI2OTQwMDUxNDcAEAGAAoAF0xgZ
+					ERobHFROU0lEVU5TSUNDEAeAA4AETxEMSAAA
+					DEhMaW5vAhAAAG1udHJSR0IgWFlaIAfOAAIA
+					CQAGADEAAGFjc3BNU0ZUAAAAAElFQyBzUkdC
+					AAAAAAAAAAAAAAAAAAD21gABAAAAANMtSFAg
+					IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAEWNwcnQA
+					AAFQAAAAM2Rlc2MAAAGEAAAAbHd0cHQAAAHw
+					AAAAFGJrcHQAAAIEAAAAFHJYWVoAAAIYAAAA
+					FGdYWVoAAAIsAAAAFGJYWVoAAAJAAAAAFGRt
+					bmQAAAJUAAAAcGRtZGQAAALEAAAAiHZ1ZWQA
+					AANMAAAAhnZpZXcAAAPUAAAAJGx1bWkAAAP4
+					AAAAFG1lYXMAAAQMAAAAJHRlY2gAAAQwAAAA
+					DHJUUkMAAAQ8AAAIDGdUUkMAAAQ8AAAIDGJU
+					UkMAAAQ8AAAIDHRleHQAAAAAQ29weXJpZ2h0
+					IChjKSAxOTk4IEhld2xldHQtUGFja2FyZCBD
+					b21wYW55AABkZXNjAAAAAAAAABJzUkdCIElF
+					QzYxOTY2LTIuMQAAAAAAAAAAAAAAEnNSR0Ig
+					SUVDNjE5NjYtMi4xAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAABYWVogAAAAAAAA81EAAQAAAAEW
+					zFhZWiAAAAAAAAAAAAAAAAAAAAAAWFlaIAAA
+					AAAAAG+iAAA49QAAA5BYWVogAAAAAAAAYpkA
+					ALeFAAAY2lhZWiAAAAAAAAAkoAAAD4QAALbP
+					ZGVzYwAAAAAAAAAWSUVDIGh0dHA6Ly93d3cu
+					aWVjLmNoAAAAAAAAAAAAAAAWSUVDIGh0dHA6
+					Ly93d3cuaWVjLmNoAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAGRlc2MAAAAAAAAALklFQyA2MTk2Ni0y
+					LjEgRGVmYXVsdCBSR0IgY29sb3VyIHNwYWNl
+					IC0gc1JHQgAAAAAAAAAAAAAALklFQyA2MTk2
+					Ni0yLjEgRGVmYXVsdCBSR0IgY29sb3VyIHNw
+					YWNlIC0gc1JHQgAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAABkZXNjAAAAAAAAACxSZWZlcmVuY2Ug
+					Vmlld2luZyBDb25kaXRpb24gaW4gSUVDNjE5
+					NjYtMi4xAAAAAAAAAAAAAAAsUmVmZXJlbmNl
+					IFZpZXdpbmcgQ29uZGl0aW9uIGluIElFQzYx
+					OTY2LTIuMQAAAAAAAAAAAAAAAAAAAAAAAAAA
+					AAAAAAAAdmlldwAAAAAAE6T+ABRfLgAQzxQA
+					A+3MAAQTCwADXJ4AAAABWFlaIAAAAAAATAlW
+					AFAAAABXH+dtZWFzAAAAAAAAAAEAAAAAAAAA
+					AAAAAAAAAAAAAAACjwAAAAJzaWcgAAAAAENS
+					VCBjdXJ2AAAAAAAABAAAAAAFAAoADwAUABkA
+					HgAjACgALQAyADcAOwBAAEUASgBPAFQAWQBe
+					AGMAaABtAHIAdwB8AIEAhgCLAJAAlQCaAJ8A
+					pACpAK4AsgC3ALwAwQDGAMsA0ADVANsA4ADl
+					AOsA8AD2APsBAQEHAQ0BEwEZAR8BJQErATIB
+					OAE+AUUBTAFSAVkBYAFnAW4BdQF8AYMBiwGS
+					AZoBoQGpAbEBuQHBAckB0QHZAeEB6QHyAfoC
+					AwIMAhQCHQImAi8COAJBAksCVAJdAmcCcQJ6
+					AoQCjgKYAqICrAK2AsECywLVAuAC6wL1AwAD
+					CwMWAyEDLQM4A0MDTwNaA2YDcgN+A4oDlgOi
+					A64DugPHA9MD4APsA/kEBgQTBCAELQQ7BEgE
+					VQRjBHEEfgSMBJoEqAS2BMQE0wThBPAE/gUN
+					BRwFKwU6BUkFWAVnBXcFhgWWBaYFtQXFBdUF
+					5QX2BgYGFgYnBjcGSAZZBmoGewaMBp0GrwbA
+					BtEG4wb1BwcHGQcrBz0HTwdhB3QHhgeZB6wH
+					vwfSB+UH+AgLCB8IMghGCFoIbgiCCJYIqgi+
+					CNII5wj7CRAJJQk6CU8JZAl5CY8JpAm6Cc8J
+					5Qn7ChEKJwo9ClQKagqBCpgKrgrFCtwK8wsL
+					CyILOQtRC2kLgAuYC7ALyAvhC/kMEgwqDEMM
+					XAx1DI4MpwzADNkM8w0NDSYNQA1aDXQNjg2p
+					DcMN3g34DhMOLg5JDmQOfw6bDrYO0g7uDwkP
+					JQ9BD14Peg+WD7MPzw/sEAkQJhBDEGEQfhCb
+					ELkQ1xD1ERMRMRFPEW0RjBGqEckR6BIHEiYS
+					RRJkEoQSoxLDEuMTAxMjE0MTYxODE6QTxRPl
+					FAYUJxRJFGoUixStFM4U8BUSFTQVVhV4FZsV
+					vRXgFgMWJhZJFmwWjxayFtYW+hcdF0EXZReJ
+					F64X0hf3GBsYQBhlGIoYrxjVGPoZIBlFGWsZ
+					kRm3Gd0aBBoqGlEadxqeGsUa7BsUGzsbYxuK
+					G7Ib2hwCHCocUhx7HKMczBz1HR4dRx1wHZkd
+					wx3sHhYeQB5qHpQevh7pHxMfPh9pH5Qfvx/q
+					IBUgQSBsIJggxCDwIRwhSCF1IaEhziH7Iici
+					VSKCIq8i3SMKIzgjZiOUI8Ij8CQfJE0kfCSr
+					JNolCSU4JWgllyXHJfcmJyZXJocmtyboJxgn
+					SSd6J6sn3CgNKD8ocSiiKNQpBik4KWspnSnQ
+					KgIqNSpoKpsqzysCKzYraSudK9EsBSw5LG4s
+					oizXLQwtQS12Last4S4WLkwugi63Lu4vJC9a
+					L5Evxy/+MDUwbDCkMNsxEjFKMYIxujHyMioy
+					YzKbMtQzDTNGM38zuDPxNCs0ZTSeNNg1EzVN
+					NYc1wjX9Njc2cjauNuk3JDdgN5w31zgUOFA4
+					jDjIOQU5Qjl/Obw5+To2OnQ6sjrvOy07azuq
+					O+g8JzxlPKQ84z0iPWE9oT3gPiA+YD6gPuA/
+					IT9hP6I/4kAjQGRApkDnQSlBakGsQe5CMEJy
+					QrVC90M6Q31DwEQDREdEikTORRJFVUWaRd5G
+					IkZnRqtG8Ec1R3tHwEgFSEtIkUjXSR1JY0mp
+					SfBKN0p9SsRLDEtTS5pL4kwqTHJMuk0CTUpN
+					k03cTiVObk63TwBPSU+TT91QJ1BxULtRBlFQ
+					UZtR5lIxUnxSx1MTU19TqlP2VEJUj1TbVShV
+					dVXCVg9WXFapVvdXRFeSV+BYL1h9WMtZGllp
+					WbhaB1pWWqZa9VtFW5Vb5Vw1XIZc1l0nXXhd
+					yV4aXmxevV8PX2Ffs2AFYFdgqmD8YU9homH1
+					YklinGLwY0Njl2PrZEBklGTpZT1lkmXnZj1m
+					kmboZz1nk2fpaD9olmjsaUNpmmnxakhqn2r3
+					a09rp2v/bFdsr20IbWBtuW4SbmtuxG8eb3hv
+					0XArcIZw4HE6cZVx8HJLcqZzAXNdc7h0FHRw
+					dMx1KHWFdeF2Pnabdvh3VnezeBF4bnjMeSp5
+					iXnnekZ6pXsEe2N7wnwhfIF84X1BfaF+AX5i
+					fsJ/I3+Ef+WAR4CogQqBa4HNgjCCkoL0g1eD
+					uoQdhICE44VHhauGDoZyhteHO4efiASIaYjO
+					iTOJmYn+imSKyoswi5aL/IxjjMqNMY2Yjf+O
+					Zo7OjzaPnpAGkG6Q1pE/kaiSEZJ6kuOTTZO2
+					lCCUipT0lV+VyZY0lp+XCpd1l+CYTJi4mSSZ
+					kJn8mmia1ZtCm6+cHJyJnPedZJ3SnkCerp8d
+					n4uf+qBpoNihR6G2oiailqMGo3aj5qRWpMel
+					OKWpphqmi6b9p26n4KhSqMSpN6mpqhyqj6sC
+					q3Wr6axcrNCtRK24ri2uoa8Wr4uwALB1sOqx
+					YLHWskuywrM4s660JbSctRO1irYBtnm28Ldo
+					t+C4WbjRuUq5wro7urW7LrunvCG8m70VvY++
+					Cr6Evv+/er/1wHDA7MFnwePCX8Lbw1jD1MRR
+					xM7FS8XIxkbGw8dBx7/IPci8yTrJuco4yrfL
+					Nsu2zDXMtc01zbXONs62zzfPuNA50LrRPNG+
+					0j/SwdNE08bUSdTL1U7V0dZV1tjXXNfg2GTY
+					6Nls2fHadtr724DcBdyK3RDdlt4c3qLfKd+v
+					4DbgveFE4cziU+Lb42Pj6+Rz5PzlhOYN5pbn
+					H+ep6DLovOlG6dDqW+rl63Dr++yG7RHtnO4o
+					7rTvQO/M8Fjw5fFy8f/yjPMZ86f0NPTC9VD1
+					3vZt9vv3ivgZ+Kj5OPnH+lf65/t3/Af8mP0p
+					/br+S/7c/23//9IfICEiWiRjbGFzc25hbWVY
+					JGNsYXNzZXNcTlNDb2xvclNwYWNloiMkXE5T
+					Q29sb3JTcGFjZVhOU09iamVjdNIfICYnV05T
+					Q29sb3KiJiQACAARABoAJAApADIANwBJAEwA
+					UQBTAFoAYABrAHgAfgCLAKAApwCvAM8A0QDT
+					ANUA3ADhAOcA6QDrAO0NOQ0+DUkNUg1fDWIN
+					bw14DX0NhQAAAAAAAAIBAAAAAAAAACgAAAAA
+					AAAAAAAAAAAAAA2I
+					</data>
+					<key>glow width</key>
+					<real>7</real>
+					<key>isGlow</key>
+					<false/>
+					<key>unit name</key>
+					<string>glowUnit</string>
+				</dict>
+				<key>gradient unit</key>
+				<dict>
+					<key>effect scale factor</key>
+					<real>1.3672223193982853</real>
+					<key>fill color</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25Z
+					JGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGG
+					oF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290
+					gAGjCwwTVSRudWxs0w0ODxAREldOU1doaXRl
+					XE5TQ29sb3JTcGFjZVYkY2xhc3NKMC42NjQw
+					NjI1ABAEgALSFBUWF1okY2xhc3NuYW1lWCRj
+					bGFzc2VzV05TQ29sb3KiFhhYTlNPYmplY3QI
+					ERokKTI3SUxRU1ddZGx5gIuNj5SfqLCzAAAA
+					AAAAAQEAAAAAAAAAGQAAAAAAAAAAAAAAAAAA
+					ALw=
+					</data>
+					<key>gradient angle</key>
+					<real>-90</real>
+					<key>gradient control</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25Z
+					JGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGG
+					oF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290
+					gAGvEBELDBMZIiMkJS0xODs/R0hMT1UkbnVs
+					bNMNDg8QERJfEBROU0dyYWRpZW50Q29sb3JT
+					cGFjZVYkY2xhc3NfEBROU0dyYWRpZW50Q29s
+					b3JBcnJheYAIgBCAAtIUDhUYWk5TLm9iamVj
+					dHOiFheAA4AMgA/TGhQOGx4hV05TLmtleXOi
+					HB2ABIAFoh8ggAaAB4ALXxASTlNHcmFkaWVu
+					dFBvc2l0aW9uXxAPTlNHcmFkaWVudENvbG9y
+					IwAAAAAAAAAA1CYnKA4pKhAsVU5TUkdCXE5T
+					Q29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JT
+					cGFjZUYwIDAgMAAQAYAIgArSLg4vMFROU0lE
+					EAGACdIyMzQ1WiRjbGFzc25hbWVYJGNsYXNz
+					ZXNcTlNDb2xvclNwYWNlojY3XE5TQ29sb3JT
+					cGFjZVhOU09iamVjdNIyMzk6V05TQ29sb3Ki
+					OTfSMjM8PV8QE05TTXV0YWJsZURpY3Rpb25h
+					cnmjPD43XE5TRGljdGlvbmFyedMaFA5AQyGi
+					HB2ABIAFokRFgA2ADoALIz/wAAAAAAAA1CYn
+					KA5JKhAsRjEgMSAxAIAIgArSMjNNTldOU0Fy
+					cmF5ok030jIzUFFaTlNHcmFkaWVudKJSN1pO
+					U0dyYWRpZW50AAgAEQAaACQAKQAyADcASQBM
+					AFEAUwBnAG0AdACLAJIAqQCrAK0ArwC0AL8A
+					wgDEAMYAyADPANcA2gDcAN4A4QDjAOUA5wD8
+					AQ4BFwEgASYBMwFIAU8BUQFTAVUBWgFfAWEB
+					YwFoAXMBfAGJAYwBmQGiAacBrwGyAbcBzQHR
+					Ad4B5QHoAeoB7AHvAfEB8wH1Af4CBwIOAhAC
+					EgIXAh8CIgInAjICNQAAAAAAAAIBAAAAAAAA
+					AFMAAAAAAAAAAAAAAAAAAAJA
+					</data>
+					<key>gradient offset</key>
+					<string>{0, 0}</string>
+					<key>gradient type</key>
+					<integer>0</integer>
+					<key>unit name</key>
+					<string>gradientUnit</string>
+				</dict>
+				<key>inner shadow unit</key>
+				<dict>
+					<key>composite operation</key>
+					<integer>0</integer>
+					<key>effect scale factor</key>
+					<real>1.3672223193982853</real>
+					<key>is inner shadow</key>
+					<false/>
+					<key>shadow angle</key>
+					<real>0.0</real>
+					<key>shadow blur</key>
+					<real>5</real>
+					<key>shadow color</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25Z
+					JGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGG
+					oF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290
+					gAGjCwwTVSRudWxs0w0ODxARElVOU1JHQlxO
+					U0NvbG9yU3BhY2VWJGNsYXNzSjAgMCAwIDAu
+					OAAQAYAC0hQVFhdaJGNsYXNzbmFtZVgkY2xh
+					c3Nlc1dOU0NvbG9yohYYWE5TT2JqZWN0CBEa
+					JCkyN0lMUVNXXWRqd36Ji42SnaausQAAAAAA
+					AAEBAAAAAAAAABkAAAAAAAAAAAAAAAAAAAC6
+					</data>
+					<key>shadow distance</key>
+					<real>0.0</real>
+					<key>shadow is shadow</key>
+					<false/>
+					<key>unit name</key>
+					<string>innerShadowUnit</string>
+					<key>width</key>
+					<real>0.0</real>
+				</dict>
+				<key>mask unit</key>
+				<dict>
+					<key>blur</key>
+					<real>0.0</real>
+					<key>effect scale factor</key>
+					<real>1.3672223193982853</real>
+					<key>isMask</key>
+					<false/>
+					<key>mask angle</key>
+					<real>0.0</real>
+					<key>mask brightness</key>
+					<real>0.0</real>
+					<key>mask contrast</key>
+					<real>1</real>
+					<key>mask data ref</key>
+					<string>Masks/Mask14.jpg</string>
+					<key>mask is inverse</key>
+					<false/>
+					<key>mask offset</key>
+					<string>{0, 0}</string>
+					<key>mask scale</key>
+					<real>0.5</real>
+					<key>opacity</key>
+					<real>1</real>
+					<key>texture type</key>
+					<integer>4</integer>
+					<key>unit name</key>
+					<string>maskUnit</string>
+				</dict>
+				<key>picture spray unit</key>
+				<dict>
+					<key>AmbientColorData</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25Z
+					JGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGG
+					oF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290
+					gAGjCwwTVSRudWxs0w0ODxARElVOU1JHQlxO
+					U0NvbG9yU3BhY2VWJGNsYXNzTDAuNSAwLjUg
+					MC41ABACgALSFBUWF1okY2xhc3NuYW1lWCRj
+					bGFzc2VzV05TQ29sb3KiFhhYTlNPYmplY3QI
+					ERokKTI3SUxRU1ddZGp3fouNj5SfqLCzAAAA
+					AAAAAQEAAAAAAAAAGQAAAAAAAAAAAAAAAAAA
+					ALw=
+					</data>
+					<key>DiffuseColorData</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25Z
+					JGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGG
+					oF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290
+					gAGjCwwTVSRudWxs0w0ODxARElVOU1JHQlxO
+					U0NvbG9yU3BhY2VWJGNsYXNzRjEgMSAxABAC
+					gALSFBUWF1okY2xhc3NuYW1lWCRjbGFzc2Vz
+					V05TQ29sb3KiFhhYTlNPYmplY3QIERokKTI3
+					SUxRU1ddZGp3foWHiY6ZoqqtAAAAAAAAAQEA
+					AAAAAAAAGQAAAAAAAAAAAAAAAAAAALY=
+					</data>
+					<key>Distrib Map Phase</key>
+					<string>{0, 0}</string>
+					<key>Distrib Map Position</key>
+					<string>{0, 0}</string>
+					<key>ShadowColorData</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25Z
+					JGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGG
+					oF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290
+					gAGjCwwTVSRudWxs0w0ODxARElVOU1JHQlxO
+					U0NvbG9yU3BhY2VWJGNsYXNzSjAgMCAwIDAu
+					OAAQAYAC0hQVFhdaJGNsYXNzbmFtZVgkY2xh
+					c3Nlc1dOU0NvbG9yohYYWE5TT2JqZWN0CBEa
+					JCkyN0lMUVNXXWRqd36Ji42SnaausQAAAAAA
+					AAEBAAAAAAAAABkAAAAAAAAAAAAAAAAAAAC6
+					</data>
+					<key>SpecularColorData</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25Z
+					JGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGG
+					oF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290
+					gAGjCwwTVSRudWxs0w0ODxARElVOU1JHQlxO
+					U0NvbG9yU3BhY2VWJGNsYXNzTxAPMC43NSAw
+					Ljc1IDAuNzUAEAKAAtIUFRYXWiRjbGFzc25h
+					bWVYJGNsYXNzZXNXTlNDb2xvcqIWGFhOU09i
+					amVjdAgRGiQpMjdJTFFTV11kand+kJKUmaSt
+					tbgAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAA
+					AAAAAAAAwQ==
+					</data>
+					<key>angle</key>
+					<real>0.0</real>
+					<key>angleFluctuation</key>
+					<real>1</real>
+					<key>brushToNormals</key>
+					<false/>
+					<key>cellSize</key>
+					<real>0.10000000000000001</real>
+					<key>disposition</key>
+					<real>0.69999999999999996</real>
+					<key>distrMapAngle</key>
+					<real>0.0</real>
+					<key>distrMapDataRef</key>
+					<string>Masks/clouds.jpg</string>
+					<key>distrMapPlacement</key>
+					<integer>4</integer>
+					<key>distrMapScale</key>
+					<real>1</real>
+					<key>effect scale factor</key>
+					<real>1.3672223193982853</real>
+					<key>heightMapScale</key>
+					<real>1</real>
+					<key>lightAmount</key>
+					<real>25</real>
+					<key>lightAngle</key>
+					<real>0.0</real>
+					<key>lightGlosiness</key>
+					<real>0.40000000000000002</real>
+					<key>lightOffset</key>
+					<real>0.78500000000000003</real>
+					<key>numberOfPasses</key>
+					<real>1</real>
+					<key>shadowAzimuth</key>
+					<real>0.0</real>
+					<key>shadowBlur</key>
+					<real>5</real>
+					<key>shadowOffset</key>
+					<real>0.0</real>
+					<key>sizeFluctuation</key>
+					<real>0.14000000000000001</real>
+					<key>unit name</key>
+					<string>pictureSprayUnit</string>
+					<key>useCustomDistrMap</key>
+					<integer>0</integer>
+					<key>useLights</key>
+					<false/>
+					<key>useShadow</key>
+					<false/>
+				</dict>
+				<key>shader unit</key>
+				<dict>
+					<key>Shader Relief Texture</key>
+					<dict>
+						<key>blur</key>
+						<real>1.8175551470588236</real>
+						<key>effect scale factor</key>
+						<real>1.3672223193982853</real>
+						<key>isMask</key>
+						<false/>
+						<key>mask angle</key>
+						<real>0.0</real>
+						<key>mask brightness</key>
+						<real>0.0</real>
+						<key>mask contrast</key>
+						<real>1</real>
+						<key>mask data ref</key>
+						<string>Misc/alien_shrooms.jpg</string>
+						<key>mask is inverse</key>
+						<true/>
+						<key>mask offset</key>
+						<string>{-429.68749999999994, 237.41319444444443}</string>
+						<key>mask scale</key>
+						<real>2.0462279319763184</real>
+						<key>opacity</key>
+						<real>1</real>
+						<key>texture type</key>
+						<integer>4</integer>
+						<key>unit name</key>
+						<string>maskUnit</string>
+					</dict>
+					<key>effect scale factor</key>
+					<real>1.3672223193982853</real>
+					<key>hasReliefTexture</key>
+					<true/>
+					<key>shader angleHue</key>
+					<real>0.01</real>
+					<key>shader category</key>
+					<string>Textures/3DEnvironment</string>
+					<key>shader depth</key>
+					<real>23.017626953125003</real>
+					<key>shader radiusHFFM</key>
+					<real>1.1328125</real>
+					<key>shader rotate</key>
+					<real>323.32263456722382</real>
+					<key>shader shape</key>
+					<integer>0</integer>
+					<key>shader title</key>
+					<string>env_62.jpg</string>
+					<key>unit name</key>
+					<string>shaderUnit</string>
+				</dict>
+				<key>shadow unit</key>
+				<dict>
+					<key>effect scale factor</key>
+					<real>1.3672223193982853</real>
+					<key>shadow angle</key>
+					<real>0.6397008221194046</real>
+					<key>shadow blur</key>
+					<real>0.0</real>
+					<key>shadow color</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25Z
+					JGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGG
+					oF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290
+					gAGjCwwTVSRudWxs0w0ODxARElVOU1JHQlxO
+					U0NvbG9yU3BhY2VWJGNsYXNzSjAgMCAwIDAu
+					OAAQAYAC0hQVFhdaJGNsYXNzbmFtZVgkY2xh
+					c3Nlc1dOU0NvbG9yohYYWE5TT2JqZWN0CBEa
+					JCkyN0lMUVNXXWRqd36Ji42SnaausQAAAAAA
+					AAEBAAAAAAAAABkAAAAAAAAAAAAAAAAAAAC6
+					</data>
+					<key>shadow distance</key>
+					<real>0.41463575857147422</real>
+					<key>shadow is shadow</key>
+					<false/>
+					<key>unit name</key>
+					<string>shadowUnit</string>
+				</dict>
+				<key>stroke unit</key>
+				<dict>
+					<key>Stroke List</key>
+					<array>
+						<dict>
+							<key>color</key>
+							<data>
+							YnBsaXN0MDDUAQIDBAUG
+							BwpYJHZlcnNpb25ZJGFy
+							Y2hpdmVyVCR0b3BYJG9i
+							amVjdHMSAAGGoF8QD05T
+							S2V5ZWRBcmNoaXZlctEI
+							CVRyb290gAGmCwwXHyAn
+							VSRudWxs1Q0ODxAREhMU
+							FRZXTlNXaGl0ZVxOU0Nv
+							bXBvbmVudHNcTlNDb2xv
+							clNwYWNlXxASTlNDdXN0
+							b21Db2xvclNwYWNlViRj
+							bGFzc0IwAEMwIDEQA4AC
+							gAXUGBkaERscHR5UTlNJ
+							RFVOU0lDQ1dOU01vZGVs
+							EAmAAxAAgARPERGcAAAR
+							nGFwcGwCAAAAbW50ckdS
+							QVlYWVogB9wACAAXAA8A
+							LgAPYWNzcEFQUEwAAAAA
+							bm9uZQAAAAAAAAAAAAAA
+							AAAAAAAAAPbWAAEAAAAA
+							0y1hcHBsAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAFZGVzYwAA
+							AMAAAAB5ZHNjbQAAATwA
+							AAgaY3BydAAACVgAAAAj
+							d3RwdAAACXwAAAAUa1RS
+							QwAACZAAAAgMZGVzYwAA
+							AAAAAAAfR2VuZXJpYyBH
+							cmF5IEdhbW1hIDIuMiBQ
+							cm9maWxlAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAAAA
+							AAAAAAAAAAAAAAAAAG1s
+							dWMAAAAAAAAAHwAAAAxz
+							a1NLAAAALgAAAYRkYURL
+							AAAAOgAAAbJjYUVTAAAA
+							OAAAAex2aVZOAAAAQAAA
+							AiRwdEJSAAAASgAAAmR1
+							a1VBAAAALAAAAq5mckZV
+							AAAAPgAAAtpodUhVAAAA
+							NAAAAxh6aFRXAAAAGgAA
+							A0xrb0tSAAAAIgAAA2Zu
+							Yk5PAAAAOgAAA4hjc0Na
+							AAAAKAAAA8JoZUlMAAAA
+							JAAAA+pyb1JPAAAAKgAA
+							BA5kZURFAAAATgAABDhp
+							dElUAAAATgAABIZzdlNF
+							AAAAOAAABNR6aENOAAAA
+							GgAABQxqYUpQAAAAJgAA
+							BSZlbEdSAAAAKgAABUxw
+							dFBPAAAAUgAABXZubE5M
+							AAAAQAAABchlc0VTAAAA
+							TAAABgh0aFRIAAAAMgAA
+							BlR0clRSAAAAJAAABoZm
+							aUZJAAAARgAABqpockhS
+							AAAAPgAABvBwbFBMAAAA
+							SgAABy5hckVHAAAALAAA
+							B3hydVJVAAAAOgAAB6Rl
+							blVTAAAAPAAAB94AVgFh
+							AGUAbwBiAGUAYwBuAOEA
+							IABzAGkAdgDhACAAZwBh
+							AG0AYQAgADIALAAyAEcA
+							ZQBuAGUAcgBpAHMAawAg
+							AGcAcgDlACAAMgAsADIA
+							IABnAGEAbQBtAGEALQBw
+							AHIAbwBmAGkAbABHAGEA
+							bQBtAGEAIABkAGUAIABn
+							AHIAaQBzAG8AcwAgAGcA
+							ZQBuAOgAcgBpAGMAYQAg
+							ADIALgAyAEMepQB1ACAA
+							aADsAG4AaAAgAE0A4AB1
+							ACAAeADhAG0AIABDAGgA
+							dQBuAGcAIABHAGEAbQBt
+							AGEAIAAyAC4AMgBQAGUA
+							cgBmAGkAbAAgAEcAZQBu
+							AOkAcgBpAGMAbwAgAGQA
+							YQAgAEcAYQBtAGEAIABk
+							AGUAIABDAGkAbgB6AGEA
+							cwAgADIALAAyBBcEMAQz
+							BDAEOwRMBD0EMAAgAEcA
+							cgBhAHkALQQzBDAEPAQw
+							ACAAMgAuADIAUAByAG8A
+							ZgBpAGwAIABnAOkAbgDp
+							AHIAaQBxAHUAZQAgAGcA
+							cgBpAHMAIABnAGEAbQBt
+							AGEAIAAyACwAMgDBAGwA
+							dABhAGwA4QBuAG8AcwAg
+							AHMAegD8AHIAawBlACAA
+							ZwBhAG0AbQBhACAAMgAu
+							ADKQGnUocHCWjlFJXqYA
+							MgAuADKCcl9pY8+P8Md8
+							vBgAINaMwMkAIKwQucgA
+							IAAyAC4AMgAg1QS4XNMM
+							x3wARwBlAG4AZQByAGkA
+							cwBrACAAZwByAOUAIABn
+							AGEAbQBtAGEAIAAyACwA
+							MgAtAHAAcgBvAGYAaQBs
+							AE8AYgBlAGMAbgDhACAB
+							YQBlAGQA4QAgAGcAYQBt
+							AGEAIAAyAC4AMgXSBdAF
+							3gXUACAF0AXkBdUF6AAg
+							BdsF3AXcBdkAIAAyAC4A
+							MgBHAGEAbQBhACAAZwBy
+							AGkAIABnAGUAbgBlAHIA
+							aQBjAQMAIAAyACwAMgBB
+							AGwAbABnAGUAbQBlAGkA
+							bgBlAHMAIABHAHIAYQB1
+							AHMAdAB1AGYAZQBuAC0A
+							UAByAG8AZgBpAGwAIABH
+							AGEAbQBtAGEAIAAyACwA
+							MgBQAHIAbwBmAGkAbABv
+							ACAAZwByAGkAZwBpAG8A
+							IABnAGUAbgBlAHIAaQBj
+							AG8AIABkAGUAbABsAGEA
+							IABnAGEAbQBtAGEAIAAy
+							ACwAMgBHAGUAbgBlAHIA
+							aQBzAGsAIABnAHIA5QAg
+							ADIALAAyACAAZwBhAG0A
+							bQBhAHAAcgBvAGYAaQBs
+							Zm6QGnBwXqZ8+2VwADIA
+							LgAyY8+P8GWHTvZOAIIs
+							MLAw7DCkMKww8zDeACAA
+							MgAuADIAIDDXMO0w1TCh
+							MKQw6wOTA7UDvQO5A7oD
+							zAAgA5MDugPBA7kAIAOT
+							A6wDvAO8A7EAIAAyAC4A
+							MgBQAGUAcgBmAGkAbAAg
+							AGcAZQBuAOkAcgBpAGMA
+							bwAgAGQAZQAgAGMAaQBu
+							AHoAZQBuAHQAbwBzACAA
+							ZABhACAARwBhAG0AbQBh
+							ACAAMgAsADIAQQBsAGcA
+							ZQBtAGUAZQBuACAAZwBy
+							AGkAagBzACAAZwBhAG0A
+							bQBhACAAMgAsADIALQBw
+							AHIAbwBmAGkAZQBsAFAA
+							ZQByAGYAaQBsACAAZwBl
+							AG4A6QByAGkAYwBvACAA
+							ZABlACAAZwBhAG0AbQBh
+							ACAAZABlACAAZwByAGkA
+							cwBlAHMAIAAyACwAMg4j
+							DjEOBw4qDjUOQQ4BDiEO
+							IQ4yDkAOAQ4jDiIOTA4X
+							DjEOSA4nDkQOGwAgADIA
+							LgAyAEcAZQBuAGUAbAAg
+							AEcAcgBpACAARwBhAG0A
+							YQAgADIALAAyAFkAbABl
+							AGkAbgBlAG4AIABoAGEA
+							cgBtAGEAYQBuACAAZwBh
+							AG0AbQBhACAAMgAsADIA
+							IAAtAHAAcgBvAGYAaQBp
+							AGwAaQBHAGUAbgBlAHIA
+							aQENAGsAaQAgAEcAcgBh
+							AHkAIABHAGEAbQBtAGEA
+							IAAyAC4AMgAgAHAAcgBv
+							AGYAaQBsAFUAbgBpAHcA
+							ZQByAHMAYQBsAG4AeQAg
+							AHAAcgBvAGYAaQBsACAA
+							cwB6AGEAcgBvAVsAYwBp
+							ACAAZwBhAG0AbQBhACAA
+							MgAsADIGOgYnBkUGJwAg
+							ADIALgAyACAGRAZIBkYA
+							IAYxBkUGJwYvBkoAIAY5
+							BicGRQQeBDEESQQwBE8A
+							IARBBDUEQAQwBE8AIAQz
+							BDAEPAQ8BDAAIAAyACwA
+							MgAtBD8EQAQ+BEQEOAQ7
+							BEwARwBlAG4AZQByAGkA
+							YwAgAEcAcgBhAHkAIABH
+							AGEAbQBtAGEAIAAyAC4A
+							MgAgAFAAcgBvAGYAaQBs
+							AGUAAHRleHQAAAAAQ29w
+							eXJpZ2h0IEFwcGxlIElu
+							Yy4sIDIwMTIAAFhZWiAA
+							AAAAAADzUQABAAAAARbM
+							Y3VydgAAAAAAAAQAAAAA
+							BQAKAA8AFAAZAB4AIwAo
+							AC0AMgA3ADsAQABFAEoA
+							TwBUAFkAXgBjAGgAbQBy
+							AHcAfACBAIYAiwCQAJUA
+							mgCfAKQAqQCuALIAtwC8
+							AMEAxgDLANAA1QDbAOAA
+							5QDrAPAA9gD7AQEBBwEN
+							ARMBGQEfASUBKwEyATgB
+							PgFFAUwBUgFZAWABZwFu
+							AXUBfAGDAYsBkgGaAaEB
+							qQGxAbkBwQHJAdEB2QHh
+							AekB8gH6AgMCDAIUAh0C
+							JgIvAjgCQQJLAlQCXQJn
+							AnECegKEAo4CmAKiAqwC
+							tgLBAssC1QLgAusC9QMA
+							AwsDFgMhAy0DOANDA08D
+							WgNmA3IDfgOKA5YDogOu
+							A7oDxwPTA+AD7AP5BAYE
+							EwQgBC0EOwRIBFUEYwRx
+							BH4EjASaBKgEtgTEBNME
+							4QTwBP4FDQUcBSsFOgVJ
+							BVgFZwV3BYYFlgWmBbUF
+							xQXVBeUF9gYGBhYGJwY3
+							BkgGWQZqBnsGjAadBq8G
+							wAbRBuMG9QcHBxkHKwc9
+							B08HYQd0B4YHmQesB78H
+							0gflB/gICwgfCDIIRgha
+							CG4IggiWCKoIvgjSCOcI
+							+wkQCSUJOglPCWQJeQmP
+							CaQJugnPCeUJ+woRCicK
+							PQpUCmoKgQqYCq4KxQrc
+							CvMLCwsiCzkLUQtpC4AL
+							mAuwC8gL4Qv5DBIMKgxD
+							DFwMdQyODKcMwAzZDPMN
+							DQ0mDUANWg10DY4NqQ3D
+							Dd4N+A4TDi4OSQ5kDn8O
+							mw62DtIO7g8JDyUPQQ9e
+							D3oPlg+zD88P7BAJECYQ
+							QxBhEH4QmxC5ENcQ9RET
+							ETERTxFtEYwRqhHJEegS
+							BxImEkUSZBKEEqMSwxLj
+							EwMTIxNDE2MTgxOkE8UT
+							5RQGFCcUSRRqFIsUrRTO
+							FPAVEhU0FVYVeBWbFb0V
+							4BYDFiYWSRZsFo8WshbW
+							FvoXHRdBF2UXiReuF9IX
+							9xgbGEAYZRiKGK8Y1Rj6
+							GSAZRRlrGZEZtxndGgQa
+							KhpRGncanhrFGuwbFBs7
+							G2MbihuyG9ocAhwqHFIc
+							exyjHMwc9R0eHUcdcB2Z
+							HcMd7B4WHkAeah6UHr4e
+							6R8THz4faR+UH78f6iAV
+							IEEgbCCYIMQg8CEcIUgh
+							dSGhIc4h+yInIlUigiKv
+							It0jCiM4I2YjlCPCI/Ak
+							HyRNJHwkqyTaJQklOCVo
+							JZclxyX3JicmVyaHJrcm
+							6CcYJ0kneierJ9woDSg/
+							KHEooijUKQYpOClrKZ0p
+							0CoCKjUqaCqbKs8rAis2
+							K2krnSvRLAUsOSxuLKIs
+							1y0MLUEtdi2rLeEuFi5M
+							LoIuty7uLyQvWi+RL8cv
+							/jA1MGwwpDDbMRIxSjGC
+							Mbox8jIqMmMymzLUMw0z
+							RjN/M7gz8TQrNGU0njTY
+							NRM1TTWHNcI1/TY3NnI2
+							rjbpNyQ3YDecN9c4FDhQ
+							OIw4yDkFOUI5fzm8Ofk6
+							Njp0OrI67zstO2s7qjvo
+							PCc8ZTykPOM9Ij1hPaE9
+							4D4gPmA+oD7gPyE/YT+i
+							P+JAI0BkQKZA50EpQWpB
+							rEHuQjBCckK1QvdDOkN9
+							Q8BEA0RHRIpEzkUSRVVF
+							mkXeRiJGZ0arRvBHNUd7
+							R8BIBUhLSJFI10kdSWNJ
+							qUnwSjdKfUrESwxLU0ua
+							S+JMKkxyTLpNAk1KTZNN
+							3E4lTm5Ot08AT0lPk0/d
+							UCdQcVC7UQZRUFGbUeZS
+							MVJ8UsdTE1NfU6pT9lRC
+							VI9U21UoVXVVwlYPVlxW
+							qVb3V0RXklfgWC9YfVjL
+							WRpZaVm4WgdaVlqmWvVb
+							RVuVW+VcNVyGXNZdJ114
+							XcleGl5sXr1fD19hX7Ng
+							BWBXYKpg/GFPYaJh9WJJ
+							Ypxi8GNDY5dj62RAZJRk
+							6WU9ZZJl52Y9ZpJm6Gc9
+							Z5Nn6Wg/aJZo7GlDaZpp
+							8WpIap9q92tPa6dr/2xX
+							bK9tCG1gbbluEm5rbsRv
+							Hm94b9FwK3CGcOBxOnGV
+							cfByS3KmcwFzXXO4dBR0
+							cHTMdSh1hXXhdj52m3b4
+							d1Z3s3gReG54zHkqeYl5
+							53pGeqV7BHtje8J8IXyB
+							fOF9QX2hfgF+Yn7CfyN/
+							hH/lgEeAqIEKgWuBzYIw
+							gpKC9INXg7qEHYSAhOOF
+							R4Wrhg6GcobXhzuHn4gE
+							iGmIzokziZmJ/opkisqL
+							MIuWi/yMY4zKjTGNmI3/
+							jmaOzo82j56QBpBukNaR
+							P5GokhGSepLjk02TtpQg
+							lIqU9JVflcmWNJaflwqX
+							dZfgmEyYuJkkmZCZ/Jpo
+							mtWbQpuvnByciZz3nWSd
+							0p5Anq6fHZ+Ln/qgaaDY
+							oUehtqImopajBqN2o+ak
+							VqTHpTilqaYapoum/adu
+							p+CoUqjEqTepqaocqo+r
+							Aqt1q+msXKzQrUStuK4t
+							rqGvFq+LsACwdbDqsWCx
+							1rJLssKzOLOutCW0nLUT
+							tYq2AbZ5tvC3aLfguFm4
+							0blKucK6O7q1uy67p7wh
+							vJu9Fb2Pvgq+hL7/v3q/
+							9cBwwOzBZ8Hjwl/C28NY
+							w9TEUcTOxUvFyMZGxsPH
+							Qce/yD3IvMk6ybnKOMq3
+							yzbLtsw1zLXNNc21zjbO
+							ts83z7jQOdC60TzRvtI/
+							0sHTRNPG1EnUy9VO1dHW
+							VdbY11zX4Nhk2OjZbNnx
+							2nba+9uA3AXcit0Q3Zbe
+							HN6i3ynfr+A24L3hROHM
+							4lPi2+Nj4+vkc+T85YTm
+							DeaW5x/nqegy6LzpRunQ
+							6lvq5etw6/vshu0R7Zzu
+							KO6070DvzPBY8OXxcvH/
+							8ozzGfOn9DT0wvVQ9d72
+							bfb794r4Gfio+Tj5x/pX
+							+uf7d/wH/Jj9Kf26/kv+
+							3P9t///SISIjJFokY2xh
+							c3NuYW1lWCRjbGFzc2Vz
+							XE5TQ29sb3JTcGFjZaIl
+							JlxOU0NvbG9yU3BhY2VY
+							TlNPYmplY3TSISIoKVdO
+							U0NvbG9yoigmAAgAEQAa
+							ACQAKQAyADcASQBMAFEA
+							UwBaAGAAawBzAIAAjQCi
+							AKkArACwALIAtAC2AL8A
+							xADKANIA1ADWANgA2hJ6
+							En8SihKTEqASoxKwErkS
+							vhLGAAAAAAAAAgEAAAAA
+							AAAAKgAAAAAAAAAAAAAA
+							AAAAEsk=
+							</data>
+							<key>width</key>
+							<real>21.942298318537546</real>
+						</dict>
+					</array>
+					<key>effect scale factor</key>
+					<real>1.3672223193982853</real>
+					<key>stroke</key>
+					<true/>
+					<key>unit name</key>
+					<string>strokeUnit</string>
+				</dict>
+				<key>texture unit</key>
+				<dict>
+					<key>effect scale factor</key>
+					<real>1.3672223193982853</real>
+					<key>texture angle</key>
+					<real>0.0</real>
+					<key>texture apply effect</key>
+					<true/>
+					<key>texture phase</key>
+					<string>{0, 0}</string>
+					<key>texture scale</key>
+					<real>1</real>
+					<key>texture type</key>
+					<integer>4</integer>
+					<key>unit name</key>
+					<string>textureUnit</string>
+				</dict>
+			</dict>
+		</dict>
+	</array>
+	<key>previewDocumentGUID</key>
+	<string>1FA4DBFE-C561-401F-84ED-580E1401A413</string>
+	<key>version</key>
+	<integer>822</integer>
+</dict>
+</plist>
